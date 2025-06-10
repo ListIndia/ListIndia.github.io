@@ -78,7 +78,7 @@
       <div class="mt-4 d-flex flex-wrap gap-2">
         <span class="badge bg-light text-dark border" *ngIf="seller.build_type">{{ seller.build_type }}</span>
         <span class="badge bg-light text-dark border" *ngIf="seller.material">{{ seller.material }}</span>
-        <span class="badge bg-light text-dark border" *ngFor="let category of seller.categories">{{ category }}</span>
+        <span class="badge bg-light text-dark border" *ngIf="seller.categories">{{ seller.categories }}</span>
       </div>
     </div>
 

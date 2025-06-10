@@ -34,7 +34,7 @@ export class SearchPageComponent implements OnInit {
       this.searchFilter = query.length != 0;
       this.sellers = this.originalData.filter(val =>
         (this.locationFilter ? val.location?.toLowerCase().includes(location) : true)
-      && (this.searchFilter ? val.title?.toLowerCase().includes(query) || val.categories?.includes(query): true));
+      && (this.searchFilter ? val.title?.toLowerCase().includes(query) || val.company_name?.includes(query) || val.categories?.includes(query) || val.description?.includes(query): true));
       // Fetch results based on these values
     });
 }

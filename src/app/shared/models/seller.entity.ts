@@ -4,7 +4,7 @@ export type Seller = {
   "price"?: { amount: string, quantity: string },
   "location": string,
   "description"?: string,
-  "categories"?: string[],
+  "categories"?: string,
   "build_type"?: string,
   "material"?: string,
   "company_website"?: string,
