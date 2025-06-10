@@ -1,0 +1,110 @@
+<div class="container my-3">
+  <div *ngIf="seller" class="row g-4">
+
+    <!-- Carousel Section -->
+    <div class="col-md-6">
+      <div id="sellerCarousel" class="carousel slide position-relative shadow rounded" data-bs-ride="carousel">
+        <div class="carousel-inner rounded-3 overflow-hidden">
+          <div class="carousel-item" *ngFor="let image of seller.images; let i = index" [class.active]="i === 0">
+            <div class="ratio ratio-4x3 bg-light d-flex align-items-center justify-content-center">
+              <img
+                [src]="image"
+                class="d-block w-100 h-100"
+                [alt]="seller.company_name"
+                style="object-fit: contain;" />
+            </div>
+          </div>
+        </div>
+        <button class="carousel-control-prev bg-dark bg-opacity-50 rounded-circle p-2" type="button" data-bs-target="#sellerCarousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next bg-dark bg-opacity-50 rounded-circle p-2" type="button" data-bs-target="#sellerCarousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon"></span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Seller Main Info -->
+    <div class="col-md-6">
+      <h3 class="fw-bold mb-2 text-dark">
+        {{ seller.title }}
+      </h3>
+
+      <div *ngIf="seller.gst_verified" class="mb-2 text-success fw-semibold">
+        ✅ GST Verified Business
+      </div>
+
+      <p class="text-muted small mb-1">{{ seller.company_name }}</p>
+
+      <div *ngIf="seller.price" class="mb-3">
+        <span class="fw-bold fs-5 text-primary">₹{{ seller.price.amount }}</span>
+        <span class="text-muted"> / {{ seller.price.quantity || 'unit' }}</span>
+      </div>
+
+      <div *ngIf="seller.contact_number" class="mb-3">
+        <a class="btn btn-outline-primary btn-sm d-inline-flex align-items-center" href="#" (click)="callSeller($event)">
+          <i class="bi bi-telephone me-2"></i> Contact Seller
+        </a>
+      </div>
+
+      <div *ngIf="seller.company_website" class="mb-2">
+        <i class="bi bi-globe me-1 text-muted"></i>
+        <a [href]="seller.company_website" target="_blank" rel="noopener" class="text-decoration-none link-primary">
+          {{ seller.company_website }}
+        </a>
+      </div>
+
+      <div *ngIf="seller.map" class="mb-2">
+        <i class="bi bi-geo-alt me-1 text-muted"></i>
+        <a [href]="seller.map" target="_blank" rel="noopener" class="text-decoration-none link-primary">
+          View Location
+        </a>
+      </div>
+
+      <div *ngIf="seller.youtube_video" class="mb-2">
+        <i class="bi bi-youtube me-1 text-danger"></i>
+        <a [href]="seller.youtube_video" target="_blank" rel="noopener" class="text-decoration-none">
+          Watch Product Video
+        </a>
+      </div>
+
+      <div *ngIf="seller.youtube_channel" class="mb-3">
+        <i class="bi bi-youtube me-1 text-danger"></i>
+        <a [href]="seller.youtube_channel" target="_blank" rel="noopener" class="text-decoration-none">
+          Visit YouTube Channel
+        </a>
+      </div>
+
+      <div class="mt-4 d-flex flex-wrap gap-2">
+        <span class="badge bg-light text-dark border" *ngIf="seller.build_type">{{ seller.build_type }}</span>
+        <span class="badge bg-light text-dark border" *ngIf="seller.material">{{ seller.material }}</span>
+        <span class="badge bg-light text-dark border" *ngFor="let category of seller.categories">{{ category }}</span>
+      </div>
+    </div>
+
+    <!-- Detailed Info Table -->
+    <div class="col-12">
+      <h5 class="mt-0 mb-3 border-bottom pb-1">More Details</h5>
+      <div class="table-responsive">
+        <table class="table table-bordered table-hover align-middle">
+          <tbody>
+          <tr *ngFor="let item of seller | keyvalue">
+            <ng-container *ngIf="item.value !== undefined && !['images', 'map', 'youtube_video', 'youtube_channel', 'company_name', 'contact_number', 'company_website', 'price', 'title', 'categories', 'material', 'build_type', 'gst_verified', 'id', 'location'].includes(item.key)">
+              <th class="text-capitalize w-25 bg-light">{{ item.key.replace("_", " ") }}</th>
+              <td>
+                <ng-container *ngIf="item.value && !isArray(item.value)">
+                  {{ item.value }}
+                </ng-container>
+                <ng-container *ngIf="item.value && isArray(item.value)">
+                  {{ item.value.join(', ') }}
+                </ng-container>
+              </td>
+            </ng-container>
+          </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+  </div>
+</div>

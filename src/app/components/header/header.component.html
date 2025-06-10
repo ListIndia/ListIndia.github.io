@@ -1,0 +1,67 @@
+<nav class="navbar" style="background-color: rgb(34, 47, 62);">
+  <div class="container-fluid px-3">
+
+    <!-- Row 1: Logo + Sidebar Toggle -->
+    <div class="d-flex justify-content-between align-items-center w-100">
+
+      <!-- Logo -->
+      <a class="navbar-brand d-flex align-items-center fw-semibold fs-4 mb-0"
+         routerLink="/"
+         style="color: rgb(243, 168, 70); gap: 0.25rem;">
+        <i class="bi bi-globe2" style="font-size: 1.3rem;"></i>
+        <span><span style="font-weight: 600;">List</span><span style="font-weight: 400;">India</span></span>
+      </a>
+
+      <!-- Sidebar Toggle -->
+      <button class="navbar-toggler p-0 bg-transparent" type="button" data-bs-toggle="offcanvas"
+              data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+        <i class="bi bi-list text-white fs-3"></i>
+      </button>
+    </div>
+
+    <!-- Row 2: Search Bar -->
+    <div class="w-100">
+      <app-search-box class="w-100"></app-search-box>
+    </div>
+
+    <!-- Offcanvas Sidebar -->
+    <div class="offcanvas offcanvas-end text-white" tabindex="-1" id="offcanvasNavbar"
+         #offcanvas style="background-color: rgb(34, 47, 62); width: 220px;">
+      <div class="offcanvas-header">
+        <a class="navbar-brand d-flex align-items-center fw-semibold fs-4 mb-0"
+           routerLink="/"
+           style="color: rgb(243, 168, 70); gap: 0.25rem;"
+           data-bs-dismiss="offcanvas">
+          <i class="bi bi-globe2" style="font-size: 1.3rem;"></i>
+          <span><span style="font-weight: 600;">List</span><span style="font-weight: 400;">India</span></span>
+        </a>
+        <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+
+      <div class="offcanvas-body">
+        <ul class="navbar-nav d-flex flex-column">
+          <li class="nav-item">
+            <a class="nav-link text-white" routerLink="/pricing" data-bs-dismiss="offcanvas">
+              <i class="bi bi-currency-rupee me-2"></i>Pricing
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-white"
+               href="https://docs.google.com/forms/d/e/1FAIpQLSd5TqR5yzUrjJ8MtuO6cvrvv10U5ZfDzP8ofM-o0kFuLuryKA/viewform?usp=sharing&ouid=107245338941772337285"
+               target="_blank" (click)="closeOffcanvas(offcanvas)">
+              <i class="bi bi-person-plus me-2"></i>Seller Registration
+            </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link text-white"
+               href="https://docs.google.com/forms/d/e/1FAIpQLSfGxj0ir2S4wB5VqZaBkQCw4bLbUGp_R00Kn2vYaVxs1W8XKA/viewform?usp=sharing&ouid=107245338941772337285"
+               target="_blank" rel="noopener noreferrer" (click)="closeOffcanvas(offcanvas)">
+              <i class="bi bi-headset me-2"></i>Contact Support
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+  </div>
+</nav>

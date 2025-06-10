@@ -1,0 +1,15 @@
+<img src="home-banner.png" style="width: 100%; padding: 10px 10px; border-radius: 20px" />
+<div class="container-fluid" style="padding-top: 10px">
+  <h1 class="fw-bold mb-4 display-6 text-dark">Products You May Like</h1>
+  <!-- Results Section -->
+  <div *ngIf="sellers.length" class="search-page narrow-container rounded-4 pt-3 pb-3">
+    <div class="seller-flex-wrap">
+      <app-seller-card
+        *ngFor="let seller of sellers"
+        [seller]="seller"
+        class="seller-card"
+      ></app-seller-card>
+    </div>
+  </div>
+</div>
+

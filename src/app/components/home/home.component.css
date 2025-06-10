@@ -1,0 +1,55 @@
+/*.seller-flex-wrap {*/
+/*  display: flex;*/
+/*  flex-wrap: wrap;*/
+/*  row-gap: 15px;*/
+/*  width: 100%;*/
+/*  justify-content: space-evenly;*/
+/*}*/
+/*app-seller-card {*/
+/*  max-width: 100%; !* prevents overflow *!*/
+/*}*/
+
+/*.search-page {*/
+/*  background-color: rgba(227, 230, 230, 1);*/
+/*}*/
+
+
+/* Search Page Wrapper */
+.search-page {
+  background-color: #f9fafb;
+  border: 1px solid #e1e4e8;
+  min-height: 60vh;
+  border-radius: 1rem;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+  transition: background-color 0.3s ease;
+}
+
+/* Flex Layout for Cards */
+.seller-flex-wrap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-evenly;
+}
+
+/* Seller Card Style */
+app-seller-card.seller-card {
+  flex: 0 0 auto;
+  width: 160px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border-radius: 0.75rem;
+}
+
+/* Hover Effect for Cards */
+app-seller-card.seller-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+/* Empty State Styling */
+.empty-state {
+  border: 2px dashed #d1d5db;
+  background-color: #ffffff;
+  border-radius: 0.75rem;
+}
+
