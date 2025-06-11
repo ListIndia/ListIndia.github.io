@@ -1,0 +1,61 @@
+<div class="container my-4">
+  <h2 class="mb-3">Create Seller</h2>
+
+  <div class="mb-2">
+    <label class="form-label fw-bold">UUID</label>
+    <div class="d-flex align-items-center gap-2">
+      <input type="text" class="form-control" [value]="seller.id" readonly>
+      <button class="btn btn-outline-secondary btn-sm" (click)="copyToClipboard(seller.id)">Copy UUID</button>
+    </div>
+  </div>
+
+  <div class="mb-2" *ngFor="let field of mainFields">
+    <label class="form-label text-capitalize">{{ field.replace('_', ' ') }}</label>
+    <ng-container [ngSwitch]="field">
+      <div *ngSwitchCase="'price'" class="d-flex gap-2">
+        <input [(ngModel)]="seller.price.amount" class="form-control" placeholder="Amount">
+        <input [(ngModel)]="seller.price.quantity" class="form-control" placeholder="Quantity">
+      </div>
+
+      <div *ngSwitchCase="'images'">
+        <input [(ngModel)]="imageInput" class="form-control mb-1" placeholder="Add image URL">
+        <button class="btn btn-sm btn-outline-primary mb-2" (click)="addImage()">Add Image</button>
+        <ul class="list-group small">
+          <li class="list-group-item d-flex justify-content-between align-items-center" *ngFor="let img of seller.images; let i = index">
+            {{ img }}
+            <button class="btn btn-sm btn-danger" (click)="removeImage(i)">Remove</button>
+          </li>
+        </ul>
+      </div>
+
+      <div *ngSwitchCase="'gst_verified'" class="form-check form-switch">
+        <input class="form-check-input" type="checkbox" [(ngModel)]="seller.gst_verified" id="gstSwitch">
+        <label class="form-check-label" for="gstSwitch">GST Verified</label>
+      </div>
+
+      <input *ngSwitchDefault [(ngModel)]="seller[field]" class="form-control">
+    </ng-container>
+  </div>
+
+  <hr>
+
+  <h5>Add Custom Fields</h5>
+  <div class="d-flex gap-2 mb-2">
+    <input [(ngModel)]="customKey" class="form-control" placeholder="Key">
+    <input [(ngModel)]="customValue" class="form-control" placeholder="Value">
+    <button class="btn btn-outline-success" (click)="addCustomField()">Add</button>
+  </div>
+
+  <div *ngIf="customFields.length">
+    <ul class="list-group">
+      <li class="list-group-item d-flex justify-content-between align-items-center" *ngFor="let field of customFields">
+        {{ field.key }}: {{ field.value }}
+        <button class="btn btn-sm btn-danger" (click)="removeCustomField(field.key)">Remove</button>
+      </li>
+    </ul>
+  </div>
+
+  <div class="mt-4 d-flex gap-2">
+    <button class="btn btn-primary" (click)="copyFinalObject()">Copy Seller Object</button>
+  </div>
+</div>

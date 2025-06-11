@@ -3,6 +3,7 @@ import {SearchPageComponent} from './components/search-page/search-page.componen
 import {SellerInfoComponent} from './components/seller-info/seller-info.component';
 import {HomeComponent} from './components/home/home.component';
 import {PricingComponent} from './components/pricing/pricing.component';
+import {SellerFormComponent} from './components/seller-form/seller-form.component';
 
 export const routes: Routes = [
   {
@@ -12,6 +13,10 @@ export const routes: Routes = [
   {
     path: 'search',
     component: SearchPageComponent,
+  },
+  {
+    path: 'sellerform27756',
+    component: SellerFormComponent,
   },
   {
     path: 'pricing',
