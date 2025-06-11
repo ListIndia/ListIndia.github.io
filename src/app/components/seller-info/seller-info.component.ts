@@ -5,14 +5,16 @@ import {CommonModule} from '@angular/common';
 import {ActivatedRoute} from '@angular/router';
 import {Seller} from '../../shared/models/seller.entity';
 import {environment} from '../../shared/environment';
+import {QRCodeComponent} from 'angularx-qrcode';
 
 @Component({
   selector: 'app-seller-info',
-  imports: [CommonModule],
+  imports: [CommonModule, QRCodeComponent],
   templateUrl: './seller-info.component.html',
   styleUrl: './seller-info.component.css'
 })
 export class SellerInfoComponent implements OnInit {
+  currentUrl: string = '';
   key = environment.secretKey;
   constructor(private route: ActivatedRoute) {}
   seller?: Seller;
@@ -23,9 +25,9 @@ export class SellerInfoComponent implements OnInit {
     if(!this.seller) {
       this.seller = Data.filter(item => item.id == sellerId)[0];
     }
+    this.currentUrl = window.location.href;
   }
   protected readonly Object = Object;
-  protected readonly Array = Array;
 
   isArray(value: any): boolean {
     return Array.isArray(value);

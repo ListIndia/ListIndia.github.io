@@ -111,4 +111,13 @@
     </div>
 
   </div>
+  <div class="mt-4 text-center">
+      <h6>Seller QR Code</h6>
+      <qrcode
+        [qrdata]="currentUrl"
+        [width]="150"
+        [errorCorrectionLevel]="'M'"
+        class="d-inline-block border rounded p-2 bg-white shadow-sm">
+      </qrcode>
+  </div>
 </div>
