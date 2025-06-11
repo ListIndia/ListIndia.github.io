@@ -15,6 +15,7 @@ export const recentData: Seller[] = [
     youtube_channel: "youtube.com",
     youtube_video: "www.youtube.com",
     images: ["home-banner.png", "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg", "unsplash.jpg"],
+    map: "https://maps.app.goo.gl/au9YK6ci4H4SKWdUA"
   },
   {
     id: "2",

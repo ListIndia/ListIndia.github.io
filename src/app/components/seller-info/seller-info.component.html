@@ -88,8 +88,12 @@
       <div class="table-responsive">
         <table class="table table-bordered table-hover align-middle">
           <tbody>
+          <tr *ngIf="seller.description">
+            <th class="text-capitalize w-25 bg-light">Description</th>
+            <td>{{seller.description}}</td>
+          </tr>
           <tr *ngFor="let item of seller | keyvalue">
-            <ng-container *ngIf="item.value !== undefined && !['images', 'map', 'youtube_video', 'youtube_channel', 'company_name', 'contact_number', 'company_website', 'price', 'title', 'categories', 'material', 'build_type', 'gst_verified', 'id', 'location'].includes(item.key)">
+            <ng-container *ngIf="item.value !== undefined && !['description','images', 'map', 'youtube_video', 'youtube_channel', 'company_name', 'contact_number', 'company_website', 'price', 'title', 'gst_verified', 'id', 'location'].includes(item.key)">
               <th class="text-capitalize w-25 bg-light">{{ item.key.replace("_", " ") }}</th>
               <td>
                 <ng-container *ngIf="item.value && !isArray(item.value)">
