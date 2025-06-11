@@ -1,11 +1,12 @@
 import {Component, OnInit} from '@angular/core';
 import {Data} from '../../shared/data/data';
-import {recentData} from '../../../../recent.data';
 import {CommonModule} from '@angular/common';
 import {ActivatedRoute} from '@angular/router';
 import {Seller} from '../../shared/models/seller.entity';
 import {environment} from '../../shared/environment';
 import {QRCodeComponent} from 'angularx-qrcode';
+import {DataService} from '../../data.service';
+import {Observable} from 'rxjs';
 
 @Component({
   selector: 'app-seller-info',
@@ -15,16 +16,21 @@ import {QRCodeComponent} from 'angularx-qrcode';
 })
 export class SellerInfoComponent implements OnInit {
   currentUrl: string = '';
+  recentData: Seller[] = [];
   key = environment.secretKey;
-  constructor(private route: ActivatedRoute) {}
+  constructor(private route: ActivatedRoute, private dataService: DataService) {}
   seller?: Seller;
 
   ngOnInit() {
     const sellerId: string = this.route.snapshot.params['sellerId'];
-    this.seller = recentData.filter(item => item.id == sellerId)[0];
-    if(!this.seller) {
-      this.seller = Data.filter(item => item.id == sellerId)[0];
-    }
+    (this.dataService.getData() as Observable<{data: Seller[]}>).subscribe(res => {
+      this.recentData = res.data;
+      this.seller = this.recentData.filter(item => item.id == sellerId)[0];
+      if(!this.seller) {
+        this.seller = Data.filter(item => item.id == sellerId)[0];
+      }
+    });
+
     this.currentUrl = window.location.href;
   }
   protected readonly Object = Object;

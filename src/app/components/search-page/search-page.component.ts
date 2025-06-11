@@ -29,7 +29,6 @@ export class SearchPageComponent implements OnInit {
     this.route.queryParams.subscribe(params => {
       const location = params['location'].toLowerCase();
       const query = params['q'].trim().toLowerCase();
-      console.log('Location:', location, 'Search term:', query);
       this.locationFilter = location != locations[0].toLowerCase();
       this.searchFilter = query.length != 0;
       this.sellers = this.originalData.filter(val =>
