@@ -3,7 +3,7 @@
 <div class="seller-card card shadow-sm rounded-4 border-0" style="width: 160px;"  routerLink="/seller/{{seller.id}}">
   <div class="ratio ratio-1x1 overflow-hidden rounded-top">
     <img
-      [src]="seller.images[0]"
+      [src]="seller.images[0] || 'no-image-provided.webp'"
       class="card-img-top object-fit-cover transition-transform"
       alt="{{ seller.title }}"
       style="object-fit: cover; transition: transform 0.3s ease-in-out;"
