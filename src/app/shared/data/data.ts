@@ -2,6 +2,185 @@ import {Seller} from '../models/seller.entity';
 
 export const Data: Seller[] = [
   {
+    "id": "a39bd3dd-d279-4aff-9ce2-35282c032ef0",
+    "title": "Curve 12 mm Bending Toughened Glass",
+    "location": "Pune, Maharashtra",
+    "description": "Our 5mm Bending Toughened Glass offers exceptional strength, versatility, and aesthetic appeal, making it ideal for projects that require curved glass components. Designed for high-performance and durability, this glass can be bent into custom shapes while maintaining its safety features and clarity, making it perfect for both residential and commercial applications.",
+    "categories": "Bending Toughened Glass",
+    "company_name": "I. A. M.Toughened Glass",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "1000",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_2.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_21.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_35.jpg"
+    ]
+  },
+  {
+    "id": "6913d30c-fb5d-48e2-8c84-7e91729825a1",
+    "title": "Toughened Glass Door, Height: 80 Inch",
+    "location": "Pune, Maharashtra",
+    "description": "Vakratunda Traders - Retail Trader And Wholesaler of kitchen trolley, glazing profile &amp; shower hinges since 2017 in Pune, Maharashtra.",
+    "categories": "Toughened Glass Door, Toughened Glass",
+    "company_name": "Vakratunda Traders",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "200",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_26.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_32.jpg"
+    ]
+  },
+  {
+    "id": "8dcc1601-5298-48ef-856c-8fdeb91853f2",
+    "title": "Skylight Glass Work Service",
+    "location": "Pune, Maharashtra",
+    "description": "With enriched industrial experience and knowledge, we are providing a qualitative Skylight Glass Work Service. The provided service is executed as per the requirements of our precious clients. Our experts check all the steps and parameters associated to this service and carry out it in the best possible manner. Our professionals use high grade tools and latest technology to execute this service. Furthermore, the offered service can be availed by our precious clients at most reasonable price.&nbsp;",
+    "categories": "Designer Glass Works, Skylight Fabrication",
+    "company_name": "Trulite Facade System",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_2.jpg"
+    ]
+  },
+  {
+    "id": "80ce7fbe-33da-4ce9-9f8e-8bb143327a55",
+    "title": "Transparent Plain Glass Etching Services",
+    "location": "Pune, Maharashtra",
+    "description": "Glass Etching&nbsp;is a process used to create decorative or functional patterns on glass surfaces by using abrasive, acidic, or laser techniques. It is widely used in interior design, signage, and artistic applications. Types of Glass Etching: Acid Etching&nbsp;&ndash; Uses hydrofluoric acid to create a smooth, frosted effect on glass. Sandblasting&nbsp;&ndash; High-pressure sand or abrasive material is used to carve or frost the glass. Laser Etching&nbsp;&ndash; A precise method that engraves detailed designs onto the glass surface. Cream Etching&nbsp;&ndash; Uses chemical creams to create designs, often used for DIY projects. Applications: \ufffd\ufffd\ufffd&nbsp;Decorative Windows &amp; Doors&nbsp;&ndash; Adds privacy while maintaining elegance.\ufffd\ufffd\ufffd&nbsp;Glass Partitions &amp; Office Branding&nbsp;&ndash; Enhances corporate identity with logos or patterns.\ufffd\ufffd\ufffd&nbsp;Mirrors &amp; Showpieces&nbsp;&ndash; Personalized designs for aesthetics.\ufffd\ufffd\ufffd&nbsp;Signage &amp; Storefronts&nbsp;&ndash; Creates an upscale, custom appearance.",
+    "categories": "Etched Glass Work, Etched Glass",
+    "company_name": "Shubh Interior Solutions LLP",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "200",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_20.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_6.jpeg"
+    ]
+  },
+  {
+    "id": "a32c1921-ccae-4598-bfac-e8fdd346c9b7",
+    "title": "Interior Glass Work",
+    "location": "Pune, Maharashtra",
+    "description": "We offer clients with services regarding Glass work Service, which includes various partition work.",
+    "categories": "Designer Glass Works",
+    "company_name": "Famous Furniture & Interior Contractor",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "650",
+      "quantity": "Square Feet"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_24.png"
+    ]
+  },
+  {
+    "id": "45c9f833-443e-493b-aa46-98318bda39b7",
+    "title": "Transparent 10mm Saint Gobain Toughened Glass",
+    "location": "Pune, Maharashtra",
+    "description": "Toughened glass or tempered glass is glass that has undergone processes of controlled thermal treatment to increase its strength. It is four times stronger than normal annealed glass. Toughened glass is made from annealed glass that has been heated to approximately 650???C and then rapidly cooled. Due to the increased heat treatment and rapid cooling of the glass, the treatment produces different physical properties. This results in compressive stress on the surface and improved bending strength of glass. Before toughening, the glass must be cut to size or pressed to shape.Characteristics of Toughened Glass: Toughening does not alter the basic characteristics of glass like light transmission and solar radiant heat properties of normal glass. It can neither be cut, nor altered. Toughened glass is known to have higher thermal strength, with the ability to withstand high temperature changes up to 250&deg;C. A safety glass, toughened glass is difficult to break but in the event of a breakage, disintegrates into small globules . However, it is prone to very rare spontaneous breakage, a condition that occurs when the repeated heating and cooling cause the nickel sulfide stones to increase in size.Annealed Glass vs Toughened Glass:&nbsp; ParametersToughened GlassAnnealed GlassHeating TemperatureHeated to over 1,100 &deg;FHeated between 850 &deg;F and 900 &deg;FStrengthKnown for its strength and durability. Four times stronger than annealed glassBrittle and lacks enduranceBreakage PatternDoes not break easily; In the rare event of breakage, shatters into small, pebble-like piecesBreaks under pressure; Breakage results in dangerous, jagged edgesSafetyOffers greater safety due to its resilienceRelatively unsafe due to its delicate natureFlexibilityCan&rsquo;t be altered after temperingCan be cut, drilled, or polishedApplication areaAppropriate for high-traffic areasInappropriate for high-traffic areasDistortion TypeBow & Warp Distortion Can OccurFree from Bow, Wave or Warp Distortion&nbsp;The Process of Toughening: First, the glass is carried by rollers and goes through the furnace. Here, three types of modes are used to heat the glass, viz., conduction, convection and radiation. While the rollers help to conduct the heat, the coils enable radiation of heat. This ensures that the glass is evenly heated on every side. By blasting air on both the surfaces, the heated glass is then cooled uniformly.Why the Need for Toughened Glass: &nbsp;Toughened Glass has high withstanding capacity and is therefore suitable for uses where strength and thermal resistance are crucial. It is nearly four to five times stronger than annealed glass, and thrice as strong as heat strengthened glass. Even during breakage, its relatively small pieces reduce the chances of injury. Toughened Glass is ideal in spider and point fixed glazing owing to its high edge strength tempered glass. Glass is susceptible to thermal breakage with drastic changes in temperature. This is more so when temperature rises above 32&deg;C, building up stress within the glass. But with toughened glass, there is significantly higher edge strength to resist thermal breakage.What makes Toughened Glass ideal for homes:&nbsp;Toughened Glass is the ideal solution for every space that demands the highest level of safety, and hence perfect for homes.",
+    "categories": "Toughened Glass",
+    "company_website": "https://www.westernplyglassaluminium.com/",
+    "company_name": "Western Ply Glass And Aluminium",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "150",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_35.jpg"
+    ]
+  },
+  {
+    "id": "159dada2-e8d3-40a8-b1af-c2ee37833973",
+    "title": "Polished Office Window Glass, For Home",
+    "location": "Pune, Maharashtra",
+    "description": "Welcome to the ultimate destination of Perfect interior &amp; Exterior Decoration of your Office, Home, Hotel, Industry &amp; Other Living Space. The main Purpose of interior design is to create a comfortable and aesthetically pleasing interior space. Contrary to popular belief; interior design is more than just decorating, although that is a part of it. In fact, designing the interior of a building begins well before it is even built. An interior designer is a type of designer that helps plan and decorate interior spaces in either commercial or residential spaces. As with many other professions, an interior designer will often specialize in a certain area of interior design. Interior designers make interior spaces functional, safe, and beautiful by determining space requirements and selecting decorative items, such as colors, lighting, and materials. They read blueprints and must be aware of building codes and inspection regulations .It&rsquo;s probably the least glamorous part of web design, but information design is by no means the least important. Locating and consuming information is the quintessential web tasks, far surpassing buying, playing and communicating, all of which include a good portion of information design themselves. How users find and then avail themselves of all that information is affected by how it is structured and presented. Thus every web designer should be equipped to make qualified and informed decisions on just how to do this. It&rsquo;s pretty hard to organize a bunch of stuff if you don&rsquo;t know what that stuff actually is. So your first task is to skim through the site&rsquo;s content, processes and goals. A site&rsquo;s content means copy, images, video and other assets you&rsquo;ve been given or briefed on that needs to go into the site. A site&rsquo;s processes are the tasks and workflows that users will need to complete to interact with a site. And the site&rsquo;s goals refer to both the client&rsquo;s goals and the user&rsquo;s. What We&rsquo;re About: We are one of upcoming and most promising supplier of an assortment of sliding doors, windows, Toughened Glass, A.C.P work. Our products are customized as per client&rsquo;s provided specification &amp; accordance to the set industry standard. We firmly believe in direct participation at every level of operation. Developing, personal relationship with our valuable customers is yet another secret of our success &amp; progress.",
+    "categories": "Glass Windows, Window Glass, Decorative Window Glass",
+    "company_name": "Rajyog Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "285",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_31.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_16.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_19.jpg"
+    ]
+  },
+  {
+    "id": "cf27c4e4-dd47-4741-a4ce-1953f97ab94b",
+    "title": "Window Glass Designing Service",
+    "location": "Pune, Maharashtra",
+    "description": "We are ranked amongst the most trusted firms deeply engaged in offering a wide range of Window Glass Designing Service.",
+    "categories": "Designer Glass Works",
+    "company_website": "https://www.faps.co.in/",
+    "company_name": "Fatemi S Architectural Product & Service",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "240",
+      "quantity": "Square Feet"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_19.jpg"
+    ]
+  },
+  {
+    "id": "8fe2e5b6-3e11-464e-a6df-da12f4b3f380",
+    "title": "99% 60 mesh Sandblasting Glass Powder, Bag, 25 kg",
+    "location": "Pune, Maharashtra",
+    "description": "Sandblasting glass powder&nbsp;are a type of abrasive material used in sandblasting or abrasive blasting to clean, polish, and finish surfaces. These beads are made from high-quality, spherical glass and are ideal for applications where a gentle, non-destructive cleaning or finishing process is required. Due to their smooth, rounded shape, sandblasting glass beads provide an even, satin, or matte finish without scratching or damaging the underlying surface. Common uses include cleaning metal surfaces, removing rust or scale, preparing surfaces for coating or painting, and polishing delicate materials. Sandblasting glass beads are widely used in industries such as automotive, aerospace, manufacturing, and metalworking for their effectiveness, durability, and ability to provide a consistent finish.",
+    "categories": "Sandblasted Glass, Glass Powder",
+    "company_website": "https://www.whiteglossengineering.in/",
+    "company_name": "White Gloss Engineering",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "61",
+      "quantity": "Kg"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_17.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_8.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_28.jpg"
+    ]
+  },
+  {
+    "id": "6985421a-f0fd-4f21-be56-753db5d34362",
+    "title": "Glossy Plain 4\" Decorative Glass for Candle Antique Style, Thickness: 5mm, For Decoration",
+    "location": "Pune, Maharashtra",
+    "description": " Candle Votives: Small, round, or faceted glasses that hold tea lights or small candles. They often feature etched glass patterns or a distressed finish for an antique feel.   Lantern-style Holders: Decorative glass lanterns with ornate metalwork, often featuring frosted or colored glass for an antique look.   Glass Hurricanes: Large glass cylinders that can encase a pillar candle. Antique-style hurricanes might include details like etching, frosted glass, or aged metals as part of the design. ",
+    "categories": "Decorative Glass",
+    "company_name": "Hakimi Palace",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "75",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_11.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_12.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_30.jpeg"
+    ]
+  },
+  {
     "id": "ef8314b5-04d0-419a-bb10-86c65f03a5cd",
     "title": "CNC Milling Machining Service",
     "location": "Pune, Maharashtra",
