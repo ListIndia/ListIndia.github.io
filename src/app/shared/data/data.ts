@@ -2,6 +2,188 @@ import {Seller} from '../models/seller.entity';
 
 export const Data: Seller[] = [
   {
+    "id": "55d82348-a26c-4bc5-b474-1344ca42cc2b",
+    "title": "Printed 40-42 Pure Cotton Dress Material",
+    "location": "Pune, Maharashtra",
+    "description": "Pure Cotton Dress Material&nbsp;Brand Name - Agarwal Creation Fashions&nbsp;Fabric Details - Pure Cotton &amp; Designer Dress MaterialPsc - 4&nbsp;Wash care - Dry clean&nbsp;Made in India&nbsp;",
+    "categories": "Cotton Dress Material, Printed Cotton Dress Material, Chiffon Dress Material",
+    "company_name": "Agarwal Creation Fashions Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "youtube_video": "http://youtu.be/E8W5dYHcuxI",
+    "price": {
+      "amount": "710",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_6.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_46.jpeg"
+    ]
+  },
+  {
+    "id": "af1a9d55-59f9-466a-9007-16a64a6a5336",
+    "title": "Cotton Dress Material",
+    "location": "Pune, Maharashtra",
+    "description": "A dress material description in English would&nbsp;typically include the fabric type (like cotton, silk, linen, polyester), its weight (lightweight, medium-weight, heavy), texture (smooth, textured, crinkled), drape (flowy, stiff), and any special features like prints, embellishments, or sheerness, depending on the intended use of the dress.&nbsp;",
+    "categories": "Cotton Dress Material",
+    "company_website": "https://www.shivamgarments.in/",
+    "company_name": "Shivam",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "500",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_19.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_38.jpeg"
+    ]
+  },
+  {
+    "id": "e04420f5-3b31-440b-9ca1-29d7dc918fcb",
+    "title": "Pochampally Handloom Cotton Dress Material, 2.45m x 1.05m, for Women's Kurti/Kameez (Top Wear)",
+    "location": "Pune, Maharashtra",
+    "description": " The Pochampally area in Telangana is renowned for distinctive IKKAT handloom fabrics, sarees, bedsheets etc. The fabrics are not printed as such. The entire colouring &amp; patterning is at the Yarn/ Weaving stage itself. Hence the fabrics appear identical on both sides!   Nimora Trading presents an excellent collection of Pochampally Cotton Handloom Fabric cut pieces (dress material), ~ 2.45m long &amp; 1.1m wide, generally suitable for stitching Women's Kurti/ Kameez/ Top/ Shirt/ Gown etc. The fabric can also be used imaginatively for various other clothing needs such as kids' wear and even for gents kurta or shirt, depending on the colours!   The fabric collection reflects the classic Pochampally designs (geomertical patterns) with lovely multicolour patterns on a beautiful &amp; attrative base color. Currently, the collection offers a choice of 4 base colors: Royal Red, Royal Blue, Classic Black &amp; Maroon!   It is recommended to soak fabric separately in lukewarm water for 1-2 hours and dry, prior to getting it stitched. Alternatively, the stitched item may be separately soaked and rinsed, prior to first wear. There is very little shrinkage after wash. Separate washing of stitched item is generally recommended for longer life, particularly for rich &amp; dark colours. The fabric is 100% cotton and colours are fast &amp; long lasting ",
+    "categories": "Cotton Dress Material, Dress Material",
+    "company_name": "Nimora Trading & Services",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "475",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_17.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_45.jpeg"
+    ]
+  },
+  {
+    "id": "e0c1c7e0-5dc2-4c81-bab7-99b422e48a14",
+    "title": "Kalamkari Cotton Dress Material",
+    "location": "Pune, Maharashtra",
+    "description": "To fulfill ladies attire needs in an acceptable manner, we are offering world class Handloom Suits Dress Material. These materials are available in numerous colors, prints and patterns as per clients&#8217; needs. Product Details: &#160; Elegantly designed Excellent finish Easy stitching Comfortable to wear Maintenance free Colorfastness &#160; Available Size: 6.75 metres Minimum Order Quantity: 10000rs -15000 rs&#160; Bulk Orders will be considered. ",
+    "categories": "Cotton Dress Material, Kalamkari Fabric",
+    "company_name": "Shivani Handlooms",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_1.jpg"
+    ]
+  },
+  {
+    "id": "189e7c3e-aed9-4cf1-b78d-435beafd1ea2",
+    "title": "Cotton Dress Material",
+    "location": "Pimpri Chinchwad, Maharashtra",
+    "description": "We have marked a unique place for ourselves in this domain by providing a superb quality assortment of Javuli Cotton Dress Material to our esteemed customers. Product Details: Intricate designShrinkage resistanceBeautiful colorsEye-catching lookNominal ratesSoft texture",
+    "categories": "Cotton Dress Material",
+    "company_name": "Nehas World Of Fashion",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "345",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_11.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_30.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_20.png"
+    ]
+  },
+  {
+    "id": "6774ecb7-c9e9-47c5-b348-282c404810a5",
+    "title": "Straight Deeptex Cotton Dress Materials",
+    "location": "Surat, Gujarat",
+    "description": "Deeptex Miss India Vol 85&nbsp;Designs 26Rate 370/+Gst Top Cotton 2.5mtsBottom Cotton 2mtsDupatta Cotton 2.25mts",
+    "categories": "Cotton Dress Material, Deeptex Ladies Suits",
+    "company_name": "Bandhani Palace",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "370",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_26.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_7.jpeg"
+    ]
+  },
+  {
+    "id": "31a31677-fc18-4ba3-8a3e-984c66258e24",
+    "title": "44-45",
+    "location": "Jaipur, Rajasthan",
+    "description": "Buy best block print kurtas,kurtis,salwar suits,Block Print cotton Suit Set 2.5 Dupatta ,2.5 top.2.5 bottom From Anagha Creation",
+    "categories": "Cotton Dress Material, Printed Cotton Dress Material",
+    "company_website": "https://www.anaghacreation.com/",
+    "company_name": "Anagha Creation",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "65",
+      "quantity": "Meter"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_52.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_31.jpeg"
+    ]
+  },
+  {
+    "id": "b13de340-2ece-4d12-b7eb-abcc4483e3cf",
+    "title": "Printed 44-45 Cotton Dress Material",
+    "location": "Bagru, Rajasthan",
+    "description": "Exclusive new hand block printed cotton suits with cotton duptta\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd  Details\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd Top fabric - cotton 2.5 mtrs Bottom fabric - cotton 2.5 mtrs Duptta fabric - cotton 2.5 mtrs",
+    "categories": "Cotton Dress Material, Printed Cotton Dress Material, Dress Material",
+    "company_website": "https://www.kalamkarifabric.com/",
+    "company_name": "Darol Hand Block Print",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "700",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_49.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_21.png"
+    ]
+  },
+  {
+    "id": "541af0e8-3caf-4e64-a80c-73c4cae20a0b",
+    "title": "Printed Cotton Dress Material",
+    "location": "Jaipur, Rajasthan",
+    "description": "Our rise to recognition in this industry has been primarily triggered by the shooting popularity of our offered range of Printed Cotton Dress Material&nbsp;&nbsp;that is utilized in the garment industry.",
+    "categories": "Printed Cotton Dress Material",
+    "company_name": "Tridev Febrics",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "850",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_28.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_43.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_51.jpg"
+    ]
+  },
+  {
+    "id": "a55d9f98-bdd7-4a43-9aa1-359f2def81cf",
+    "title": "Embroidery Cotton Dress Material",
+    "location": "Pune, Maharashtra",
+    "description": "Since the commencement of our company, we provide the handpicked quality of Embroidery Cotton Dress Material. Appreciated for their finish and appearance, the dress material is sourced from dependable sources. Features:  Distinctive appearanceElegant designSkin friendlyPerfect finishingFading resistantShrinkage proof",
+    "categories": "Cotton Dress Material",
+    "company_name": "Appus Collections",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "1290",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_42.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_15.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/grocery_display_rack_27.jpeg"
+    ]
+  },
+  {
     "id": "8e6724e0-ec91-4f23-ab79-dbb258eed191",
     "title": "C Type Mechanical Power Press, Capacity: 30 Tons",
     "location": "Pune, Maharashtra",
