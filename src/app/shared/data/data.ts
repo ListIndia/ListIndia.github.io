@@ -2,6 +2,194 @@ import {Seller} from '../models/seller.entity';
 
 export const Data: Seller[] = [
   {
+    "id": "8e6724e0-ec91-4f23-ab79-dbb258eed191",
+    "title": "C Type Mechanical Power Press, Capacity: 30 Tons",
+    "location": "Pune, Maharashtra",
+    "description": "Mechanical power press&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;machine",
+    "categories": "C Type Power Press Machine, Mechanical Power Presses, Power Press",
+    "company_name": "Tirupati Machine Tools",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "youtube_video": "http://youtu.be/2X41ykpEu_w",
+    "price": {
+      "amount": "250000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_31.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_48.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_6.jpg"
+    ]
+  },
+  {
+    "id": "d85b4a98-8a82-4e05-b9e4-c3a4cc19424d",
+    "title": "C Type Power Press Machine, Capacity: 10 Ton",
+    "location": "Pune, Maharashtra",
+    "description": "We are offering C-Type Power Press&nbsp;to our clients. We can provide the press machines of Digvijay &amp; Balaji make.",
+    "categories": "C Type Power Press Machine",
+    "company_website": "https://www.kismatmachinery.com/",
+    "company_name": "Kismat Machines India Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "118000",
+      "quantity": "Unit"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_33.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_41.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_48.jpeg"
+    ]
+  },
+  {
+    "id": "2efbf906-5377-4da0-abfa-f60b1bef17f1",
+    "title": "Used 5 Ton Inclinable Power Press",
+    "location": "Pune, Maharashtra",
+    "description": "5 ton c type power press machine  Mild steel body Geared model , all bush gunmetal Bed size -10\"&#215;16\" Bed to Ram -8\" Gear dia -16\" Stroke - 1&#189;\"  Weight 500kg approx ",
+    "categories": "C Type Power Press Machine, Used Power Press",
+    "company_website": "https://www.tajenterprisesindia.in/",
+    "company_name": "Taj Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_32.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_30.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_12.jpg"
+    ]
+  },
+  {
+    "id": "613c64d9-46f9-4bf6-81fb-78d790fb17ef",
+    "title": "Hydraulic Power Press Machine, Capacity: 50 Ton",
+    "location": "Pune, Maharashtra",
+    "description": "Product Details :Sunntech Is Manufacturer H Type Power Press To Our Clients. The Clutches Of The H Type Power Presses Have Been Designed Of Rolling Key Type And Endows With Constant Strokes For Mass Production.H Type Power Press Machine That We Provide Is Highly Accredited For Its Flawless Functionality, Sturdy Construction, High Torque, Low Inertia, Minimum Maintenance And Longer Functional Life. The Provided Machine Is Manufactured By The Utilization Of Fine Grade Components And Modern Technologies Under The Stern Supervision Of Our Highly Skilled Professionals At Our Cutting-edge Manufacturing Unit.",
+    "categories": "Power Press, H Frame Hydraulic Press, C Type Power Press Machine",
+    "company_name": "Parmar Engineering",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_28.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_7.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_44.jpeg"
+    ]
+  },
+  {
+    "id": "bc683b4f-438e-4646-be9d-dc43ba287166",
+    "title": "Machanical Power Source: Mechanical 20 Ton C Type Power Press, Model Name/Number: PP20",
+    "location": "Pune, Maharashtra",
+    "description": "C TYPE 20 TON POWER PRESS WITH 2 HP 3PH ELECTRICAL MOTOR &amp; COMPLETE SET",
+    "categories": "Power Press, C Type Power Press Machine, Mechanical Power Presses",
+    "company_website": "https://www.pardamachinerysales.co.in/",
+    "company_name": "Parda Machinery Sales",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "195000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_10.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_34.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_3.jpg"
+    ]
+  },
+  {
+    "id": "0056cea4-d723-406b-a924-5a4770c970ea",
+    "title": "Aida C Frame Single Crank Power Presses, Capacity: 30 Tons",
+    "location": "Mumbai, Maharashtra",
+    "description": "Used Aida Japan # 1381 C Frame Single Crank PressModel : PC - 30(2)\tCap : 30 TonsStroke : 130 mmDie Height : 250mmRam : X mmBed : X mmslide Adjustment : 55 mm",
+    "categories": "C Type Power Press Machine, Used Power Press, Mechanical Power Presses",
+    "company_name": "Marvel Machine Tools Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "4000000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_44.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_23.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_41.jpg"
+    ]
+  },
+  {
+    "id": "61ad4f20-a73b-4bd0-aaad-1dd3b16932bc",
+    "title": "250 TON H TYPE POWER PRESS",
+    "location": "Rajkot, Gujarat",
+    "description": "  ACME   BRAND STEEL BODY (FIXED ONE PIECE STEEL BODY)&nbsp;   Single Point   Suspension MECHANICAL POWER PRESS, Without Electricals   &amp; With   Under Mention Specfication.   CAP : 250 M.TON,   SINGLE GEARED, H TYPE FIX BODY (One Piece)   Stroke length   : 150   Crank Shaft Die: 200   Shut Height: 350   BALLSTER   PLATE (C.I) L to R x F to B - 900x700   BED (TABLE   PLAT M.S.) - 900x700   BED TO RAM DISTANCE: 500   Hole in Bed: 150   Approx. weight is 11000 kg.  ",
+    "categories": "H Type Power Press Machines, Mechanical Power Presses",
+    "company_website": "https://www.acmeindustriesindia.com/",
+    "company_name": "Acme Industries",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "2100000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_44.jpeg"
+    ]
+  },
+  {
+    "id": "f8f1c96d-ca0d-4572-b602-b8d5ac1bbd2e",
+    "title": "30 Mechanical Power Press, Capacity: 50 Tons",
+    "location": "Rajkot, Gujarat",
+    "description": "We are engaged in offering a wide range of 50 Ton C Type Power Press / Mechanical Power Press 80 Ton / Power Press / Double Gear Power Press&nbsp;to our clients. Our range of all products is widely appreciated by our clients.",
+    "categories": "C Type Power Press Machine, Mechanical Power Presses",
+    "company_website": "https://www.hariharpowerpress.in/",
+    "company_name": "Harihar Machines Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "youtube_video": "http://https://www.youtube.com/watch?v=wnIVgCqDJ70",
+    "price": {
+      "amount": "235000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_4.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_53.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_1.jpg"
+    ]
+  },
+  {
+    "id": "b224cfc4-6564-4ad7-8dac-5eb40825f5ee",
+    "title": "75 Ton Power Press",
+    "location": "Rajkot, Gujarat",
+    "description": "Power Press 75 Ton is a high-capacity mechanical press used for heavy-duty metal forming tasks such as punching, shearing, and deep drawing. It delivers 75 tons of pressing force with precision, making it ideal for industrial production. &nbsp;4o",
+    "categories": "Power Press, C Type Power Press Machine",
+    "company_website": "https://www.rajeshmachinesindia.com/",
+    "company_name": "Rajesh Machines India LLP",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "725000",
+      "quantity": "unit"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_23.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_1.jpg"
+    ]
+  },
+  {
+    "id": "4073537b-c90f-497e-bb22-7f824e3f7662",
+    "title": "Hydraulic Power Press, Capacity: 50 Ton",
+    "location": "Rajkot, Gujarat",
+    "description": "The C-frame press derives its name from the shape of the frame. The primary advantages to the C-frame design are an open work area and increased accessibility. The C-frame press features become even more advantageous when multiple presses are used for progressive operations with automated material handling moving parts from press to press. The C-Frame hydraulic presses, however, are generally limited in maximum tonnage due to the design. Having apt lubrication system and gears which are of cast steel this Mechanical C Type Power Press are highly useful and gives performance which is out of the world.",
+    "categories": "Hydraulic Power Press, Power Press, Punching Machine",
+    "company_website": "https://www.marutimachinesindia.com/",
+    "company_name": "Maruti Machine Tools",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "300000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_8.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_4.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/power_press_16.jpg"
+    ]
+  },
+  {
     "id": "a39bd3dd-d279-4aff-9ce2-35282c032ef0",
     "title": "Curve 12 mm Bending Toughened Glass",
     "location": "Pune, Maharashtra",
