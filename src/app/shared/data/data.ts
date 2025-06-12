@@ -2,6 +2,174 @@ import {Seller} from '../models/seller.entity';
 
 export const Data: Seller[] = [
   {
+    "id": "42b72928-38e8-47ea-9f5b-0c240af65c6a",
+    "title": "Electrical Contractors For Industrial Wiring",
+    "location": "Pune, Maharashtra",
+    "description": "Industrial electrification, cable supply, laying, termination, distribution panel supply &amp; installation, earthing installation.",
+    "categories": "Electrical Contractor, Industrial Electrification",
+    "company_name": "S H Electromech",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "250",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_17.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_25.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_18.jpeg"
+    ]
+  },
+  {
+    "id": "e6974ce7-235a-4d2e-b714-7ca144205194",
+    "title": "Pune & Around Pune Electrical Contractor",
+    "location": "Pune, Maharashtra",
+    "description": "We would like to introduce our proprietary firm and our valuable services. We take this opportunity to introduce ourselves as &ldquo;KUWARSWAMI ASSOCIATES&rdquo;, an Authorised licensed Electrical Contractors located at Pimple Gurav, Pune-411061. &nbsp;KUWARSWAMI ASSOCIATES&nbsp;was established in the year 2008 and has grown day by day adhering to its predefined core values in the field of&hellip;&hellip;.. &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Electrical Panel design & manufacturing (Motor Control Center ,Power Control Center ,Auto Change over Panel, Auto mains failure panels ;PLC ,& Automatic power Factor correction panel, Custom based / If any panel Specific requirement ), &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;We also undertake projects of Substation/ house wiring as well as industrial power/ Panel&rsquo;s installation, commissioning & testing /illumination, cabling work with commitments completion job. &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Annual maintenance Contract of entire electrical set-up-Transformer, Ring Mains Unit, HT breakers ,LT breakers/PCC/MCC etc (From supply point to End user) as well old panel up-gradation work. Control panel wiring on labour basis. &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Energy audit:- &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Electrical Set-up safety audit:-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;We also under tack of all types of Utility /Facility services for Software / manufacturing companies/ offices and for residential housing societies such as Electrician/plumbers / Carpenters etc. &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;All types of MSEDCL/PWD liasoning work for new connection sanction, load increment, decrement, change of name, solar net metering/DG permission etc. &middot;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All kind of electrical motor rewinding / repairing work.",
+    "categories": "Electrical Consultants, Electrical Contractor, Substation Electrical Contractor",
+    "company_name": "Kuwarswami Associates",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_29.jpeg"
+    ]
+  },
+  {
+    "id": "56502908-fe27-4a7c-8d52-2494cbc70924",
+    "title": "Government Licensed Electrical Contractors Service In Pune",
+    "location": "Pune, Maharashtra",
+    "description": "A Government Licensed Electrical Contractor service involves hiring qualified professionals who are certified by the government to provide electrical services in both residential and commercial settings. These licensed contractors are experts in handling electrical installations, maintenance, and repairs while adhering to safety codes and local regulations.Key Features of the Service:Licensed &amp; Qualified ProfessionalsCompliance with Safety RegulationsElectrical InstallationElectrical Repairs &amp; MaintenanceUpgrades &amp; RetrofittingEmergency Services",
+    "categories": "Electrical Contractor",
+    "company_name": "May Swara Electrical Contractor Pune",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_12.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_15.png"
+    ]
+  },
+  {
+    "id": "0450edee-6d63-483a-a1c2-fa7097ee49e2",
+    "title": "Electrical Contractor AMC Industrial",
+    "location": "Pune, Maharashtra",
+    "description": "With enriched industrial experience and knowledge, we are providing a qualitative Emergency Electrical Services. The provided service is executed as per the requirements of our precious clients. Our experts check all the steps and parameters associated to this service and carry out it in the best possible manner. Our professionals use high grade tools and latest technology to execute this service. Furthermore, the offered service can be availed by our precious clients at most reasonable price.&nbsp;",
+    "categories": "Electrical Contractor, Electrical AMC Services, Cable Laying Service",
+    "company_name": "Prayank Electricals & Consultants",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_4.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_31.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_33.webp"
+    ]
+  },
+  {
+    "id": "d9955168-ea49-41d2-8f1b-341b8a6b3c2b",
+    "title": "Govt Licence Electrical Contractors",
+    "location": "Pune, Maharashtra",
+    "description": "we\ufffd\ufffd\ufffd\ufffd\ufffdSunrise Enterprises\ufffd\ufffd\ufffd\ufffd\ufffdare a\ufffd\ufffdSole Proprietorship\ufffd\ufffdbased firm, engaged as the foremostsales and service providers in transformer, feeder pillers, electrical work, cctv, vdp access control, walky talky, intercom system etc.",
+    "categories": "Electrical Contractor, Electrical Work",
+    "company_name": "Sunrise Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "1500",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_13.jpg"
+    ]
+  },
+  {
+    "id": "6b1bcaa7-ebbc-4278-a6a3-9c1b60673c20",
+    "title": "Govt. Licensed Electrical Contractor",
+    "location": "Navi Mumbai, Maharashtra",
+    "description": "To furnish the diverse requirements of our clients in the best possible manner we are involved in offering an extensive range of\ufffd\ufffdGovt. Licensed Electrical Contractor",
+    "categories": "Electrical Contractor, Commercial Electrical Works, Substation Electrical Contractor",
+    "company_website": "https://www.electricalcontrolpanelindia.com/",
+    "company_name": "Intigreat Solutions",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "youtube_video": "http://youtu.be/lBhEnHxKaNs",
+    "price": {
+      "amount": "160",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_23.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_14.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_9.jpg"
+    ]
+  },
+  {
+    "id": "e82433a2-6c30-402d-8fab-7a994074a394",
+    "title": "Onsite Sub Station Electrical Contractor",
+    "location": "Pune, Maharashtra",
+    "description": "We are a most trusted name among the topmost companies in this business, involved in offering Electrical Substation Installation Service.",
+    "categories": "Substation Electrical Contractor, Electrical Substation Installation Services",
+    "company_website": "https://www.kushaltech.com/",
+    "company_name": "Kushal Technologies",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "youtube_video": "http://www.youtube.com/watch?v=L2serkHeV6Q",
+    "price": {
+      "amount": "500000",
+      "quantity": "Set"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_5.jpg"
+    ]
+  },
+  {
+    "id": "80763c80-6c83-4349-9336-582d03e42c3d",
+    "title": "Gov. Lic. Electrical Contractor",
+    "location": "Pune, Maharashtra",
+    "description": "As Government Licensed Electrical contractors&nbsp; We&nbsp;design, install, and maintain electrical systems in facilities&nbsp;(i.e. homes, offices, and industrial buildings).&nbsp;We have a magnitude of experience in the relative field works. We Provide Services like Sanction, Liasioning of New Connection.&nbsp;",
+    "categories": "Electrical Contractor, Electrical Installation, Liasoning Services",
+    "company_name": "Dhanraj Electricals",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_21.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_19.jpg"
+    ]
+  },
+  {
+    "id": "54c2a2bc-edd0-4c4e-8ab1-19c9b5fc68c5",
+    "title": "Industrial Government Licensed Electrical Contractor",
+    "location": "Pune, Maharashtra",
+    "description": "Industrial Government Licensed Electrical Contractor",
+    "categories": "Electrical Contractor",
+    "company_name": "Belectro-Tech Power Control System Co.",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "1000",
+      "quantity": "Hour"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_1.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_11.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_24.jpeg"
+    ]
+  },
+  {
+    "id": "555a7443-942f-4245-bcdc-cf44a8cc70e3",
+    "title": "Ht Line Electrical Contractor",
+    "location": "Nashik, Maharashtra",
+    "description": "Ht electrical line work",
+    "categories": "Electrical Contractor",
+    "company_name": "Hetal Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "12000",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/electric_contractor_3.jpg"
+    ]
+  },
+  {
     "id": "55d82348-a26c-4bc5-b474-1344ca42cc2b",
     "title": "Printed 40-42 Pure Cotton Dress Material",
     "location": "Pune, Maharashtra",
