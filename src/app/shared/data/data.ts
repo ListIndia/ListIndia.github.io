@@ -1,6 +1,194 @@
 import {Seller} from '../models/seller.entity';
 
 export const Data: Seller[] = [
+
+  {
+    "id": "1b0c80e2-b147-4720-b055-7cb3c5c42ca8",
+    "title": "Industrial Step Shaft, Diameter: 100 mm",
+    "location": "Pune, Maharashtra",
+    "description": "Types of Stepped Shafts1. Constant-step shafts: These shafts have constant diameter steps along their length.2. Variable-step shafts: These shafts have variable diameter steps along their length.3. Taper-stepped shafts: These shafts have a combination of taper and stepped diameters.",
+    "categories": "Step Shaft",
+    "company_website": "https://www.royalmechindustries.in/",
+    "company_name": "Royal Mech Industries",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "9400",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_29.png"
+    ]
+  },
+  {
+    "id": "3becd7dd-d898-4766-bd13-50078bbfd0cb",
+    "title": "Carbon Steel EN8 Machined Shaft, For Automotive Industry",
+    "location": "Pune, Maharashtra",
+    "description": "1. Automotive Industry   Axles and Drive Shafts: EN8 machined shafts are widely used in the automotive sector as drive shafts and axles. These shafts are critical for transmitting power from the engine to the wheels in vehicles such as cars, trucks, and commercial vehicles. Their strength and wear resistance make them ideal for handling high torque and load conditions. Crankshafts and Camshafts: EN8 shafts are also used for manufacturing crankshafts and camshafts in internal combustion engines. The steel&rsquo;s durability and resistance to wear ensure that these components can withstand the high stresses and temperatures encountered in engine operation. ",
+    "categories": "Machined Shafts, Spline Shaft",
+    "company_website": "https://www.varunmspl.co.in/",
+    "company_name": "Varun Manufacturing Systems (India) Pvt. Ltd.",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "5500",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_4.jpg"
+    ]
+  },
+  {
+    "id": "69a5d792-a9e0-4af8-8a1f-c4ff560c0ea9",
+    "title": "Mild Steel Shaft",
+    "location": "Pune, Maharashtra",
+    "description": "Our organization is amongst the renowned manufacturer, supplier and  service provider of best quality array of Metal Shafts. These metal  shafts have cylindrical shape which provides efficient rotating capacity  for various applications. Our metal shafts are able to withstand  varying pressure and abrasion with its supreme functionality and  durability. These metal shafts are best for various automotive vehicles,  textile equipments and many others. Our metal shafts are available to  our clients in various designs and sizes at affordable range of prices. &nbsp; Features: &nbsp;  Top quality Rust proof Excellent strength Long lasting ",
+    "categories": "Mild Steel Shaft",
+    "company_name": "Micronix Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "youtube_video": "https://www.youtube.com/watch?v=2ZOMEn0JBkc",
+    "price": {
+      "amount": "500",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_28.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_26.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_20.jpg"
+    ]
+  },
+  {
+    "id": "806abde8-e677-4e76-9913-a54a7d689ac4",
+    "title": "Stainless Steel Spline Shaft",
+    "location": "Pune, Maharashtra",
+    "description": "We deal into Spline ShaftWe,&nbsp;engaged in Manufacturing &amp; Service Providing of Shaft Machining Center, Centering Ring, Plate Mill Roller, Industrial Shafts, Industrial Bushes, Forged Die, Shrink Fitted Rolls Heavy Duty Precision Machining Equipment, Intermediate Flange, Job Works and Fabrication. With the above facilities, we can manufacture wide range of shafts, rollers, chokes, housings, screws, etc. and many kind of tailor made components required by the defense, steel, automobile, cement, sugar, forging, chemical and other industries, with our material or on sub-contract basis.",
+    "categories": "Spline Shaft",
+    "company_website": "https://www.hcandcompany.com/",
+    "company_name": "H C & Company",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "youtube_video": "http://youtu.be/XGq1wyy6qXQ",
+    "price": {
+      "amount": "17000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_15.jpg"
+    ]
+  },
+  {
+    "id": "6197f4de-634e-4b7e-ac84-384d0f1f6be9",
+    "title": "Stainless Steel Gear Box Shaft, For Industrial",
+    "location": "Pune, Maharashtra",
+    "description": "A gear shaft is&nbsp;an essential part of the overall transmission that bears the shear stress and torsion. The transmission, or gearbox, is a system that can be applied to monitor the application of energy by reducing or increasing speed, increasing torque, reversing rotation, or varying the driveshaft direction.08-Nov-2021",
+    "categories": "Stainless Steel Shafts, Automotive Shafts",
+    "company_name": "Rolex Engineers",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "50",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_41.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_36.png"
+    ]
+  },
+  {
+    "id": "1628ce44-92e6-4ebf-9d6c-da866cf20cfb",
+    "title": "Stainless Steel iNDUSTRIAL Ss Motor Shaft",
+    "location": "Gondal, Gujarat",
+    "description": "We are Manufacturers and Suppliers of SS Motor Shaft from Rajkot, Gujarat. Our Motto is to provide best quality material to our client.&nbsp;",
+    "categories": "Motor Shaft, Stainless Steel Shafts",
+    "company_website": "https://www.jayambeengineer.com/",
+    "company_name": "Jay Ambe Engineers",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "2450",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_39.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_35.png"
+    ]
+  },
+  {
+    "id": "9415eb03-448c-42f7-b512-81a389f2cd36",
+    "title": "M6 Hexagonal Metal Shaft",
+    "location": "Pune, Maharashtra",
+    "description": "We are dealing in wide range of&nbsp;Ms Plain Washer M20, Taps,Trader of Nuts , Bolts , etc...",
+    "categories": "Metal Shaft",
+    "company_name": "Perfect Industrial Tools",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "75",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_7.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_21.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_30.png"
+    ]
+  },
+  {
+    "id": "cc1d5791-7dd8-43b4-bc39-e936c9ecb552",
+    "title": "Stainless Steel Shaft Forgings and Forged Shafts",
+    "location": "Pune, Maharashtra",
+    "description": "We are Manufacturer and Exporter of Industrial and Automotive Precision Components and can deal in bulk quantity at Competative Prices across India.",
+    "categories": "Forged Shafts, Metal Shaft, Automotive Shafts",
+    "company_name": "Avadhut Engineering",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "1000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_34.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_40.png"
+    ]
+  },
+  {
+    "id": "b4d0bddb-a76a-469f-943a-b2a2b36e7569",
+    "title": "Stainless Steel Polished Precision Machined Shaft, For Industrial",
+    "location": "Pimpri Chinchwad, Maharashtra",
+    "description": "Precision Machined Shaft",
+    "categories": "Machined Shafts",
+    "company_name": "Asha Engineering Solutions",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "2700",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_42.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_9.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_31.png"
+    ]
+  },
+  {
+    "id": "ad6c10f5-041e-47c9-b1b0-2c1b0015de01",
+    "title": "Polished Mild Steel Cnc Machined Threaded Shaft, Size: Upto 700 mm",
+    "location": "Pimpri Chinchwad, Maharashtra",
+    "description": "We manufacture various types of shafts from material Mild steel, En8d, 20MnCr5, Stainless Steel etc. as per customer requirement. maximium length we can manufacture is upto 700 mm.",
+    "categories": "Metal Shaft",
+    "company_name": "Shree Sant Yadav Baba Industries Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "250",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_16.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_27.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/shafting_33.png"
+    ]
+  },
   {
     "id": "7a25b589-3624-4835-8607-0e4acd04802f",
     "title": "Fabric High Back Office Chair, Adjustable Arms",
