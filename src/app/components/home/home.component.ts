@@ -24,7 +24,7 @@ export class HomeComponent implements OnInit {
 
   ngOnInit() {
     (this.dataService.getData() as Observable<{data: Seller[]}>).subscribe(res => {
-      this.sellers = res.data;
+      this.sellers = res.data.slice(0, 20);
     });
   }
 }
