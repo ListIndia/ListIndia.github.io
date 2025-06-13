@@ -1,3 +1,13 @@
 * {
   background-color: white;
 }
+
+.two-line-title {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;          /* Limit to 2 lines */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.75em;             /* Reserve height for 2 lines (approx) */
+  line-height: 1.375em;           /* Adjust line spacing */
+  font-size: 0.95rem;             /* Optional: adjust font size */
+}

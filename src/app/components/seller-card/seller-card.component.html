@@ -12,8 +12,9 @@
     >
   </div>
   <div class="card-body p-3">
-    <h6 class="card-title fw-semibold text-truncate mb-1" title="{{ seller.title }}">{{ seller.title }}</h6>
-
+    <h6 class="card-title fw-semibold mb-1 two-line-title" title="{{ seller.title }}">
+      {{ seller.title }}
+    </h6>
     <p class="mb-1 text-primary fw-bold small" *ngIf="seller.price">
       {{ seller.price.amount }}/{{ seller.price.quantity }}
     </p>
@@ -22,7 +23,7 @@
       &nbsp;
     </p>
 
-    <p class="mb-0 text-muted small">{{ seller.company_name }}</p>
+    <p class="mb-0 text-muted small text-truncate">{{ seller.company_name }}</p>
 
     <p class="mb-0 text-success small text-truncate" >
       <i
