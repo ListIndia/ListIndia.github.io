@@ -3,6 +3,188 @@ import {Seller} from '../models/seller.entity';
 export const Data: Seller[] = [
 
   {
+    "id": "16c895ca-fc42-4355-867c-29a36383d2b1",
+    "title": "Phthalates Plasticizers TOTM, Grade: Industrial Grade, Packaging Size: 210 kg",
+    "location": "Pune, Maharashtra",
+    "description": "Please note that we offer only KLJ Plasticizers TOTM.",
+    "categories": "Plasticizer TOTM, Plasticizers",
+    "company_name": "Krishna Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "240",
+      "quantity": "Kg"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_24.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_6.jpg"
+    ]
+  },
+  {
+    "id": "a2de0971-1d18-476a-a174-b346d71c10ab",
+    "title": "Cebex 112 (20L), For Mortar Plasticizer",
+    "location": "Pimpri Chinchwad, Maharashtra",
+    "description": "Cebex 112Mortar plasticizerUsesImproves workability and trowelling properties of sand/cement mortar mixes during application and increases frost resistancefor brick laying, pointing and rendering.Advantages Eliminates use of lime in masonry applications. Saves storage space and failures due to unsound lime Improve moisture retention and bond strengths Make mortar frost resistant Highly economical. Maximum yield of up to 20 Improves harsh sands Can be used in coloured mortars.Standard compliance&nbsp;Cebex 112 complies with BS 4887, Mortar Plasticisers. Itconforms with the recommendations of BRE Digest 160.",
+    "categories": "Mortar Plasticizer, Fosroc Waterproofing Chemicals, Concrete Admixture",
+    "company_name": "Buildcare Corporation",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "50",
+      "quantity": "Kg"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_11.jpg"
+    ]
+  },
+  {
+    "id": "df7c2343-9ad7-416b-815a-2be35bf6d176",
+    "title": "Styrulation/sabic Black Abs Plastic Granules 120hr, For Automotive parts, Packaging Size: 25 kg",
+    "location": "Pune, Maharashtra",
+    "description": "Styurulation",
+    "categories": "ABS Plastic Granules, Plasticizers, Plastic Cores",
+    "company_name": "I Tech Polymers",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "240",
+      "quantity": "Kg"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_18.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_12.jpg"
+    ]
+  },
+  {
+    "id": "5ba7ccdc-6b85-4fce-b9e8-9d6d4b514eb6",
+    "title": "Industrial Grade Super Plasticizer, for Flooring",
+    "location": "Pune, Maharashtra",
+    "description": "With huge expertise & capability in this domain, we are enthusiastically involved in offering to our customers a spectacular collection of SuperPlasticizer. Developed making use of supreme grade inputs in tandem with the norms and guidelines set by the market; these are highly acclaimed. Apart from this, their precise composition makes us a favored market choice.Features:&bull; Precise pH value &bull; Accurate composition &bull; PurityPlasticizer is the best Melamine based Super Plasticizer for Concrete. The usage of Plasticizer means to improve the workability of concrete producing self compacting property which enable to reducing water : cement ratio & flowing concrete giving better bonding with more durability. Plasticizer also decreases the setting time by accelerating the process & achieve the high strength from M 35 to M 45/50 before 28 days. Plasticizer in precast will improve the strength in short period as well as productivity also.Applications :&bull; Plasticizer is recommended for Precast work, Pavement IndustryDoses :Generally 1% - 2% plasticizer per unit weight of cement shows good results but it varied from site to site as depends on final result. However the doses should be finalize by trials & the preparation of admixture. (Adding an excessive amount of plasticizer is not advisable due to its retarding effect).Packing :&bull; 60 Kg. Carboys &bull; 220 Kg. Barrel",
+    "categories": "Superplasticizer Admixture, Plasticizers, Industrial Plastic",
+    "company_name": "Bright Chemicals",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "25",
+      "quantity": "Kilogram"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_26.jpg"
+    ]
+  },
+  {
+    "id": "8e4a4fb0-61de-4d67-b8b7-09af7900f1de",
+    "title": "Tributyl Citrate",
+    "location": "Pune, Maharashtra",
+    "description": "We are the leading manufacturer of a wide range of Tri Butyl Citrate to our customers.",
+    "categories": "Tributyl Citrate",
+    "company_name": "Subhash Chemical Industries Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_19.jpg"
+    ]
+  },
+  {
+    "id": "8978d3df-b918-40c5-be45-d0ff34180e9b",
+    "title": "Plasticizer Phthalates BBP (Benzyl Butyl Phthalate), Grade: Industrial",
+    "location": "Mumbai, Maharashtra",
+    "description": "Benzyl Butyl Phthalate (BBP) is a phthalate ester used primarily as a plasticizer to enhance the flexibility, workability, and durability of plastics, particularly polyvinyl chloride (PVC). It is commonly found in a variety of plastic products, synthetic materials, and coatings. BBP is particularly valued for its ability to improve the processing characteristics of PVC and other polymers, making them easier to mold and shape.",
+    "categories": "Plasticizers",
+    "company_website": "https://www.nescoglobal.com/",
+    "company_name": "N Shashikant & Co",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "youtube_video": "http://youtu.be/1qZgXZRuSsA",
+    "price": {
+      "amount": "99",
+      "quantity": "Kg"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_20.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_3.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_10.jpg"
+    ]
+  },
+  {
+    "id": "dbc6438b-5933-419a-a0f0-5cc4c62a4a9a",
+    "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
+    "location": "Mumbai, Maharashtra",
+    "description": "95% DINCH (Diisononyl Cyclohexane-1,2-Dicarboxylate) is a high-purity, phthalate-free plasticizer commonly used to soften plastics, particularly in applications that require a safer alternative to traditional phthalates. DINCH is especially suitable for products that come in contact with food or are used in medical and child-related items, such as toys, due to its low toxicity and high safety profile. It appears as a clear, colorless liquid with a mild odor and has excellent compatibility with PVC and other polymers.",
+    "categories": "Plasticizers",
+    "company_website": "https://www.doshient.in/",
+    "company_name": "Doshi Enterprise",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "135",
+      "quantity": "Litre"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_4.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_13.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_28.jpg"
+    ]
+  },
+  {
+    "id": "7d37b516-71cc-4666-86d1-9c82aa42fd95",
+    "title": "Phthalates Phthalate Plasticizers, 200 kg Drum, Grade: Industrial Grade",
+    "location": "Thane, Maharashtra",
+    "description": "Phthalate plasticizers are chemicals added to plastics to enhance flexibility and durability. They're widely used in industries like automotive and construction. Concerns over health risks, including endocrine disruption, have led to regulations restricting their use. Alternatives are being developed, and regulations aim to minimize exposure",
+    "categories": "Plasticizers",
+    "company_website": "https://www.suraj-enterprises.in/",
+    "company_name": "Suraj Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "240",
+      "quantity": "Kg"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_15.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_2.jpg"
+    ]
+  },
+  {
+    "id": "6b3da8ed-c7f5-410b-9c40-d7f7c1631bd3",
+    "title": "Phthalates DBP Plasticizer, 200 kg Drum, Grade: Industrial Grade",
+    "location": "Vasai Virar, Maharashtra",
+    "description": "With rich industry experience and knowledge, we are providing a qualitative array of DBP Plasticizer. These are additives that increase the plasticity or fluidity of a material.",
+    "categories": "Plasticizers, Dibutyl Phthalate",
+    "company_website": "https://www.vardhmanchemicals.co.in/",
+    "company_name": "Vardhman Chemicals",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "youtube_video": "http://www.youtube.com/watch?v=ZdyPYE_dH08",
+    "price": {
+      "amount": "90",
+      "quantity": "Kilogram"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_14.jpg"
+    ]
+  },
+  {
+    "id": "9c0e6212-60af-4e3b-8acc-e767c039a5f2",
+    "title": "Phthalates TOTM Plasticizer chemical, Grade: Technical Grade, Packaging Size: 210 Kg",
+    "location": "Mumbai, Maharashtra",
+    "description": "A&nbsp;plasticizer&nbsp;(UK:&nbsp;plasticiser) is a substance that is added to a material to make it softer and more flexible, to increase its&nbsp;plasticity, to decrease its&nbsp;viscosity, or to decrease&nbsp;friction&nbsp;during its handling in manufacture. Plasticizers are commonly added to&nbsp;polymers&nbsp;such as&nbsp;plastics&nbsp;and&nbsp;rubber, either to facilitate the handling of the raw material during fabrication, or to meet the demands of the end product's application. For example, plasticizers are commonly added to&nbsp;polyvinyl chloride&nbsp;(PVC), which otherwise is hard and brittle, to make it soft and pliable; which makes it suitable for products such as&nbsp;vinyl flooring,&nbsp;clothing, bags,&nbsp;hoses, and&nbsp;electric wire&nbsp;coatings. Plasticizers are also often added to&nbsp;concrete&nbsp;formulations to make them more workable and fluid for pouring, thus allowing the water contents to be reduced. Similarly, they are often added to&nbsp;clays,&nbsp;stucco,&nbsp;solid rocket&nbsp;fuel, and other pastes prior to molding and forming. For these applications, plasticizers largely overlap with&nbsp;dispersants.",
+    "categories": "Plasticizers",
+    "company_website": "https://www.gayatriindustries.net/",
+    "company_name": "Gayatri Industries",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "youtube_video": "http://https://www.youtube.com/watch?v=PI5NJqw_URU",
+    "price": {
+      "amount": "185",
+      "quantity": "Kg"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_9.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/plasticizer_7.jpg"
+    ]
+  },
+  {
     "id": "976e8859-3a6c-4212-be59-16b513eb4c56",
     "title": "Particle Board 4 Seater Modular Office Workstation",
     "location": "Pune, Maharashtra",
