@@ -3,6 +3,181 @@ import {Seller} from '../models/seller.entity';
 export const Data: Seller[] = [
 
   {
+    "id": "a649136c-0821-49f0-a774-f9a380622aa7",
+    "title": "School Stationery",
+    "location": "Pune, Maharashtra",
+    "description": "Glory Enterprises, Pune, provides high-quality school stationery, including notebooks, pens, pencils, erasers, rulers, and more. Our products ensure durability, affordability, and convenience for students and teachers. Designed for everyday learning, our stationery supports creativity, organization, and academic excellence.",
+    "categories": "School Stationery, Stationery Sets",
+    "company_name": "Glory Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_26.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_21.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_9.jpeg"
+    ]
+  },
+  {
+    "id": "c4d73434-944b-4483-b063-2e3c93da06c5",
+    "title": "Plastic School Stationery",
+    "location": "Pune, Maharashtra",
+    "description": "School stationery includes essential tools for learning and writing, like pens, pencils, notebooks, and rulers.&#160;These items help students take notes, complete assignments, and organize their work, facilitating a smoother and more effective learning experience.&#160;Items like erasers and sharpeners ensure accuracy and clarity.&#160;",
+    "categories": "School Stationery",
+    "company_name": "Welcome Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "10",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_19.jpg"
+    ]
+  },
+  {
+    "id": "a07473c6-bbc2-433a-9302-945042f3483b",
+    "title": "Eco Friendly Stationery Kit",
+    "location": "Pune, Maharashtra",
+    "description": "Established in&nbsp;2022,&nbsp;R K Trading Corporation&nbsp;is a famous&nbsp;Wholesale Trader&nbsp;of&nbsp;Corporate Gift Set, Water Bottle, Mobile Stand, Limit Switch, Vacuum Flask, Pen Drive, Power Bank, Solid State Rectifier Brake Rectifier&nbsp;and much more.&nbsp;The product range offered by us is designed and fabricated using supreme quality raw material. Our offerings are appreciated and known for durability, reliability, glossy &amp; smooth finish and excellent designs at reasonable prices. Latest and innovative techniques are implemented in the production process. Furthermore, we also provide customized solutions to our clients.",
+    "categories": "Stationery Sets",
+    "company_name": "R K Trading Corporation",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "150",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_4.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_29.jpg"
+    ]
+  },
+  {
+    "id": "9c91acba-c3dd-416b-8f50-9ba0ddd8dce2",
+    "title": "File Folder Office Stationery",
+    "location": "Pune, Maharashtra",
+    "description": "Feature,  Available in various types: plain folders, clip files, box files, spring files, and index files Made from durable materials like cardboard, plastic (PP/PVC), or recycled paper Designed to hold A4, A5, or Legal-size documents securely. Includes options with two-hole punches, metal clips, or lever arch mechanisms  ",
+    "categories": "Office Stationery, Paper Folder",
+    "company_website": "https://www.shrivenkateshenterprises.com/",
+    "company_name": "Shri Venkatesh Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "15",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_8.jpeg"
+    ]
+  },
+  {
+    "id": "47c913e0-b426-4cf4-9b64-76f596d73071",
+    "title": "MOM Brown Office Stationery Material, For Promotional Gifts, Packaging Type: Box",
+    "location": "Pune, Maharashtra",
+    "description": "We are Corporate Distributors,exporters and suppliers for Office equipments,stationery and all\ufffd\ufffd Industrial items.",
+    "categories": "Office Stationery",
+    "company_name": "M Oswal Marketing",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_10.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_13.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_33.jpg"
+    ]
+  },
+  {
+    "id": "964ecb91-bc0c-42c5-b860-c2821036cc4d",
+    "title": "Oddy Stationery Gift Set - (SGS01) - 1 Set of 11 Items",
+    "location": "Sonipat, Haryana",
+    "description": " CRT-506 - 1Pc (High Quality Correcton Tape 5 mm x 6 mtrs.), WR-RS-A5-160 - 1Pc (Wiro Note Book),  ATD-01 - 1Pc (Auto Tape Dispenser), PSP-A420-1R - 1Pc (Project Sheet Premium A4 20 Sheets One Side Ruled Punched), MCB - 1Pc (MDF Board-Printed),  WRA-20 - 1Pc (Wrapping Paper Roll), SS-500A - 1Pc (Child Safe Kids Scissors Blue Color),  GS-15 - 1Pc (Glue Stick15gm), RS-SR - 1Pc (Re-Stick Square Ruled 3&rdquo; x 4&rdquo; Square Ruled Printed on White Paper), ITD-1833 - 1Pc (Invisible Tape with Dispenser),  PCB - 1Pc (Oddy Paper Carry Bag) ",
+    "categories": "Stationery Gift Set",
+    "company_website": "https://www.oddy.in/",
+    "company_name": "Atul Paper (P) Ltd",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "1209",
+      "quantity": "Set"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_35.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_7.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_28.png"
+    ]
+  },
+  {
+    "id": "55d4aa80-68c8-44c2-8dee-303a88d85337",
+    "title": "Computer & Office Stationery Items",
+    "location": "Pune, Maharashtra",
+    "description": "All types of Office &amp; Computer Stationary Sale -Bank -School -Company -Paper Rim, Toner refilling, Box/Office files.. etc.",
+    "categories": "Office Stationery",
+    "company_name": "Cadsense Technologies",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "100",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_17.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_22.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_31.jpg"
+    ]
+  },
+  {
+    "id": "1c4a5f2f-1d10-48ca-8fd3-c95deb9f213d",
+    "title": "Office Stationery Wholesale Supplier",
+    "location": "Pune, Maharashtra",
+    "description": "ALL TYPES OFFICE STATIONERY MATERIALS SUPPLIERS&nbsp; all maharashtra",
+    "categories": "Office Stationery, Paper Stationery, School Stationery",
+    "company_name": "Ashapura Agency",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "980",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_32.jpg"
+    ]
+  },
+  {
+    "id": "a82f7435-4107-414a-971b-4da74cf7d810",
+    "title": "Plastic Stationery Gift Set, Packaging Type: Box",
+    "location": "Pune, Maharashtra",
+    "description": "Established in the&nbsp;year of 2014, We are &ldquo;Sky Enterprises&rdquo; is engaged in&nbsp;Manufacturing Of BOPP Self Adhesive tapes And Qualitative Assorted of&nbsp;Wholesale trader for&nbsp;Office Stationeries,&nbsp;Industrial Packaging materials and&nbsp; Safety Materials. In order to run the whole business process efficiently, We have manufacturing facility that is located at Pune, (Maharashtra, India). We have been able to provide the best quality products to the customers.",
+    "categories": "Stationery Gift Set",
+    "company_name": "Sky Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "105",
+      "quantity": "Set"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_5.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_16.jpg"
+    ]
+  },
+  {
+    "id": "3161d08a-c9ae-4283-a6ef-e8af3ae3a6fb",
+    "title": "All Office Stationery",
+    "location": "Pune, Maharashtra",
+    "description": "Office stationery refers to the essential supplies and tools used in day-to-day office operations. These items support writing, organizing, filing, printing, and general administrative tasks, making them vital for maintaining productivity and efficiency in any workplace.",
+    "categories": "Office Stationery",
+    "company_name": "HML And Shreeja Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "400",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_14.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_12.jpg"
+    ]
+  },
+  {
     "id": "8b0ec69c-fe80-4136-a913-a35aa3f10b2d",
     "title": "Mobil 600 XP 320 Series Gear Oil, Grade: ISO320, Unit Pack Size: 200 L",
     "location": "Pune, Maharashtra",
