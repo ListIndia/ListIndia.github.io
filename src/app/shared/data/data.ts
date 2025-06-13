@@ -48,7 +48,6 @@ export const Data: Seller[] = [
       "quantity": "Piece"
     },
     "images": [
-      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_4.jpeg",
       "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/stationary_29.jpg"
     ]
   },
