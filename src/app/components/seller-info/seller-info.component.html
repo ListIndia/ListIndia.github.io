@@ -4,6 +4,17 @@
     <!-- Carousel Section -->
     <div class="col-md-6">
       <div id="sellerCarousel" class="carousel slide position-relative shadow rounded" data-bs-ride="carousel" data-bs-wrap="false">
+        <div class="carousel-indicators">
+          <button
+            *ngFor="let image of (seller.images.length ? seller.images : ['no-image-provided.webp']); let i = index"
+            type="button"
+            data-bs-target="#sellerCarousel"
+            [attr.data-bs-slide-to]="i"
+            [class.active]="i === 0"
+            [attr.aria-current]="i === 0 ? 'true' : null"
+            [attr.aria-label]="'Slide ' + (i + 1)">
+          </button>
+        </div>
         <div class="carousel-inner rounded-3 overflow-hidden">
           <div class="carousel-item" *ngFor="let image of (seller.images.length ? seller.images : ['no-image-provided.webp']); let i = index" [class.active]="i === 0">
             <div class="ratio ratio-4x3 bg-light d-flex align-items-center justify-content-center">

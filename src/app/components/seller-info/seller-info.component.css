@@ -25,3 +25,19 @@
   background-color: #f8f9fa;
 }
 
+.carousel-indicators [data-bs-target] {
+  width: 10px;
+  height: 10px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+  border-radius: 50%;
+  margin: 0 4px;
+  opacity: 0.7;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.carousel-indicators .active {
+  background-color: rgba(13, 110, 253, 0.95); /* Bootstrap primary blue */
+  transform: scale(1.2);
+  opacity: 1;
+}
