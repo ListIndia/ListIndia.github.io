@@ -3,6 +3,182 @@ import {Seller} from '../models/seller.entity';
 export const Data: Seller[] = [
 
   {
+    "id": "025dd620-1b2c-4403-945e-986de0050196",
+    "title": "Tissue Cotton Sarees",
+    "location": "Pune, Maharashtra",
+    "description": "cotton tissue saree",
+    "categories": "Tissue Saree, Tissue Linen Saree",
+    "company_name": "Agarwal Creation Fashions Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "youtube_video": "http://youtu.be/E8W5dYHcuxI",
+    "price": {
+      "amount": "850",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_22.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_38.jpg"
+    ]
+  },
+  {
+    "id": "748c9233-6e32-48ba-a698-fc2b2e795348",
+    "title": "Plain Casual Wear Dotted Border Saree",
+    "location": "Pune, Maharashtra",
+    "description": "Dotted Border Saree",
+    "categories": "Border Saree, Silk Sarees, Ethnic Saree",
+    "company_website": "https://www.pankhfashion.in/",
+    "company_name": "Pankh Fashions Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "450",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_40.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_14.jpg"
+    ]
+  },
+  {
+    "id": "0eb362e2-ebd3-4343-8e7e-521d9eaa3660",
+    "title": "Banarasi Silk Peshwai Paithani Saree",
+    "location": "Pune, Maharashtra",
+    "description": "Nauvari sarees also referred as Kaashta nauvari sari The unique draping gave them the stature and fluidity to move like a man in the war fields without letting go of their traditional attires. In Nauvari sarees&nbsp;a top is draped differently than other sarees and therefore requires a 9 feet long length.",
+    "categories": "Nauvari Saree, Indian Sarees, Fancy Sarees",
+    "company_website": "https://www.shivamgarments.in/",
+    "company_name": "Shivam",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "1500",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_21.jpg"
+    ]
+  },
+  {
+    "id": "7008e99b-fd90-45b4-a743-edb88d977969",
+    "title": "Silk Readymade saree rental",
+    "location": "Pune, Maharashtra",
+    "description": "We are offering different kinds of gift boxes, hampers and decorative items on rental basis for every kind of occations at affordable prices and in whole Maharashtra,&nbsp;shop with us and share your experience.",
+    "categories": "Fancy Sarees, Indian Sarees",
+    "company_name": "Mahalaxmi Creation And Event Management",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_4.jpg"
+    ]
+  },
+  {
+    "id": "11cb142e-2a65-40d5-88bd-f5d1450fdbd6",
+    "title": "Silk Readymade Nawari Wedding Sarees Nauvari Saree",
+    "location": "Pune, Maharashtra",
+    "description": "Exclusive Designer Bridal wear Silk Sarees Avilable at wholesale rate .Ready To wear Nauvari Sarees. Pure Silk Handloom Original Paithani Sarees. Pure Kanchipuram pattu Sarees . Pure Banarasi Bridal Collection .",
+    "categories": "Nauvari Saree",
+    "company_name": "Maninis Creation",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "2550",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_18.jpeg"
+    ]
+  },
+  {
+    "id": "42c799f5-d34f-4861-82cb-777417fba68c",
+    "title": "Georgette Exclusive Designer Saree",
+    "location": "Pimpri Chinchwad, Maharashtra",
+    "description": "Brand T&M",
+    "categories": "Fancy Sarees, Indian Sarees",
+    "company_name": "Nehas World Of Fashion",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "1195",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_23.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_20.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_25.jpg"
+    ]
+  },
+  {
+    "id": "e486c0dd-08ac-4cbd-b7ca-8f207bf8629c",
+    "title": "Cotton Designe Saree, Casual Wear",
+    "location": "Pune, Maharashtra",
+    "description": "Designe Saree",
+    "categories": "Designer Sarees",
+    "company_name": "Shamsunder Mundada",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "500",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_31.jpg"
+    ]
+  },
+  {
+    "id": "b9e85975-a1c0-4fb9-92d9-4e75c6d928b4",
+    "title": "Border Kathpadar Saree, With blouse piece",
+    "location": "Pune, Maharashtra",
+    "description": "Kathapadar saree in copper zari work",
+    "categories": "Indian Sarees",
+    "company_name": "Vidish Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "2000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_29.jpeg"
+    ]
+  },
+  {
+    "id": "4b07f0b5-94b1-447d-9202-04517fd6a300",
+    "title": "Border Raj Laxmi Saree, With blouse piece",
+    "location": "Pune, Maharashtra",
+    "description": "Raj Laxmi Saree",
+    "categories": "Indian Sarees",
+    "company_name": "Chaitali Fashion",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "6500",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_15.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_27.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_11.jpeg"
+    ]
+  },
+  {
+    "id": "2f6c7082-9778-4b35-b116-6e5e3caa79b9",
+    "title": "Printed Saree, With blouse piece",
+    "location": "Pune, Maharashtra",
+    "description": "Saree",
+    "categories": "Indian Sarees, Kanchipuram Sarees",
+    "company_name": "Agarwal Cloth Store",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "1200",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_35.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_5.jpg"
+    ]
+  },
+  {
     "id": "1b0c80e2-b147-4720-b055-7cb3c5c42ca8",
     "title": "Industrial Step Shaft, Diameter: 100 mm",
     "location": "Pune, Maharashtra",
