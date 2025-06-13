@@ -7,19 +7,6 @@
     <p class="text-muted">Try adjusting your filters or search keywords.</p>
   </div>
 
-<!--  <div *ngIf="sellers.length === 0" class="container-fluid" style="padding-top: 10px">-->
-<!--    <h1 class="fw-bold mb-4 display-6 text-dark">Products You May Like</h1>-->
-<!--    &lt;!&ndash; Results Section &ndash;&gt;-->
-<!--    <div *ngIf="recentData.length" class="search-page narrow-container rounded-4 pt-3 pb-3">-->
-<!--      <div class="seller-flex-wrap">-->
-<!--        <app-seller-card-->
-<!--          *ngFor="let seller of recentData"-->
-<!--          [seller]="seller"-->
-<!--          class="seller-card"-->
-<!--        ></app-seller-card>-->
-<!--      </div>-->
-<!--    </div>-->
-<!--  </div>-->
   <h1 *ngIf="sellers.length === 0" class="fw-bold mt-4 mb-2 display-6 text-dark">Products You May Like</h1>
   <div *ngIf="sellers.length === 0" class="search-page narrow-container rounded-4 pt-3 pb-3">
     <div class="seller-flex-wrap">

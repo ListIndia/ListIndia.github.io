@@ -30,8 +30,16 @@
         {{ seller.title }}
       </h3>
 
-      <div *ngIf="seller.gst_verified" class="mb-2 text-success fw-semibold">
-        ✅ GST Verified Business
+      <!-- GST Verified -->
+      <div *ngIf="seller.gst_verified" class="mb-2 text-success fw-semibold d-flex align-items-center">
+        <i class="bi bi-check-circle-fill me-2"></i>
+        GST Verified Business
+      </div>
+
+      <!-- Location -->
+      <div *ngIf="seller.location" class="mb-2 text-muted fw-semibold d-flex align-items-center">
+        <i class="bi bi-geo-alt-fill me-2  text-danger"></i>
+        {{ seller.location }}
       </div>
 
       <p class="text-muted small mb-1">{{ seller.company_name }}</p>
