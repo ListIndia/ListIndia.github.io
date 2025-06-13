@@ -3,6 +3,187 @@ import {Seller} from '../models/seller.entity';
 export const Data: Seller[] = [
 
   {
+    "id": "c4e087bf-1c87-4f68-9d5d-135ea332a0b3",
+    "title": "Dash Data Cable Type C",
+    "location": "New Delhi, Delhi",
+    "description": "Dash High Speed Cable For One Plus Red Type C Data Cable 100cm Type C Usb Data Cable For One Plus Type C Charging Cable Tangle Free Cable For One Plus Rapid Data Sync Transfer Red Cable Type C High Quality Wire Type C to Usb A Red Data Cable Quick Charging Data Cable One Plus Charging Data Cable For One Plus 5/ 5T/ One Plus 6/ One Plus 3/3T Compatible Cable (RED) (1M) by Store Power Meter for Cables",
+    "categories": "USB Data Cable, USB Cable, Type C Cable",
+    "company_website": "https://www.jpymobile.co.in/",
+    "company_name": "JPY Mobile Phone Accessories",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "30",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_20.jpg"
+    ]
+  },
+  {
+    "id": "2945164f-0d46-43fa-ad0a-5589228cd957",
+    "title": "ACL 21 Ambrane Lightning Cable",
+    "location": "Pathankot, Punjab",
+    "description": "Ambrane ACL-21 is a lightning cable that effortlessly works with a lightning connector. Designed with best-in-class materials for high-speed charging, this cable offers charge and sync compatibility with all Apple devices and lightning connector enabled devices. It is durable &amp; flexible enough to withstand repeated plugging and unplugging. The length of the cable is 1 meters which makes it very convenient to use. It can withstand more than 10000 bend cycles",
+    "categories": "Cell Phone Data Cable",
+    "company_name": "Nazakat Telecom",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "250",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_1.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_5.jpg"
+    ]
+  },
+  {
+    "id": "3f1bf920-d7cf-4f36-98b8-e9ba9946f50f",
+    "title": "Ambrane 60W / 3A Fast Charging 1.5m Braided Micro USB Cable for USB devices, (Black)",
+    "location": "Mumbai, Maharashtra",
+    "description": " 20W Fast Charging - Supports 20W fast charging and 480 Mbps data transfer speed. Quick Charge 2.0/ 3.0 - Supports Quick Charge (QC) 2.0/3.0 to deliver rapid charging speed. Universal Compatibility - It is compatible with all Micro USB enabled devices including Android smartphones, tablets, PC peripherals and other micro USB compatible devices. Unbreakable - Made of special braided outer with rugged interior bindings, it is an ultra-durable cable that won&rsquo;t be affected by daily rough usage. Ideal Length - It has an ideal length of 1.5 meters which is super convenient to use. ",
+    "categories": "Micro USB Cable, USB Data Cable",
+    "company_website": "https://www.saecorporategifting.com/",
+    "company_name": "Shree Ashtavinayak Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "100",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_21.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_34.jpg"
+    ]
+  },
+  {
+    "id": "20981b37-cd12-4d5e-9c35-ef1d4d8dccc5",
+    "title": "Ambrane 4 in 1 Multi-Functional Charging Cable (AC4CL-15), Type C",
+    "location": "Mumbai, Maharashtra",
+    "description": " Universal Compatibility: Features four connectors &ndash; USB-A to Lightning, USB-C to Lightning, USB-A to Type-C, and USB-C to USB-C &ndash; offering versatile charging options for various devices. 60W Max Power: Delivers up to 60W charging through USB-C to USB-C, making it compatible with PD charging for laptops, smartphones, and iPhones. PD Support for Lightning Devices: Supports 12W to 22.5W fast charging for iPhones and iPads via both USB-A and USB-C to Lightning connectors. Fast Charging for Type-C Devices: Provides 30W QC fast charging for Type-C devices and 60W PD charging for laptops and high-powered smartphones. Tough Build: Constructed with a durable nylon braided cable and hard PVC coating on the connectors for enhanced longevity and durability. Heat Resistant Connectors: Equipped with aluminum shell connectors for excellent heat dissipation during charging, ensuring optimal performance. Compact Design: Compact and portable design makes it easy to carry and store, perfect for travel and everyday use. Multi-Voltage Charging: Supports multiple charging modes (5V to 20V), ensuring compatibility with a wide range of devices. ",
+    "categories": "USB Data Cable",
+    "company_name": "Mumbai Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "230",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_29.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_48.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_37.jpg"
+    ]
+  },
+  {
+    "id": "10672a51-5775-4908-a77c-bb5dfbf80712",
+    "title": "Black Ambrane ACM-20 Micro USB Cable, Cable Size: 2 M",
+    "location": "Salem, Tamil Nadu",
+    "description": "Product Details: Ambrane ACM-20 is a Micro USB Cable that effortlessly works with all Micro USB enabled devices. Designed with best-in-class materials for high-speed charging, this cable offers charge and sync compatibility with a wide variety of devices.&nbsp;It supports upto 3Amp fast charging.&nbsp;It is durable &amp; flexible enough to withstand repeated plugging and unplugging.&nbsp; The length of the cable is 2 meters which makes it very convenient to use. It can withstand more than 10000 bend cycles. Manufactured by: Ambrane India Pvt. Ltd. -&nbsp;Plot No. 438, EPIP Sector 53, HSIIDC Industrial Area Kundli, Sonepat Haryana-131028Country of origin: IndiaPrice is inclusive of all taxes",
+    "categories": "USB Data Cable, USB Cable, Micro USB Cable",
+    "company_name": "S M Tronics",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "40",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_19.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_40.png"
+    ]
+  },
+  {
+    "id": "ab82bcf9-d69a-4ef3-ab23-f544466650d2",
+    "title": "Micro USB,Iphone & Type C Black Ambrane Data Cable, For Mobile Phone, Cable Size: 1 Mtr",
+    "location": "Mumbai, Maharashtra",
+    "description": "Braided Cable Fast Charging @ 2.4 A Fast Data Transmission Up To 480 mbps 5000+ Bends Lifespan Ambrane 3 in 1 Cable quantity",
+    "categories": "USB Data Cable, USB Cable",
+    "company_website": "https://www.newgennindia.in/",
+    "company_name": "Newgenn India",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "200",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_39.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_6.jpg"
+    ]
+  },
+  {
+    "id": "a86d7900-21b6-4403-858f-6371f2e204c8",
+    "title": "Ambrane Type C Data Cable",
+    "location": "Mumbai, Maharashtra",
+    "description": "The Ambrane Type C Data Cable is designed for fast charging and efficient data transfer for devices that use a USB Type-C port. Its robust construction and high-quality materials make it a reliable choice for everyday use. Key Features:  Fast Charging Support: Capable of delivering quick charging speeds, allowing you to power up your devices efficiently. High-Speed Data Transfer: Facilitates rapid data transfer rates, making it easy to sync files, photos, and videos between devices. Durable Design: Built with high-quality materials to ensure longevity and resistance to wear and tear. Universal Compatibility: Works with a variety of devices, including smartphones, tablets, laptops, and more that support USB Type-C. Tangle-Free Design: Often features a flexible, tangle-resistant cable for easy storage and use.  3A BoostedSpeed&trade;Unbreakable Braided Cable  Maximum 3A Fast Charging Speed Tough Braided Cable Charge &amp; Data Sync ",
+    "categories": "Type C Cable",
+    "company_name": "Prime Cell",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "75",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_11.jpg"
+    ]
+  },
+  {
+    "id": "0e4b2fca-3b64-44d8-a210-62d8d190da33",
+    "title": "Ambrane Unbreakable 60W / 3A Fast Charging 1.5m Cable",
+    "location": "Kolkata, West Bengal",
+    "description": "Ambrane Unbreakable 60W / 3A Fast Charging 1.5m Braided Micro USB Cable for Smartphones, Tablets, Laptops &amp; other Micro USB devices, 480Mbps Data Sync, Quick Charge 3.0 (RCM15, Black)",
+    "categories": "Ambrane Mobile Charger, USB Cable, Micro USB Cable",
+    "company_name": "Azad Auto Sales",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "299",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_25.jpeg"
+    ]
+  },
+  {
+    "id": "2ab5eba6-37c3-4f25-98b6-bfe3f39ef668",
+    "title": "Black Ambrane ACM-11 Plus 3A 1 Meter Micro USB Cable, Plastic",
+    "location": "Mumbai, Maharashtra",
+    "description": "Ambrane ACM-11 Plus 3A 1 Meter Micro USB Cable",
+    "categories": "Micro USB Cable",
+    "company_name": "Rahul Stationery & Xerox",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "100",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_12.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_18.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_8.webp"
+    ]
+  },
+  {
+    "id": "cfaa14b2-9659-4add-ae5d-3e57270bfed0",
+    "title": "Black 15Amp Ambrane ACT11 Type C Cable, 2.5Inch",
+    "location": "Chennai, Tamil Nadu",
+    "description": "Ambrane ACT-11 is a Type-C Cable that effortlessly works with all Type-C enabled devices. Designed with best-in-class materials for high-speed charging, this cable offers charge and sync compatibility with a wide variety of devices.&nbsp;It supports upto 3Amp fast charging.&nbsp;It is durable &amp; flexible enough to withstand repeated plugging and unplugging.&nbsp; The length of the cable is 1 meters which makes it very convenient to use. It can withstand more than 10000 bend cycles.",
+    "categories": "Type C Cable",
+    "company_name": "Maharaja Radio Spares",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "80",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/ambrane_cable_3.webp"
+    ]
+  },
+  {
     "id": "16c895ca-fc42-4355-867c-29a36383d2b1",
     "title": "Phthalates Plasticizers TOTM, Grade: Industrial Grade, Packaging Size: 210 kg",
     "location": "Pune, Maharashtra",
