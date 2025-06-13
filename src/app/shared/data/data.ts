@@ -1,7 +1,161 @@
 import {Seller} from '../models/seller.entity';
 
 export const Data: Seller[] = [
-
+  {
+    "id": "a7799c2e-af76-4e85-8ad4-38236ad9a765",
+    "title": "Stainless Steel lathe turning job work services",
+    "location": "Pune, Maharashtra",
+    "description": "Vertical Lathe Job Work Services involve precision machining operations performed on vertical lathes, also known as vertical turning machines. These services are essential for producing large and heavy workpieces with complex geometries and tight tolerances, making them ideal for industries such as aerospace, automotive, manufacturing, and heavy machinery.",
+    "categories": "Vertical Lathe Job Work",
+    "company_website": "https://www.nathindustries.net/",
+    "company_name": "Nath Industries",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_29.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_18.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_66.jpg"
+    ]
+  },
+  {
+    "id": "06c355f2-6e2b-4b82-aefc-64b7f52d4745",
+    "title": "Turning Lathe Job Work Services",
+    "location": "Pune, Maharashtra",
+    "description": "Established in the year 1994 at Pune, Maharashtra, we &ldquo;Readial Industries \" are Sole Proprietorship based firm, involved as the Profile Cutting Services, Gas Cutting Services, Oxy Fuel Cutting Service, Machine Job Work Services, Mild Steel Cutting Plate and many more. Our products &amp; services are high in demand due to their premium quality and affordable prices. Furthermore, we ensure to timely deliver these products to our clients, through this we have gained a huge clients base in the market.",
+    "categories": "Lathe Work, Turning Job Works",
+    "company_name": "Raedial Industries",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "50",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_39.jpg"
+    ]
+  },
+  {
+    "id": "ec3c309b-b0b9-4ff4-be63-dae735ea81ff",
+    "title": "Lathe Job Work Automobile",
+    "location": "Pune, Maharashtra",
+    "description": "Lathe job work in the automotive industry involves&nbsp;using lathe machines to precisely shape and finish metal components, often creating cylindrical parts like shafts, bearings, and rods.&nbsp;These machines rotate the workpiece while cutting tools remove material, forming precise shapes according to blueprints or specifications",
+    "categories": "Lathe Work",
+    "company_website": "https://www.hcandcompany.com/",
+    "company_name": "H C & Company",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "youtube_video": "http://youtu.be/XGq1wyy6qXQ",
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_47.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_50.jpg"
+    ]
+  },
+  {
+    "id": "ba29fa19-b1fc-469d-bd8e-5f84d40fa3e6",
+    "title": "Heavy Duty Lathe Job Work In Pune",
+    "location": "Pune, Maharashtra",
+    "description": "Heavy Duty Lathe Job Work In Pune",
+    "categories": "Heavy Duty Lathe Job Work",
+    "company_name": "Megha Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_38.jpeg"
+    ]
+  },
+  {
+    "id": "98a4c15a-e7dd-4e65-9c97-b28b88ce07b2",
+    "title": "Heavy Duty Lathe Job Work",
+    "location": "Pune, Maharashtra",
+    "description": "At Prime Industries, we specialize in providing heavy-duty lathe job work designed to meet the rigorous demands of various industries, including oil and gas, construction, automotive, and manufacturing. Our advanced heavy-duty lathe machinery enables us to handle large, complex components with precision and efficiency, making us your trusted partner for all your machining needs. Our skilled machinists possess extensive experience in heavy-duty lathe operations, including turning, threading, boring, and custom machining. We take pride in delivering high-quality results tailored to your specific project requirements, ensuring that each component meets the highest standards of quality and performance. Our Services Include:  Precision heavy-duty lathe machining for large components and assemblies Custom machining solutions tailored to your specifications Prototyping and production runs to ensure functionality and reliability Comprehensive quality control processes to maintain high standards On-time delivery to keep your production schedules on track  Why Choose Prime Industries?  Expertise: Our experienced team has in-depth knowledge of heavy-duty lathe operations, ensuring top-notch workmanship on every project. Tailored Solutions: We collaborate with you to develop customized lathe job work solutions that align with your unique operational needs and goals. Timely Delivery: We prioritize efficiency and are committed to completing your heavy-duty lathe projects on schedule, helping you maintain seamless operations. Competitive Pricing: Enjoy exceptional value with our high-quality heavy-duty lathe job work offered at competitive rates.  Choose Prime Industries for reliable, high-performance heavy-duty lathe job work that propels your projects forward. Contact us today to discuss your machining needs and discover how we can support your manufacturing goals!",
+    "categories": "Heavy Duty Lathe Job Work",
+    "company_name": "Prime Industries",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_11.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_64.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_61.jpg"
+    ]
+  },
+  {
+    "id": "27b667c3-3f37-4533-8906-7173b00b1e53",
+    "title": "Lathe Machine Turning Job Work",
+    "location": "Pune, Maharashtra",
+    "description": "Keeping in view assorted requirements and demands of our honored clientele, we are competent to render Lathe Machine Turning Job Work&nbsp;to our customers. Our service is accomplished using the advanced techniques. ",
+    "categories": "Heavy Duty Lathe Job Work, Lathe Work",
+    "company_name": "Aditya Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_63.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_56.jpg"
+    ]
+  },
+  {
+    "id": "e085f1c5-5d25-4df9-9221-44672ee1196b",
+    "title": "Lathe Machine Turning Job Work",
+    "location": "Pune, Maharashtra",
+    "description": "Lathe job work&nbsp;includes operations like turning, facing, threading, drilling, and boring, catering to a wide range of materials, including metals, plastics, and composites. These services are used for producing custom parts, prototypes, and small to medium production runs.",
+    "categories": "Lathe Work",
+    "company_name": "Ketaki Engineering",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "400",
+      "quantity": "Hour"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_2.png"
+    ]
+  },
+  {
+    "id": "6f629a84-43ba-4ca0-9041-10391a2025bb",
+    "title": "Lathe Machines Job Work Services",
+    "location": "Pune, Maharashtra",
+    "description": "We Provide Lathe Machines, All Types of Lathe Machines Jobwork Services, Heavy Duty Lathe Machines, Speed Lathe Machines, Center lathes or engine lathe machines, Turret Lathe Machines, Tool room Lathe Machines, Bench Lathe Machines, Automatic Lathe Machines, CNC Lathe Machine Jobwork Services, and We are also Manufacturer, Supplier, Exporter of Fixture, Jigs &amp; Fixtures, Gauges, Machining Parts &amp; All Types Of Manufacturing Work, and our set up is situated in Pune, Maharashtra, India.Precision Crafted: Explore Our Lathe MachinesWelcome to Auriga Tools Pvt. Ltd., where precision craftsmanship meets cutting-edge technology in the realm of machining. Dive into our comprehensive collection of lathe machines, meticulously engineered to deliver exceptional accuracy, versatility, and reliability for your machining needs. Whether you're shaping intricate components or handling high-volume production, our lathe machines are designed to exceed your expectations and elevate your manufacturing capabilities.Why Choose Our Lathe Machines?   Unmatched Precision :&nbsp;At the core of our lathe machines lies a commitment to precision. Equipped with advanced CNC controls, rigid construction, and high-quality cutting tools, our machines deliver unparalleled accuracy, ensuring each workpiece meets your exact specifications with micron-level precision. Versatility :&nbsp;From simple turning operations to complex machining tasks, our lathe machines offer versatility to handle a wide range of applications. Whether you're working with metals, plastics, or composites, our machines provide the flexibility to tackle diverse materials with ease. Efficiency Redefined :&nbsp;Optimize your production processes with our lathe solutions. Featuring rapid tool change systems, high-speed spindle options, and intelligent automation capabilities, our machines streamline workflow efficiency, reducing setup times and maximizing throughput. Reliability :&nbsp;Built to withstand the demands of industrial environments, our lathe machines are engineered for long-term reliability. Trust in their robust construction and dependable performance to keep your operations running smoothly, day after day. Ease of Use :&nbsp;Designed with user-friendly interfaces and intuitive controls, our lathe machines are easy to operate, even for operators with minimal experience. Empower your team to program, set up, and run jobs with confidence, maximizing productivity and minimizing downtime.  &nbsp;",
+    "categories": "Lathe Work",
+    "company_name": "Auriga Tools Pvt. Ltd.",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_45.jpg"
+    ]
+  },
+  {
+    "id": "fbaca3fd-47db-467d-966c-03bd57a673d4",
+    "title": "Heavy Duty Lathe Job Work",
+    "location": "Pimpri Chinchwad, Maharashtra",
+    "description": "We Provide Our Clients With&nbsp;Heavy Duty Lathe Job Work&nbsp;In a Fexible And Cost Effective Manner. With The Help Of Our Diligent Professionals, We Are Able To Offer Personalized Services To Our Clients. We Undertake These Services As Per The Specific Requirements Of The Industry.&nbsp;",
+    "categories": "Heavy Duty Lathe Job Work",
+    "company_name": "Pavan Engineering Works",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_15.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_53.jpg"
+    ]
+  },
+  {
+    "id": "065709e8-87d1-4ab2-9ff8-e308227958bd",
+    "title": "Lathe Machine Turning Job Work",
+    "location": "Pune, Maharashtra",
+    "description": "Lathe Machine Turning Job Work",
+    "categories": "Lathe Work",
+    "company_name": "Gramcon",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "youtube_video": "http://https://youtu.be/K3qnv7uFYQI?feature=shared",
+    "price": {
+      "amount": "150",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_42.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_7.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/lathe_job_work_51.jpg"
+    ]
+  },
   {
     "id": "9b478758-062a-461c-b855-01b35366068d",
     "title": "Long Stick Stripes Umbrella",
