@@ -3,6 +3,183 @@ import {Seller} from '../models/seller.entity';
 export const Data: Seller[] = [
 
   {
+    "id": "9b478758-062a-461c-b855-01b35366068d",
+    "title": "Long Stick Stripes Umbrella",
+    "location": "Vasai Virar, Maharashtra",
+    "description": "  Durable Build: Made with a strong steel shaft and high-quality polyester canopy for long-lasting use.   Attractive Design: Features a stylish stripe color pattern, adding a touch of elegance to your rainy day essentials.   Manual Operation: Easy-to-use manual open mechanism ensures smooth and reliable performance.   No Fold Structure: Long stick design offers enhanced sturdiness and wind resistance compared to folding umbrellas.   Versatile Use: Perfect for everyday commuting, outdoor events, and protection from both rain and sun.   &nbsp; &nbsp; &nbsp; Available in&nbsp;Dark Blue color",
+    "categories": "Polyester Umbrella, Stick Umbrella",
+    "company_name": "Rimzim Umbrella Mart",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "349",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/umbrella_37.jpeg"
+    ]
+  },
+  {
+    "id": "d48ee57d-812f-4207-8350-7645018eaf38",
+    "title": "2 Fold Long Stick umbrella for men and women",
+    "location": "Mumbai, Maharashtra",
+    "description": "Large Umbrella for Men, Women and Family (Black, Cover Included) Umbrella (Black)Superior Protection: Enjoy superior protection from rain and unexpected showers with the, engineered to keep you dry and comfortable in adverse weather conditions.",
+    "categories": "Stick Umbrella",
+    "company_website": "https://www.ridaanzelectronics.com/",
+    "company_name": "Ridaanz Electronics Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "210",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/umbrella_42.jpg"
+    ]
+  },
+  {
+    "id": "829ff245-e5bf-46f8-9c74-dfc31366dbf4",
+    "title": "1 Fold Multicolor Long BTBR Polyester Umbrella",
+    "location": "Mumbai, Maharashtra",
+    "description": "Multicolor Long BTBR Polyester Umbrella",
+    "categories": "Polyester Umbrella, Promotional Umbrella, Printed Umbrella",
+    "company_name": "M M Silk Mill",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "130",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/umbrella_52.png"
+    ]
+  },
+  {
+    "id": "72879fd7-6867-444f-8d57-92b04cb31e71",
+    "title": "Black Manual Long Umbrella",
+    "location": "Mumbai, Maharashtra",
+    "description": "Since our inception we are engaged effortlessly offering our clients reliable and durable range of Black Manual Long Umbrella. Widely appreciated for their high efficiency they are manufactured using quality materials and latest techniques as per industry standards. Quality is ensured on various parameters by our diligent professionals till final delivery and we offer this range at leading market prices.&nbsp;Features:&nbsp;Enhanced durabilityLight weight and user friendlyEffective protection from weatherSturdy constructionAttractive appearance and lookPerfect finish&nbsp;Price range:70-1000 Rs.",
+    "categories": "Stick Umbrella",
+    "company_name": "Jhakaas Umbrella Mart",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "100",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/umbrella_18.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/umbrella_38.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/umbrella_8.jpg"
+    ]
+  },
+  {
+    "id": "ea97b370-9246-49a1-aaad-cf1e91315680",
+    "title": "Large Long Stick Umbrellas Waterproof Weather Automatic Open Windproof Umbrellas Portable",
+    "location": "Mumbai, Maharashtra",
+    "description": "About this item  Stylish design: The umbrella features a trendy tri-step design that adds a touch of sophistication to your outfit, making you look stylish even in the rain or sun | Premium quality: The umbrella is made of high-quality materials to ensure durability and longevity. It is designed to withstand heavy rains, strong winds, and intense sunlight, making it suitable for both rainy and summer seasons.   The umbrella has an automatic openThe umbrella is constructed with a sturdy frame that is designed to be unbreakable, providing reliable protection against harsh weather conditions.   Chataa windproof technology: The umbrella is equipped with Chataa windproof technology, which enhances its wind resistance, preventing it from flipping inside out during strong winds | Long umbrella size: The umbrella has a long size, providing ample coverage to protect you from rain or sun. It is suitable for both personal and professional use, ensuring that you stay dry and comfortable in any weather.   .Protective cover: The umbrella comes with a protective cover, allowing you to store it safely when not in use, preventing it from getting damaged or wet| Easy to carry: The umbrella is lightweight and compact, making it easy to carry in your bag or backpack when you're on the go. It is ideal for traveling, commuting, or outdoor activities.   Ergonomic handle: The umbrella features an ergonomic handle that provides a comfortable grip, reducing hand fatigue even during prolonged use. The handle also has an anti-slip design, ensuring a secure hold in wet or windy conditions | Versatile usage: The umbrella is suitable for various occasions, including rainy days, sunny days, outdoor events, weddings, parties, and more. It is a practical and stylish accessory that complements your outfit while keeping you protected from the elements. ",
+    "categories": "Stick Umbrella",
+    "company_name": "Trizen Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "340",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/umbrella_47.webp"
+    ]
+  },
+  {
+    "id": "75803a62-8edb-4294-b48b-6b0558fa3fef",
+    "title": "Rolls Royce Button Press Open Long Stick Umbrella 37 inch",
+    "location": "Mumbai, Maharashtra",
+    "description": "Practical gifts-looking Gifts for friends or family?This sturdy umbrella can withstand wind and rain, as well as heat and sun. This is a great gift for men, women and children.If you have any questions, please contact us in time, hoping to bring you a pleasant shopping experience.8 umbrella ribs design, durable and durable, with guaranteed quality Umbrella hat design, beautifulAppearance, locked umbrella cloth, durable It is comfortable to hold hands, non-slip, and the quality is guaranteed",
+    "categories": "Stick Umbrella",
+    "company_name": "Oxbow Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "299",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/umbrella_49.jpg"
+    ]
+  },
+  {
+    "id": "023f5098-7456-4386-a747-44295ac6f27b",
+    "title": "2 Fold 1 Fold Long Stick Umbrella",
+    "location": "Mumbai, Maharashtra",
+    "description": "A portable, collapsible canopy providing protection from rain, sun, or wind, typically made of waterproof fabric, metal ribs, and a handle, promoting convenience and comfort.",
+    "categories": "Stick Umbrella",
+    "company_name": "Shrawni Gift Solution",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "350",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/umbrella_22.png"
+    ]
+  },
+  {
+    "id": "f412f639-03f1-48b6-a52b-d155b6d059ea",
+    "title": "LONG WINDPROOF UMBRELLA",
+    "location": "Mumbai, Maharashtra",
+    "description": "Somalal &amp; BrothersEstablished in the year 1957 in Mumbai, Maharashtra. We &ldquo;Somalal &amp; Brothers\" engaged as the foremost Wholesaler And Manufacture of Promotional Folding Umbrella,Garden Promotional Umbrella,3 Fold Promotional Umbrella,Kids Promotional Umbrella, Promotional Umbrella,Promotional Umbrella,Mono Check Border Umbrella,23inch Wooden Frame Umbrella,2 Fold BI Color Umbrella,3 Fold Satan Print Auto Umbrella,Zed Black Umbrella,Yellow Banana Umbrella,3 Fold Mono Silver Umbrella and many more.",
+    "categories": "Golf Umbrellas, Stick Umbrella",
+    "company_name": "Somalal & Brothers",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "110",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/umbrella_34.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/umbrella_33.jpeg"
+    ]
+  },
+  {
+    "id": "a1d546c3-cc7e-4a41-9f7f-89950af2ee5a",
+    "title": "Plain Long Stick Umbrella, for Rain",
+    "location": "Mumbai, Maharashtra",
+    "description": "Long Stick Umbrella",
+    "categories": "Stick Umbrella",
+    "company_name": "Greenland",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "180",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/umbrella_3.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/umbrella_7.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/umbrella_14.jpg"
+    ]
+  },
+  {
+    "id": "514f7e42-0039-47c8-bff4-3ae699d4a056",
+    "title": "Long Stick Umbrella",
+    "location": "Mumbai, Maharashtra",
+    "description": "Long Stick Umbrella",
+    "categories": "Stick Umbrella",
+    "company_name": "Suraj Corporation",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "200",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/umbrella_30.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/umbrella_32.jpeg"
+    ]
+  },
+  {
     "id": "ba8054ca-374a-4c22-8683-fcc85ae1fc28",
     "title": "Asian Paints Tractor Emulsion, Packaging Size: 10 L",
     "location": "Pune, Maharashtra",
