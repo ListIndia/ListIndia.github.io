@@ -3,6 +3,177 @@ import {Seller} from '../models/seller.entity';
 export const Data: Seller[] = [
 
   {
+    "id": "855cb25a-0a82-4bf5-99e1-bf77c6db9254",
+    "title": "Customised Rubber Product",
+    "location": "Pune, Maharashtra",
+    "description": "Customised Rubber Product",
+    "categories": "Rubber Products",
+    "company_name": "Ayush Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "18",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_13.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_6.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_3.jpg"
+    ]
+  },
+  {
+    "id": "45388a92-d307-4d1f-b735-6049a7171843",
+    "title": "Red Rubber Strip, Thickness: 2 mm",
+    "location": "Pune, Maharashtra",
+    "description": "Red&nbsp;Silicone&nbsp;Rubber Strip&nbsp;&middot;&nbsp;Red&nbsp;Silicone&nbsp;Rubber Strip. \ufffd\ufffd\ufffd 45 / Piece. Size: all sizes. Thickness in mm: 1-100. Color:&nbsp;Red.&nbsp;",
+    "categories": "Silicone Rubber Products, Rubber Sealing Strip",
+    "company_name": "A P Engineering Works",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "9",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_18.jpeg"
+    ]
+  },
+  {
+    "id": "c2008660-c595-46a0-9e18-2bf9a238820b",
+    "title": "Custom Rubber Product",
+    "location": "Pune, Maharashtra",
+    "description": "Water Pump Impeller   .",
+    "categories": "Rubber Products",
+    "company_website": "https://www.hitechprecision.co.in/",
+    "company_name": "HI Tech Precision",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "400",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_2.jpg"
+    ]
+  },
+  {
+    "id": "10d79ac5-1117-4479-b4e2-882e20f7f21e",
+    "title": "Rubber Molded Products",
+    "location": "Pune, Maharashtra",
+    "description": "We are offering a huge gamut of high quality&nbsp;Rubber Molded Products.&nbsp;Our offered molded products are in complete accordance with the set industry norms as it is developed using qualitative factor inputs and advanced techniques by our reliable vendors. These molded products are highly acknowledged by our customers for their prolonged service life and light weight.",
+    "categories": "Rubber Products",
+    "company_name": "Hanuman Electricals",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "50",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_19.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_15.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_9.jpg"
+    ]
+  },
+  {
+    "id": "6acb3aaf-993f-43ee-8e9b-687f8cf484af",
+    "title": "Silicone Rubber Products",
+    "location": "Pune, Maharashtra",
+    "description": "1. Moulded Rubber Products&nbsp; &nbsp; a. Rubber O-rings&nbsp; &nbsp; b. Rubber Washers&nbsp; &nbsp; c. Rubber Gaskets&nbsp; &nbsp; d. Rubber Strips&nbsp; &nbsp; e. Rubber Dampers&nbsp; &nbsp; f. Rubber Bellows&nbsp; &nbsp; g. Rubber Grommets&nbsp; &nbsp; h. Rubber Suckers&nbsp; &nbsp; &nbsp;i. Rubber Diaphrams&nbsp; &nbsp; &nbsp;j. Rubber Bush&nbsp; &nbsp; k. Rubber Filter Gaskets&nbsp; &nbsp; &nbsp;l. Rubber Buttons&nbsp; &nbsp;m. Rubber Balls&nbsp; &nbsp; n. Rubber Pads&nbsp; &nbsp; o. Rubber couplers&nbsp; &nbsp; p. Rubber anti-vibration mounts&nbsp; &nbsp; q. Rubber Dampers&nbsp; &nbsp; r. Flange type Rubber Gaskets&nbsp; &nbsp; s. Ring type Rubber Gaskets2. Extruded Rubber Products&nbsp; &nbsp; a. Rubber Profiles&nbsp; &nbsp; b. Rubber Chords3. Rubber Sheets4. Rubber to Metal Bonded Products5. Industrial Gaskets&nbsp; &nbsp; a. CAF Gaskets&nbsp; &nbsp; b. NACF Gaslets&nbsp; &nbsp; c. Teflon Gaskets&nbsp; &nbsp; d. Spiral Wound Gaskets&nbsp; &nbsp; e. Rubber Gaskets",
+    "categories": "Silicone Rubber Products",
+    "company_name": "Vishal Rubber Technologies Pvt. Ltd.",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "15",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_1.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_23.jpg"
+    ]
+  },
+  {
+    "id": "7945d652-71d9-48c5-826b-1b963c35c2f9",
+    "title": "Silicone Rubber Products",
+    "location": "Pune, Maharashtra",
+    "description": "Silicon Rubber Products&nbsp;that we manufacture are primarily used in different industries and food processing industries; electrical industry for insulation purpose.&nbsp;",
+    "categories": "Silicone Rubber Products",
+    "company_name": "Jai Rubber Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_12.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_10.jpg"
+    ]
+  },
+  {
+    "id": "ec6c0706-4b6e-4835-b78b-a14783d7d1ad",
+    "title": "Rubber Products",
+    "location": "Pune, Maharashtra",
+    "description": "Seal Jet India Pvt Ltd company has established itself as a prominent player in the industry, providing high-quality products and customer-centric services to clients across the globe. Our infrastructure, advanced technology, and skilled workforce enable us to meet the diverse needs of our clients with ease.",
+    "categories": "Rubber Products, O-rings, Hydraulic Cylinder Seals",
+    "company_name": "Seal Jet India Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "120",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_7.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_5.jpg"
+    ]
+  },
+  {
+    "id": "e8267bdc-2d69-409b-a2de-1c0dc78ce74b",
+    "title": "Rubber Products",
+    "location": "Pimpri Chinchwad, Maharashtra",
+    "description": "Mechsword Technologies offers a wide range of high-quality Rubber Products, designed for durability and versatility. Our products cater to various industrial applications, ensuring reliable performance and precision in every use.",
+    "categories": "Rubber Products, Molded Rubber",
+    "company_name": "Mechsword Technologies",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "5",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_11.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_8.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_20.jpeg"
+    ]
+  },
+  {
+    "id": "f47cbfa0-d18a-4449-80eb-8a23cc8f9d9c",
+    "title": "Rubber Round Gripper",
+    "location": "Pimpri Chinchwad, Maharashtra",
+    "description": "Rubber Round Gripper",
+    "categories": "Rubber Products",
+    "company_name": "Hi Tech Rubber Products",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_17.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_4.jpg"
+    ]
+  },
+  {
+    "id": "68fafd7c-1be4-4bdd-a09b-9f6f3cebc4f5",
+    "title": "Rubber Products",
+    "location": "Pune, Maharashtra",
+    "description": "This paragraph contains a brief description of the product. Key Benefits Benefit 1  Benefit 2  Benefit 3 Pricing $100.00",
+    "categories": "Rubber Products",
+    "company_name": "Ascent Engineering",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_21.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_22.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_16.jpg"
+    ]
+  },
+  {
     "id": "c4e087bf-1c87-4f68-9d5d-135ea332a0b3",
     "title": "Dash Data Cable Type C",
     "location": "New Delhi, Delhi",
