@@ -15,6 +15,7 @@ import {Observable} from 'rxjs';
   styleUrl: './seller-info.component.css'
 })
 export class SellerInfoComponent implements OnInit {
+  isLoading = true;
   currentUrl: string = '';
   recentData: Seller[] = [];
   key = environment.secretKey;
@@ -29,6 +30,7 @@ export class SellerInfoComponent implements OnInit {
       if(!this.seller) {
         this.seller = Data.filter(item => item.id == sellerId)[0];
       }
+      this.isLoading = false;
     });
 
     this.currentUrl = window.location.href;

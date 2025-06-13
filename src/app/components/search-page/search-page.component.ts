@@ -34,7 +34,6 @@ export class SearchPageComponent implements OnInit {
   constructor(private route: ActivatedRoute, private router: Router, private dataService: DataService) {}
 
   ngOnInit() {
-    this.isLoading = true;
     (this.dataService.getData() as Observable<{ data: Seller[] }>).subscribe(res => {
       this.recentData = res.data;
       this.originalData = [...this.recentData, ...Data];
@@ -76,7 +75,7 @@ export class SearchPageComponent implements OnInit {
         this.totalPages = Math.max(1, Math.ceil(this.sellers.length / this.pageSize));
         this.currentPage = Math.min(pageFromUrl, this.totalPages);
         this.updatePagedSellers();
-        this.isLoading = false;
+        setTimeout(() => {this.isLoading = false;}, 2000);
       });
     });
   }

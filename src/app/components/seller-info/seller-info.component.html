@@ -1,4 +1,29 @@
-<div class="container my-3">
+<!-- Loading State -->
+<div *ngIf="isLoading" class="row g-4">
+  <div class="col-md-6">
+    <div class="skeleton w-100 rounded ratio ratio-4x3"></div>
+  </div>
+  <div class="col-md-6">
+    <div class="skeleton mb-2" style="height: 30px; width: 70%;"></div>
+    <div class="skeleton mb-2" style="height: 20px; width: 40%;"></div>
+    <div class="skeleton mb-2" style="height: 20px; width: 60%;"></div>
+    <div class="skeleton mb-3" style="height: 30px; width: 30%;"></div>
+    <div class="skeleton mb-3" style="height: 40px; width: 40%;"></div>
+    <div class="skeleton mb-2" style="height: 20px; width: 80%;"></div>
+    <div class="skeleton mb-2" style="height: 20px; width: 50%;"></div>
+    <div class="skeleton mb-2" style="height: 20px; width: 60%;"></div>
+    <div class="skeleton d-flex gap-2 mt-4">
+      <div class="skeleton rounded-pill" style="height: 20px; width: 80px;"></div>
+      <div class="skeleton rounded-pill" style="height: 20px; width: 60px;"></div>
+    </div>
+  </div>
+  <div class="col-12">
+    <div class="skeleton mb-3" style="height: 20px; width: 30%;"></div>
+    <div *ngFor="let i of [1,2,3]" class="skeleton mb-2" style="height: 20px;"></div>
+  </div>
+</div>
+
+<div *ngIf="!isLoading" class="container my-3">
   <div *ngIf="seller" class="row g-4">
 
     <!-- Carousel Section -->
