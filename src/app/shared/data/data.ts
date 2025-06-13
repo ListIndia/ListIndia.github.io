@@ -2,6 +2,189 @@ import {Seller} from '../models/seller.entity';
 
 export const Data: Seller[] = [
   {
+    "id": "698a5d2a-5a13-4aaa-af8c-c3e32a25c3df",
+    "title": "Bevel Helical Gearbox",
+    "location": "Pune, Maharashtra",
+    "description": "So as to furnish the ever-growing desires of our patrons, we are engrossed in delivering a comprehensive variety of Bevel Gearbox.&nbsp;Price Range:Rs. 5000 to 500000",
+    "categories": "Bevel Helical Gearbox, Planetary Gearbox, Aluminum Worm Gearbox",
+    "company_website": "https://www.vedantcranes.in/",
+    "company_name": "Vedant Equip Sales & Services Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "10000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_33.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_7.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_19.jpg"
+    ]
+  },
+  {
+    "id": "8715653a-9aa6-4270-b244-01f06e747941",
+    "title": "Helical Gear Boxes",
+    "location": "Pune, Maharashtra",
+    "description": "We are one of the widely acclaimed manufacturers and suppliers of Helical Gear Boxes. The offered helical gear boxes are specially designed and fabricated to accommodate helical gears. Our supplied helical gear boxes are made from superior grade raw materials, sourced from very trusted vendors in the market. The offered helical gear boxes are available at very cost effective market rates. Features:   Hard wearing designEasy installationLonger functional life",
+    "categories": "Industrial Gearboxes, Helical Gear Box, Gearbox",
+    "company_website": "https://www.bhumienterprises.net/",
+    "company_name": "Bhumi Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "5000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_17.jpg"
+    ]
+  },
+  {
+    "id": "19c1ed70-b591-4fe8-925a-a7dffd7ac7b1",
+    "title": "Aluminium Pressure Die-casting 360 Watt AC Gear Box Motor",
+    "location": "Pune, Maharashtra",
+    "description": "We are Manufacturer, Supplier of FHP Motors, FHP Geared Motors, Induction Motors, VFD, Reversible Motors, EM Brake Motors, Speed Control Motors, Speed Controllers, PMDC Motors, DC Geared Motors, DC Drivers, Centrifugal Blowers, Linear Actuators, Single Phase Motors, Three Phase Motors, Geared Motors, Manufacturer, Pune, India. Revolution Technology was established in the year 2004, at Pune ( Maharashtra, India ). We are reputed manufacturers of finest quality Electric Motors, Industrial Motors, Induction Motors, Reversible Motors, Electromagnetic Brake Motors, AC Geared Motors etc. Our range comprises AC Induction Motors of 25 Watt, 40 Watt, 60 Watt, 90 Watt, 180 Watt and 360 Watt. We provide all above powers in Reversible Motors, Electromagnetic Brake Motors, PMDC Motors and can provide the Geared Motors also. &nbsp; These products are manufactured using premium grade raw materials and latest technology. Our all products are die-casted and CNC Machined, VMC Machined so finishing and quality of products are excellent. Our product range is valued our clients for their diverse features such as dimensional accuracy, thermal resistant, robust construction, durability, sturdiness, longer working life and precision quality. Professionals of our team also ensure that offered products are manufactured as per the international standards. &nbsp; These are developed by our experienced and well trained professionals at our sophisticated production unit. Products offered by us are comprehensively used in all types of Industries. Our in house quality control unit makes us competent to examine the product assortment on pre-defined parameters. Products offered by us are carefully checked by our quality control inspectors using latest instruments and tools. In order to retain the customers, their faith and trust in our company, we remain in their contact to improve the quality of the products on the basis of their feedback and suggestions.We are successfully ranked amongst the top Manufacturer, Supplier and Exporter of Electric Motors, Industrial Motors, PMDC Motors, AC Motors, Geared Boxes etc. Our product range is manufactured using premium grade raw material, which is procured from some of the certified vendors of the industry. These products are widely acknowledged among clients for their unmatched quality, longer service life, robust construction and user-friendly nature. Our esteemed clients can avail these high quality products at industry leading prices.",
+    "categories": "Horizontal Gearbox, Motor Gearboxes",
+    "company_website": "https://www.revolutionindustries.in/",
+    "company_name": "Revolution Technology",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "youtube_video": "http://youtu.be/HijCdUHkFK8",
+    "price": {
+      "amount": "8500",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_31.jpeg"
+    ]
+  },
+  {
+    "id": "c75dcf7e-b1b9-485c-8c7f-2146a005572c",
+    "title": "Horizontal Poggi Make Gear Box, For Industrial",
+    "location": "Pune, Maharashtra",
+    "description": "Small in size, these Poggi Make Gear Boxes are reliable in nature and compact in frame. These gear boxes are sturdier in frame and easy to use. Safe from the damage by high pressure and rough weather these gear boxes are appreciable in finishing and made of rust proof metal.Features:   Compact frame Small size Rust proof ",
+    "categories": "Helical Gear Box, Worm Gearbox, Industrial Gearboxes",
+    "company_name": "Sago Corporation",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "20000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_23.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_34.jpeg"
+    ]
+  },
+  {
+    "id": "c9e671d6-2664-4c80-811e-0977032085bb",
+    "title": "Planetary Nidec shimpoo Gearbox, For Industrial",
+    "location": "Pimpri Chinchwad, Maharashtra",
+    "description": "Nidec Shimpoo Gearbox",
+    "categories": "Planetary Gearbox",
+    "company_name": "Innovative Solutions India Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_37.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_4.jpeg"
+    ]
+  },
+  {
+    "id": "91030b80-5bec-43de-94ba-fb10bb9617f4",
+    "title": "Anand Ss,Ms Spur Gearbox, For Industrial, Power: 1 Hp",
+    "location": "Thane, Maharashtra",
+    "description": "The Spur Gearbox is a reliable and cost-effective power transmission solution designed with spur gears featuring straight teeth mounted parallel to the shaft. Known for their simplicity and efficiency, spur gearboxes provide smooth and precise speed reduction and torque multiplication in a wide range of industrial applications.  ",
+    "categories": "Planetary Gearbox, Bevel Helical Gearbox",
+    "company_website": "https://www.anandgears.co.in/",
+    "company_name": "Anand Gears",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "2000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_35.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_2.jpeg"
+    ]
+  },
+  {
+    "id": "a5e78f6b-4ecf-48a8-9ca1-2919e5e4107e",
+    "title": "Horizontal Worm Reduction Gear Box for Industrial",
+    "location": "Thane, Maharashtra",
+    "description": "We are leading manufacturer of Worm Reduction Gear Box since 1980.Specialised in providing best quality gearboxes at affordable rates",
+    "categories": "Reduction Gear Boxes, Worm Gearbox, Horizontal Gearbox",
+    "company_website": "https://www.kiscogears.in/",
+    "company_name": "Kisco Gears",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "5999",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_32.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_11.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_28.jpeg"
+    ]
+  },
+  {
+    "id": "fcca980d-5cae-4a5c-8f61-42032dcb64f9",
+    "title": "Custom Gear Boxes",
+    "location": "Ahmedabad, Gujarat",
+    "description": "We offer a wide range of Custom Gear Boxes.Specifications:Type: Custom Gear BoxesOutput Speed: 15-250 RpmApplication: Motor, Agricultural Machinery, Ceramic, Glass, Logestic, crane conveyor, FMCGColor: Blue",
+    "categories": "Custom Gear Boxes, Agricultural Gearbox, Helical Gear Box",
+    "company_website": "https://www.speedotecheng.com/",
+    "company_name": "Speedo Tech Engineering",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "25000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_3.jpeg"
+    ]
+  },
+  {
+    "id": "0c6bb074-c7f4-409d-87d8-49f63dcea177",
+    "title": "Bronfiglioli Mild Steel In-Line Precision Planetary Gearboxes - Performance Line, For Conveyors",
+    "location": "Pune, Maharashtra",
+    "description": "TQ series - Size: 060/ 070/ 090/ 130/ 160 Backlash: 1 stage &le; 2 arcmin/ 2 stages &le; 3 arcmin Torque: 20&hellip;.800 Nm Ratio: 1 stage 3..10/ 2 stages 16..100 Input Speed: Upto 6000 min&minus;1 Max. radial force: 1850.. 15000 N TR series &nbsp; Size: 053/ 060/ 080/ 105/ 130/ 160/ 190 Backlash: 1 stage &le; 3 arcmin/ 2 stages &le; 3 arcmin/ 3 stages &le; 5 arcmin Torque: 12&hellip;.1000 Nm Ratio: 1 stage 3..10/ 2 stages 9..100/ 3 stages 48.. 1000 Input Speed: Upto 6000 min&minus;1 Max. radial force: 500.. 14000 N TQF series  Size: 060/ 070/ 090/ 130/ 160 Backlash: 1 stage less than 3 arcmin/ 2 stages less than 5 arcmin Torque: 20&hellip;.800 Nm Ratio: 1 stage 3..10/ 2 stages 16..100 Input Speed: Upto 6000 min&minus;1 Max. radial force: 2400.. 29000 N &nbsp;",
+    "categories": "Planetary Gearbox, Gearbox, Planetary Gear Units",
+    "company_name": "Cubix Automation Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "40000",
+      "quantity": "Number"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_22.jpeg"
+    ]
+  },
+  {
+    "id": "be12f259-4a5d-4dba-a10d-6aea1f93a96e",
+    "title": "Bondioli & Pavesi 26 Kw At 1000/Min S 10000 Multifunction Gearboxes, For Industrial",
+    "location": "Pune, Maharashtra",
+    "description": "We are involved in Manufacturing, Supplying & Exporting a wide spread array of Pressure Control Valves. Our pressure control valves are reckoned for its durability, resistance to chemical and corrosion.",
+    "categories": "Multi Speed Gearbox, Helical Gear Box",
+    "company_name": "Bondioli And Pavesi India Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "youtube_video": "http://youtu.be/jIOkPay1BAc",
+    "price": {
+      "amount": "28000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_5.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_9.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_25.jpg"
+    ]
+  },
+  {
     "id": "42b72928-38e8-47ea-9f5b-0c240af65c6a",
     "title": "Electrical Contractors For Industrial Wiring",
     "location": "Pune, Maharashtra",
