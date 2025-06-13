@@ -3,6 +3,179 @@ import {Seller} from '../models/seller.entity';
 export const Data: Seller[] = [
 
   {
+    "id": "ba8054ca-374a-4c22-8683-fcc85ae1fc28",
+    "title": "Asian Paints Tractor Emulsion, Packaging Size: 10 L",
+    "location": "Pune, Maharashtra",
+    "description": "Your home deserves to look and feel as beautiful as you. Tractor Emulsion helps with that. With 1.5 times more coverage than your average distemper, it provides a superior finish at an affordable cost. Additionally, it is a lead-free matt paint. A wide range of shades makes this water-based emulsion paint an upgrade from distemper. Do away with distemper and get beautiful walls right away!",
+    "categories": "Tractor Emulsion Paints, Interior Emulsion",
+    "company_name": "Hakimi Paints And Hardware",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "1400",
+      "quantity": "Bucket"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_4.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_18.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_7.jpeg"
+    ]
+  },
+  {
+    "id": "309e98bf-6d73-4b4d-89eb-1676cfd2a927",
+    "title": "Asian Tractor Emulsion Paints, Packaging Size: 20 Ltr",
+    "location": "Pune, Maharashtra",
+    "description": "The tractor's emulsion is&nbsp;a low-fiscal paint that has a matt finish. It's a low-cost, easy to paint starting range of plastic paint that covers 150-180 square feet and comes in more than 1675 distinct tones. Painters use this paint more frequently. apply two coats of paint so that it lasts for 3-4 years.",
+    "categories": "Tractor Emulsion Paints",
+    "company_name": "Raj Paints And Hardware",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "2750",
+      "quantity": "Bucket"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_23.jpeg"
+    ]
+  },
+  {
+    "id": "cbe3e277-cc3a-4374-ab6d-9b8b6e58d757",
+    "title": "Asian Paints Tractor Emulsion, 20 ltr",
+    "location": "Pune, Maharashtra",
+    "description": "Your trusted partner for high-quality paints and coatings. At Om Sai Paints, we pride ourselves on delivering exceptional products that meet the diverse needs of our customers.",
+    "categories": "Tractor Emulsion Paints, Asian Emulsion Paints",
+    "company_name": "Om Sai Paints",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "2550",
+      "quantity": "Bucket"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_17.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_29.jpeg"
+    ]
+  },
+  {
+    "id": "5c2469ba-c421-4625-91ff-e5998494d969",
+    "title": "Asian Paint Tractor Emulsion 20 Ltr",
+    "location": "Pune, Maharashtra",
+    "description": "We&nbsp;&ldquo;Machine Tools Hardware And Appliances Co&rdquo;&nbsp;are a leading&nbsp;Wholesale Trader, Service Provider&nbsp;and&nbsp;Retailer&nbsp;of a wide range of&nbsp;Emulsion Paint, Enamel Paint, Primer Paint,&nbsp;etc.",
+    "categories": "Tractor Emulsion Paints, Asian Emulsion Paints",
+    "company_name": "Machine Tools Hardware And Appliances Co",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "2800",
+      "quantity": "Bucket"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_11.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_51.jpg"
+    ]
+  },
+  {
+    "id": "dab7e969-c261-4e7d-9062-793aaf20c241",
+    "title": "Asian Paints Tractor Emulsion Shyne, Packaging Size: 20 Ltr",
+    "location": "Pune, Maharashtra",
+    "description": " Get a luxurious sheen finish with tractor emulsion shyne, an affordable emulsion for your interior walls. It provides more paint coverage than regular distemper and offers a wide range of shades that makes your home unique. With 3 years performance warranty, tractor emulsion shyne keeps your walls shinning for a long time, and keeps the compliments coming  3 Year WarrantyWith a 3 years performance warranty, your walls will stay beautiful for a long time.WashableCosts a little more than distemper, but has a better washability.CoverageCovers 1.5x more area than distemperExcellent SmoothnessBeautiful to the eye, smooth to the touchInspiring Ideas For Your HomeFind decor inspiration and popular colour schemes in our ideas gallery.",
+    "categories": "Tractor Emulsion Paints",
+    "company_name": "Akshay Hardware And Electricals",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "5240",
+      "quantity": "Bucket"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_26.jpg"
+    ]
+  },
+  {
+    "id": "1fe71790-2468-4d9a-8c17-9700afd0edea",
+    "title": "Asian Emulsion Paints",
+    "location": "Pune, Maharashtra",
+    "description": "Emulsion paint is&nbsp;a water-based paint made with a mixture of synthetic resins, additives, pigments, and water. It is the most commonly used type of wall paint by a house painter due to its affordability, easy application, and durability",
+    "categories": "Tractor Emulsion Paints",
+    "company_website": "https://www.aquaprotectadhesives.com/",
+    "company_name": "Aquaprotect Adhesives",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "550",
+      "quantity": "Litre"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_22.jpeg"
+    ]
+  },
+  {
+    "id": "39d9b433-8741-47c7-a24c-da541c86e0b1",
+    "title": "Asian Paints Tractor Emulsion, 10 ltr",
+    "location": "Pune, Maharashtra",
+    "description": "Transform Your Interior Walls with the Smooth Finish and Vibrant Colors of Asian Paints Tractor Emulsion. Specially Crafted for Homes and Offices, This High-Quality Emulsion Paint Provides Excellent Coverage and Durability. Whether for Renovation Projects or New Construction, Asian Paints Tractor Emulsion Adds Style and Elegance to Any Space.",
+    "categories": "Tractor Emulsion Paints",
+    "company_name": "Royal Hardware And Electricals",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "1599",
+      "quantity": "Bucket"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_50.jpg"
+    ]
+  },
+  {
+    "id": "fb481252-69ed-4ef7-b749-818d42a0a12d",
+    "title": "Asian Paints Tractor Emulsion, 1 ltr",
+    "location": "Pune, Maharashtra",
+    "description": "Asian Paints Tractor Emulsion",
+    "categories": "Tractor Emulsion Paints",
+    "company_name": "Gurukrupa Sales And Corporate",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_35.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_46.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_36.jpg"
+    ]
+  },
+  {
+    "id": "f377ad09-d481-4b6d-beb2-f873a64e0b99",
+    "title": "Asian Paints Tractor Emulsion, 4 ltr",
+    "location": "Pune, Maharashtra",
+    "description": "Product Description:    Your home deserves to look and feel as beautiful as you. Tractor Emulsion helps with that. With 1.5 times more coverage than your average distemper, it provides a superior finish at an affordable cost. Additionally, it is a lead-free matt paint. A wide range of shades makes this water-based emulsion paint an upgrade from distemper. Do away with distemper and get beautiful walls right away!   Higher Coverage Coverage is 1.5 Times More Than Distemper.   Low Maintenance  You Will Not Need a Retouch Time and Again.   Affordability  Economical Choice of Paint, Perfect Value for Money. Paint for Your Home Interiors    Long Lasting  The Finish Can Be Retained for 3-4 Years on Your House Walls.   Base Paint 02257 Mfd 04/2023 Best Before 60 Month From Mfd Unit Sale Price 238 Per Litre Only For Base Paint,add Colorants,Colorants Cost Extra ",
+    "categories": "Tractor Emulsion Paints",
+    "company_name": "Wagheshwar Paint House",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "953",
+      "quantity": "Bucket"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_47.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_24.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_49.jpg"
+    ]
+  },
+  {
+    "id": "546cd235-cf14-43bf-b800-d86c78507509",
+    "title": "VAPCO PAINTS ACRYSTAR Interior Emulsion Paint",
+    "location": "Pune, Maharashtra",
+    "description": "ACRYSTAR Interior Emulsion is a matt finish semi-acrylic emulsion. The best emulsion upgrade from the conventional distempers.  &nbsp;Smooth Matt Finish &nbsp;Good Washability &nbsp;Optimum Performance &nbsp;Low Odour ",
+    "categories": "Tractor Emulsion Paints, Interior Emulsion, Emulsion Paints",
+    "company_name": "Vapco Paints /sara Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_16.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_34.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_27.jpeg"
+    ]
+  },
+  {
     "id": "70e30b96-4199-4af7-8614-557a20521325",
     "title": "Asian Paints Royale",
     "location": "Pune, Maharashtra",
