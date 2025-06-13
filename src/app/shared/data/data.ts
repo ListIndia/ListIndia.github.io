@@ -3,6 +3,181 @@ import {Seller} from '../models/seller.entity';
 export const Data: Seller[] = [
 
   {
+    "id": "8b0ec69c-fe80-4136-a913-a35aa3f10b2d",
+    "title": "Mobil 600 XP 320 Series Gear Oil, Grade: ISO320, Unit Pack Size: 200 L",
+    "location": "Pune, Maharashtra",
+    "description": "We are offering&nbsp;Mobil&nbsp;600 XP 320 Series Gear Oil to our valuable clients. This is Industrial Gear Oil.",
+    "categories": "Gear Oil, Mobil Gear Oil",
+    "company_website": "https://www.sanjaytools.in/",
+    "company_name": "Sanjay Tools And Accessories Pvt Ltd",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "350",
+      "quantity": "Litre"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_50.jpg"
+    ]
+  },
+  {
+    "id": "86c2cf8b-1948-42d1-8abd-68025683a141",
+    "title": "Lubri-Chem Fine Gear 460 Gear Oil, Bucket of 20 L",
+    "location": "Pune, Maharashtra",
+    "description": "FINE GEAR 460 Gear Oils are Premium Quality extrem Pressure gear lubricating oils, solvent refined having high viscosity index with extremely good oxidation stability. These oils are blended with selected extreme pressure additives to provide anti-foam, anti-wear and anti-rust properties.",
+    "categories": "Gear Oil",
+    "company_website": "https://www.lubrichem.in/",
+    "company_name": "Lubri Chem",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "115",
+      "quantity": "Litre"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_15.jpeg"
+    ]
+  },
+  {
+    "id": "541fccfd-701a-4cdc-9f55-abae813d57d6",
+    "title": "RBM High Pressure Mobil Gear Oil, Grade: Ep 90",
+    "location": "Pune, Maharashtra",
+    "description": "RBM Oil Corporation is proud to present its high-quality Gear Oil, a specialized lubricant designed to provide exceptional performance and protection for various types of gear systems. RBM Gear Oil is formulated with advanced additives and high-quality base oils to ensure optimal lubrication, reduce friction, and extend the life of gears and gearboxes. Key Features:   Superior Lubrication: RBM Gear Oil offers excellent lubrication properties that reduce friction and wear between gear surfaces. It forms a protective film on gear teeth, preventing metal-to-metal contact and extending the life of gears and gearboxes.   Exceptional Wear Protection: The advanced formulation of RBM Gear Oil provides superior wear protection for gears, bearings, and other critical components. It minimizes surface fatigue, pitting, and scoring, ensuring reliable operation and prolonging equipment life.   Excellent Thermal Stability: RBM Gear Oil exhibits excellent thermal stability, resisting degradation and maintaining its performance at high temperatures. It effectively dissipates heat generated during gear operation, preventing overheating and extending the life of the gear system.   Oxidation and Corrosion Resistance: RBM Gear Oil is formulated with additives that provide excellent oxidation and corrosion resistance. It protects gears and gearboxes from rust, corrosion, and the formation of harmful deposits, ensuring reliable performance and long-term durability.   Optimized Friction Characteristics: RBM Gear Oil is designed to provide balanced friction characteristics, ensuring smooth gear shifting and optimal transmission efficiency in manual transmissions and gearboxes.   Compatibility with Seals and Gaskets: RBM Gear Oil is compatible with various seal and gasket materials commonly used in gear systems. It helps maintain seal integrity, prevents leaks, and ensures proper lubrication and protection of gears and gearboxes.   Wide Application Range: RBM Gear Oil is suitable for a wide range of gear systems, including automotive transmissions, manual transmissions, differential gears, industrial gearboxes, and heavy-duty equipment. It provides reliable performance and protection for diverse applications.  ",
+    "categories": "Mobil Gear Oil, Transmission Oil",
+    "company_website": "https://www.rbmoilcorporation.in/",
+    "company_name": "RBM Oil Corporation",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "109",
+      "quantity": "Litre"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_28.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_57.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_43.jpg"
+    ]
+  },
+  {
+    "id": "a3141797-9581-42ca-bd7c-3a2aff6107fc",
+    "title": "HP MOBIL GEAR OIL",
+    "location": "Pune, Maharashtra",
+    "description": "&nbsp;We are offfering HP Mobil Gear Oil as per customer's requirement.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; .",
+    "categories": "Mobil Gear Oil, Gear Oil",
+    "company_website": "https://www.asreliable.com/",
+    "company_name": "Reliable Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "185",
+      "quantity": "Litre"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_48.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_38.png"
+    ]
+  },
+  {
+    "id": "c11cca55-b22d-4bec-8389-c31840c62a96",
+    "title": "Industrial Shell Omala S4 GX 320 Gear Oil, Grade: 320,460",
+    "location": "Pune, Maharashtra",
+    "description": "Shell Omala S4 GX 320 is an advanced synthetic heavy duty industrial gear oil offering outstanding lubrication performance under severe operating conditions, including reduced friction, long service life and high resistance to micro-pitting for optimal gear protection.Benefits-Extra protection&nbsp;-Extra life-Special applicationsTechnologySynthetic (advanced extreme-pressure, EP, system)",
+    "categories": "EP 90 Gear Oil, Shell Gear Oil",
+    "company_website": "https://www.vedantcranes.in/",
+    "company_name": "Vedant Equip Sales & Services Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "295",
+      "quantity": "Litre"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_52.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_47.jpg"
+    ]
+  },
+  {
+    "id": "f119bdc3-d4e4-49d1-8325-5d559f80b44c",
+    "title": "MAK Amocam ALS 220 Gear Oil, Barrel of 210 L",
+    "location": "Mumbai, Maharashtra",
+    "description": "MAK Amocam ALS 220 Gear Oil is a superior quality industrial gear oil formulated from highly refined base oil. Special additives impart good antiwear protection, oxidation stability load carrying ability and rust prevention characteristics. Contamination of rolling fluids with a conventional gear lubricant could result in staining of the finished Aluminium foils after annealing. This oil with non-staining base stock exhibits very non staining property. It is not corrosive to copper or yellow metals. MAK AAMOCAM ALS oil is specially designed for the lubrication of the enclosed gears in Aluminium or yellow metals rolling mill where cross-contamination of rolling oils with gear oil could cause staining problem. MAK AMOCAM ALS is suitable for lubrication of bevel and spur gears, bearing and gear coupling, worm gears.\t\t\t",
+    "categories": "Gear Oil",
+    "company_name": "Mak Lubricants (Brand Of Bharat Petroleum Corporation Ltd)",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_2.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_26.jpg"
+    ]
+  },
+  {
+    "id": "5627e2d7-89f5-4cc2-abc1-ec3901c22bf6",
+    "title": "Hp Ep 90 Gear Oil, Packaging Size: Barrel of 210 Litre",
+    "location": "New Delhi, Delhi",
+    "description": "HP Gear Oil XP 80W 90 are&nbsp;multipurpose gear oils containing extreme pressure additives for moderate service conditions. This type of extreme pressure oils excellent thermal &amp; chemical stability protection against rust and corrosion ensuring longer trouble free protection.",
+    "categories": "HP Gear Oil, EP 90 Gear Oil",
+    "company_name": "Bansal Oil & Lubricants Co.",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "89",
+      "quantity": "Litre"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_33.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_41.jpg"
+    ]
+  },
+  {
+    "id": "6baef707-4533-489b-9501-c755170f6cf0",
+    "title": "Castrol Gear Oil, Unit Pack Size: 210 Liter",
+    "location": "Ghaziabad, Uttar Pradesh",
+    "description": "DESCRIPTION Castrol Alpha SP gear oils are a range of high quality solvent refined mineral oils, fortified with sulphur-phosphorous compounds to impart anti-wear and extreme pressure properties.&nbsp;",
+    "categories": "Gear Oil, Castrol Gear Oil",
+    "company_website": "https://www.kannuinternational.com/",
+    "company_name": "Kannu International",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_23.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_27.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_31.png"
+    ]
+  },
+  {
+    "id": "9ca1f647-9cfe-42b2-a0b4-e46cac9d7c27",
+    "title": "Castrol 320 Gear Oil",
+    "location": "Ghaziabad, Uttar Pradesh",
+    "description": "They are formulated using high quality mineral base oils which are fortified with a sulfur-phosphorous additive system to prevent scuffing in heavily loaded applications....Castrol Alpha SP 320 Gear Oil, Unit Pack Size: 210 Ltires.",
+    "categories": "Castrol Gear Oil, Gear Oil",
+    "company_website": "https://www.jkoils.co.in/",
+    "company_name": "J K Oils",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_18.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_51.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_25.jpg"
+    ]
+  },
+  {
+    "id": "4c6c9573-d81c-4810-bc9f-162a56b3c41c",
+    "title": "Adhesive Total Carter Ep 220 Gear Oil",
+    "location": "New Delhi, Delhi",
+    "description": "We are engaged in offering Quality Products to our clients. Our range of all products is widely appreciated by our clients.",
+    "categories": "EP 90 Gear Oil, Gear Oil",
+    "company_name": "Aggarwal Drum Supply Company",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "160",
+      "quantity": "Litre"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gear_oil_46.jpg"
+    ]
+  },
+  {
     "id": "025dd620-1b2c-4403-945e-986de0050196",
     "title": "Tissue Cotton Sarees",
     "location": "Pune, Maharashtra",
