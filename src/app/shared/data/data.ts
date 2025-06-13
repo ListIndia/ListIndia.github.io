@@ -2,6 +2,191 @@ import {Seller} from '../models/seller.entity';
 
 export const Data: Seller[] = [
   {
+    "id": "7a25b589-3624-4835-8607-0e4acd04802f",
+    "title": "Fabric High Back Office Chair, Adjustable Arms",
+    "location": "New Delhi, Delhi",
+    "description": "Erizo Ergonomic Office Chair for Work Specifications: Armrests: 4D adjustable soft armrests, Mechanism: Smart 3-Position Multi-lock mechanism (locks at 90&deg;, 120&deg;, and 140&deg;), Lumbar Support: 1D adjustable, Headrest: 1D adjustable, Height Suitability: Up to 6', Weight Capacity: Up to 120 kg, Wheels: 60mm BIFMA-certified castor wheels, Height Adjustment: Yes, Warranty: 3 years,",
+    "categories": "Fabric Office Chair, High Back Office Chair",
+    "company_website": "https://www.furnitureclick.in/",
+    "company_name": "MBTC Intrafurnish Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "5200",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_1.jpg"
+    ]
+  },
+  {
+    "id": "7f6df43b-53b5-4812-9fbd-90504e46f265",
+    "title": "High Back Fido White Revolving Office Chairs",
+    "location": "Pune, Maharashtra",
+    "description": "REVOLVING CHAIR VEFRY SUITABLE FOR LONG TIME OFFICE WORKING WITH ERGONOMIC FEATURES , ITS VERY SUITABLE FOR OFFICE STAFF AND WORKSTATION.",
+    "categories": "High Back Office Chair, Director & Chairman Chair",
+    "company_website": "https://www.ergoluxe.in/",
+    "company_name": "Ergoluxe India",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "14750",
+      "quantity": "pair"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_2.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_7.jpg"
+    ]
+  },
+  {
+    "id": "487c2fb2-6e33-4ded-acc6-39986dd31327",
+    "title": "Bluebell Nylon Proactive Leather Office Chair",
+    "location": "Pune, Maharashtra",
+    "description": "A Nice Blend of Beauty with Comfort, Crafted With Love, Designed With Passion, Best Option For Conference and Exceutive Chairs",
+    "categories": "Leather Office Chair, Office Chairs",
+    "company_website": "https://www.humanmethodergo.in/",
+    "company_name": "Human Method Ergonomics Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "14000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_33.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_38.jpg"
+    ]
+  },
+  {
+    "id": "3bc9fa7f-a9a7-45e7-bf4f-4cdcf31c75eb",
+    "title": "Silver,Black Leather Bosom Low Back Office Chair",
+    "location": "Pune, Maharashtra",
+    "description": "We are the leading and prominent Manufacturer, Trader and Wholesaler of&nbsp;Bosom Low Back Office Chair.",
+    "categories": "Low Back Office Chair, Revolving Chair, Boss Office Chair",
+    "company_website": "https://www.scomfort.net/",
+    "company_name": "S. Comfort Seating System",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "7700",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_18.jpg"
+    ]
+  },
+  {
+    "id": "81a7f766-4011-4e22-b719-fef78cdb3ed2",
+    "title": "Fabric Mesh High Back Office Chair",
+    "location": "Pune, Maharashtra",
+    "description": "  optima mesh back  adjustable head rest adjustable lumber support adjustable 3d armrest with pu pad (patented) multi lock synchro mechanism gaslift 85mm ( bifma certified) heavy cr base nylon caster (bifma certified)     one year warranty only for manufacturing defects delivery within 4 days.    ",
+    "categories": "High Back Office Chair, Executive Chairs, Mesh Executive Chair",
+    "company_name": "Magnus Seatings",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "16500",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_45.png"
+    ]
+  },
+  {
+    "id": "3f6464d1-cbed-4e60-89b7-9c5507a52568",
+    "title": "Fabric Office Chair",
+    "location": "Pune, Maharashtra",
+    "description": "We offer impeccable quality of Office &nbsp;Chair . These Revolving Chairs are best known for melting down stress level and, reducing fatigue and increasing the efficiency of work. With the guarantee of flawless designs and utmost quality, revolving chairs are ultimate in comfort. It is crafted with innovative technology and high quality raw material. It has small wheels to give elegant look.Features:LightweightHighly durable Extremely comfortable",
+    "categories": "Office Chairs, Revolving Chair, Fabric Office Chair",
+    "company_website": "https://www.pyramidseatingsystem.com/",
+    "company_name": "Pyramid Seating System, India",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "youtube_video": "http://youtu.be/eMDFlG3JXoM",
+    "price": {
+      "amount": "4800",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_49.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_11.jpeg"
+    ]
+  },
+  {
+    "id": "b34397db-3928-4c91-99be-3219404ee8eb",
+    "title": "BSSI Black Modern Leather Office Chairs",
+    "location": "Mumbai, Maharashtra",
+    "description": "Owing to the rich industrial experience and expertise in this business, we are involved in providing&nbsp;Modern Leather Chair.",
+    "categories": "Leather Office Chair, Executive Chairs",
+    "company_website": "https://www.officechairmanufacturers.com/",
+    "company_name": "Bharat Seating Systems (India)",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "4450",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_4.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_21.png"
+    ]
+  },
+  {
+    "id": "cfb8f9dc-16a8-49ac-81d8-8ac846525b64",
+    "title": "Leatherette IC 67 Mini Makson LB Revolving Innowin Office Chair, Warranty: 1 Year",
+    "location": "Ambarnath, Maharashtra",
+    "description": "DescriptionWe have come a long way and adapted to a lot of changes over the years and still continue to do so.&nbsp; Building on ideas to create better idea.  40+ years of manufacturing experience More than 1lac + customers 400 + dealers pan india 300+ sku Supply in 3 countries 1.2 lac sq ft manufacturing unit Amazon bestsellers Completed projects with top brands like adani, asg hospital, delhivery and many more.  &nbsp;",
+    "categories": "Low Back Office Chair, Revolving Chair",
+    "company_name": "Bharat Furniture Mfg.Co. (India)",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "2320",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_13.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_12.jpeg"
+    ]
+  },
+  {
+    "id": "32c90218-7598-4cdf-a29d-4bca6558fa62",
+    "title": "Matrix High Back Mesh Office Chair, Warranty: 1 Year",
+    "location": "Ulhasnagar, Maharashtra",
+    "description": "Matrix High Back Executive Chair &#160;\"Shaad Enterprises\" is one of a well reputable firm in this product sector. We are engaged as a Manufacturer of Office chairs, visitors chair, dinning set, folding bed, Sofa Cum Bed, L Shape Sofa etc.",
+    "categories": "High Back Office Chair",
+    "company_name": "Shaad Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "4500",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_46.png"
+    ]
+  },
+  {
+    "id": "a83f78b8-f1ed-4b4c-9d7f-576d31470704",
+    "title": "High Back Black Leather Office Chair",
+    "location": "Mumbai, Maharashtra",
+    "description": "Incorporated in&nbsp;2019, at Mumbai, (Maharashtra, India), we, &ldquo;Yogeshwar Timber Traders&rdquo;, are known as the prominent&nbsp;Wholesale Trader and Supplier&nbsp;of a qualitative gamut of&nbsp;Office Chair, Executive Chair, Director Chair, Visitor Chair and many more.",
+    "categories": "Leather Office Chair",
+    "company_website": "https://www.yogeshwartimber.com/",
+    "company_name": "Yogeshwar Timber Traders",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "7000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_25.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_24.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_53.jpg"
+    ]
+  },
+  {
     "id": "698a5d2a-5a13-4aaa-af8c-c3e32a25c3df",
     "title": "Bevel Helical Gearbox",
     "location": "Pune, Maharashtra",
