@@ -3,6 +3,191 @@ import {Seller} from '../models/seller.entity';
 export const Data: Seller[] = [
 
   {
+    "id": "976e8859-3a6c-4212-be59-16b513eb4c56",
+    "title": "Particle Board 4 Seater Modular Office Workstation",
+    "location": "Pune, Maharashtra",
+    "description": "Table top 25mm plpb with 2mm pvc edge binding with understurcture in metal podwer coating,half cover verticle end to end&nbsp;in laser&nbsp;cutting.Per seating table size : 1200X600X750 H mm,&nbsp;Partition size : 1100X350 H mm,Pratition thickness : 35mm,Pipe size : 50X50 mm,Pipe thickness : 18 gauge. &nbsp;",
+    "categories": "Modular Office Workstation, Modular Office Furniture",
+    "company_website": "https://www.scomfort.net/",
+    "company_name": "S. Comfort Seating System",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "8000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_24.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_32.jpeg"
+    ]
+  },
+  {
+    "id": "2704413a-f07c-4a7a-bd7a-beb851e276f3",
+    "title": "Particle Board 3 Seater Modular Office Workstation",
+    "location": "Pune, Maharashtra",
+    "description": "Provided furniture also enhances the decor of the places with its mesmerizing designs and gives good comfort on seating. The manufacturing of this furniture is done with the help of premium grade raw material and advanced machinery.",
+    "categories": "Modular Office Furniture, Modular Office Workstation",
+    "company_website": "https://www.kohinoorfurniture.in/",
+    "company_name": "Kohinoor Furniture",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "450",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_10.jpeg"
+    ]
+  },
+  {
+    "id": "c3402e59-2831-4bda-828f-57ab54954c72",
+    "title": "Wooden Linear Modular Office Workstation",
+    "location": "Pune, Maharashtra",
+    "description": "We are offering Linear Modular Office Workstation to our clients.We can provide our products for Pune &amp; Maharashtra Region .",
+    "categories": "Modular Office Workstation, Office Workstation Furniture",
+    "company_website": "https://www.axiomindustriesindia.com/",
+    "company_name": "Axiom Industries",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "12500",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_26.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_41.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_12.jpeg"
+    ]
+  },
+  {
+    "id": "069679e2-5ccf-4e8c-a692-e5cdf8ea7d5f",
+    "title": "Rhombus Modular Office Workstation, For Workstations For Staff Seating",
+    "location": "Pune, Maharashtra",
+    "description": "We are dealing in Rhombus Modular Office Workstation.Best in material quality&nbsp; and Finishing.",
+    "categories": "Office Workstation Furniture, Modular Office Workstation",
+    "company_name": "Stepearly Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "youtube_video": "https://youtu.be/ywWZJ4IDbxQ?si=AIMXZGyjbkfQv8NB",
+    "price": {
+      "amount": "7000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_5.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_46.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_37.jpg"
+    ]
+  },
+  {
+    "id": "057d23e8-154a-416f-a530-fd1b06a37a14",
+    "title": "Particle Board Modular Office Furniture",
+    "location": "Pune, Maharashtra",
+    "description": "We have marked a remarkable position in the market by offering the best quality array of Modular Office Furniture&nbsp;to our clients.",
+    "categories": "Modular Office Furniture",
+    "company_name": "Blue Ribbon Furnishers Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "youtube_video": "https://www.youtube.com/watch?v=LkOUTBPE_SE&feature=youtu.be",
+    "price": {
+      "amount": "24500",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_13.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_8.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_39.jpg"
+    ]
+  },
+  {
+    "id": "4b386467-6eac-4482-8b33-b4caa34e133b",
+    "title": "Wooden 1 Seater Corporate Modular Office Workstation",
+    "location": "Pune, Maharashtra",
+    "description": "We are manufacturer of maodular furniture Modular furniture sutaible for commercial spaces We Provide material in particle board  ply and MDF",
+    "categories": "Modular Office Workstation, Modular Office Furniture, Office Furniture",
+    "company_website": "https://www.modmen.in/",
+    "company_name": "Mod Men",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "25000",
+      "quantity": "Set"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_22.jpg"
+    ]
+  },
+  {
+    "id": "a4c78730-f8c6-4fff-82cd-5a711e71d5ab",
+    "title": "Plywood Modular Office Furniture",
+    "location": "Mumbai, Maharashtra",
+    "description": "We at&nbsp;Vlite Furnitech LLP&nbsp;provides Modular Office Furniture to our customers at a good price.",
+    "categories": "Modular Office Furniture, Modular Office Workstation",
+    "company_website": "https://www.vlitefurnitech.net/",
+    "company_name": "Vlite Furnitech LLP",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "18000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_4.png"
+    ]
+  },
+  {
+    "id": "37a573b3-f68f-499a-aa88-2ef8e471bb4f",
+    "title": "Particle Board Office Modular Furniture",
+    "location": "Mumbai, Maharashtra",
+    "description": "linear 4 seater back to back workstation",
+    "categories": "Modular Office Furniture",
+    "company_website": "https://www.adityoaenterprises.com/",
+    "company_name": "Adityoa Enterrprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_35.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_20.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_29.jpeg"
+    ]
+  },
+  {
+    "id": "7dcfb761-7116-427d-ae64-e43f0681ef3b",
+    "title": "Particle Board Workstation office modular",
+    "location": "Thane, Maharashtra",
+    "description": "We are engaged in offering Quality Products to our clients. Our range of all products is widely appreciated by our clients.",
+    "categories": "Modular Office Furniture",
+    "company_name": "Wood Art Modular Furniture",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "25000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_36.jpg"
+    ]
+  },
+  {
+    "id": "654da044-04af-4e87-a96a-ee43fb454825",
+    "title": "Wooden Modular Office Furniture",
+    "location": "Dombivli, Maharashtra",
+    "description": "Wood Aluminium Modular Workstation For Corporate Office",
+    "categories": "Modular Office Furniture",
+    "company_name": "Kreation Furniture",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "9000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_16.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_23.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_furniture_7.jpeg"
+    ]
+  },
+  {
     "id": "a155002a-a7aa-4b83-a661-e0c2a9ff048b",
     "title": "Commercial Plywood Aaesthetic Space Enterprises Home Furniture",
     "location": "Pune, Maharashtra",
