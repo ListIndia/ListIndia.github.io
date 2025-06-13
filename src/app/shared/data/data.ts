@@ -3,6 +3,188 @@ import {Seller} from '../models/seller.entity';
 export const Data: Seller[] = [
 
   {
+    "id": "2be01cb9-4c4d-416d-800f-a80d8670622b",
+    "title": "Multicolor Wooden Education Learning Toy, 4-6 Yrs",
+    "location": "Pune, Maharashtra",
+    "description": "These educational wooden toys for kids are&nbsp;aimed towards early brain development of kids through play.",
+    "categories": "Wooden Educational Toy, Learning and Educational Toy, Educational Toys",
+    "company_name": "Sankalpa Services",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "400",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_50.jpg"
+    ]
+  },
+  {
+    "id": "ad81df85-b96f-4190-a15a-ec51c364a2d5",
+    "title": "Creative Tube Toy, Motor skills, 7-10 Yrs",
+    "location": "Pune, Maharashtra",
+    "description": "The kit with over 90 straws and different flat card sheet joints, is useful to make 2D and 3D shapes and to boost creativity. ",
+    "categories": "Creative Toys",
+    "company_name": "Kutuhal Science Activities Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "480",
+      "quantity": "Unit"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_29.jpeg"
+    ]
+  },
+  {
+    "id": "841bfdad-ffff-43e5-b306-2695b5402671",
+    "title": "Multicolor Plastic Children Rocker Toy",
+    "location": "Pune, Maharashtra",
+    "description": "Incepted in the year 1975, &ldquo;Porwal Cycle &amp; Motor Co.&rdquo; is a distinguished wholesaler offering an enormous consignment of Magic Car, Plastic Swing, Kids Seesaw etc.",
+    "categories": "Rocking Toy, Kids Toys, Baby Learning Toy",
+    "company_name": "Porwal Cycle And Motor Company",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "1000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_45.jpg"
+    ]
+  },
+  {
+    "id": "b9858e30-725f-4d44-8839-2f9da6ff1f22",
+    "title": "wooden Educational Toy, 0-3 Yrs",
+    "location": "Pimpri Chinchwad, Maharashtra",
+    "description": "Wooden Toys, pull string toy's,&nbsp; for learning ",
+    "categories": "Wooden Educational Toy",
+    "company_name": "Avyaan Traders",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "270",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_49.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_37.jpg"
+    ]
+  },
+  {
+    "id": "054ca573-db66-401e-a2fb-7fe12cd796df",
+    "title": "Teddy Roly Poly Toy",
+    "location": "Pune, Maharashtra",
+    "description": "Teddy Roly Poly Toy&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;",
+    "categories": "Baby Toys",
+    "company_name": "SBK Marketing",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "230",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_7.jpg"
+    ]
+  },
+  {
+    "id": "08e1522a-e15f-44e4-a628-15f88390ebd9",
+    "title": "ABS Rectangle Sensory Fidget Toy With Sound",
+    "location": "Surat, Gujarat",
+    "description": "Backed by rich industrial experience we are offering sensory fidget&nbsp; to our customers providing the best services to our customers at reasonable rates",
+    "categories": "Pop It Toy",
+    "company_website": "https://www.qualityzoneindia.com/",
+    "company_name": "Quality Zone",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "165",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_40.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_20.jpg"
+    ]
+  },
+  {
+    "id": "fedf827b-00e4-48a9-ac06-bfa1b96a95a1",
+    "title": "Plastic Gel Blaster Toy Guns",
+    "location": "Surat, Gujarat",
+    "description": " Versatile 2-in-1 Toy Gun: The Force Blaster Manual Soft Bullet Gun offers dual functionality, allowing children to shoot soft foam bullets and water balls. This provides a thrilling and diverse shooting experience during playtime. Shoot with precision and keep your ammo at your fingertips - with our Hand Strap for Soft Dart Bullet ! Quickly and easily store up to 10 soft bullets on your hand so you can reload faster than ever. Safety First: Designed with children's safety in mind, this toy gun is constructed from soft materials that eliminate the risk of injury. The soft foam bullets and water balls ensure a harmless and enjoyable play experience for kids. Spark Imaginative Play: With the Force Blaster Manual Soft Bullet Gun, children can engage in imaginative play by firing soft foam bullets and suction darts. They can create exciting scenarios, aim at imaginary targets, and indulge in creative storytelling. Enhances Skills: This toy gun promotes skill development by improving hand-eye coordination and precision. Children can hone their aiming abilities by shooting at imaginary targets or creating their own target board, fostering skill improvement through play. Water ball does not shoot continuously, Please do not close water ball bottle tightly keep it loose to function it smoothly, some shoot misses in between it is feature of this product you may say surprise shot ",
+    "categories": "Shooting Toy Gun, Kids Toys",
+    "company_name": "Rapid Import & Export",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "210",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_26.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_56.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_1.jpeg"
+    ]
+  },
+  {
+    "id": "ed7491f0-6960-49e5-9f31-6e1781e934c3",
+    "title": "Plastic Dancing Cactus Toy",
+    "location": "Surat, Gujarat",
+    "description": "We are engaged in offering Dancing Cactus Toy to our clients. Our range of all services is widely appreciated by our clients.",
+    "categories": "Dancing Toys, Kids Remote Control Car",
+    "company_name": "Shree Lalankrupa Enterprise",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "160",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_22.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_5.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_58.jpg"
+    ]
+  },
+  {
+    "id": "a9c055df-5d62-4cd4-87ca-76fd88339366",
+    "title": "Plastic Baby Toys, Child Age Group: 0-3 Yrs",
+    "location": "New Delhi, Delhi",
+    "description": "arora toys is manufacturer of finest superior and high quality toys in india&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;",
+    "categories": "Baby Toys, Kids Toys, Musical Toy",
+    "company_website": "https://www.aroratoys.com/",
+    "company_name": "Arora Toys",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "225",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_34.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_33.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_51.jpeg"
+    ]
+  },
+  {
+    "id": "5c7ea32d-b8a1-4b42-a997-402e9f9f7638",
+    "title": "Orange ABS Plastic Bear Wall Toy, Child Age Group: 4-6 Yrs",
+    "location": "Pune, Maharashtra",
+    "description": "Orange ABS Plastic Bear Wall Toy",
+    "categories": "Kids Toys, Kids Play Equipment",
+    "company_name": "Thought River Edutech Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "5100",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_23.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_9.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/toys_57.jpg"
+    ]
+  },
+  {
     "id": "855cb25a-0a82-4bf5-99e1-bf77c6db9254",
     "title": "Customised Rubber Product",
     "location": "Pune, Maharashtra",
