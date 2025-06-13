@@ -3,6 +3,181 @@ import {Seller} from '../models/seller.entity';
 export const Data: Seller[] = [
 
   {
+    "id": "70e30b96-4199-4af7-8614-557a20521325",
+    "title": "Asian Paints Royale",
+    "location": "Pune, Maharashtra",
+    "description": "Your trusted partner for high-quality paints and coatings. At Om Sai Paints, we pride ourselves on delivering exceptional products that meet the diverse needs of our customers.",
+    "categories": "Asian Emulsion Paints",
+    "company_name": "Om Sai Paints",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_51.jpg"
+    ]
+  },
+  {
+    "id": "9c895a36-2e1f-41f9-86b6-5570c8bbfacc",
+    "title": "Asian Paints Royale Luxury Emulsion Paint, Packaging Size: 20L",
+    "location": "Pune, Maharashtra",
+    "description": "Product Description:  Luxury is just a brushstroke away with Royale Luxury Emulsion. It&#8217;s the only paint emulsion in India equipped with Teflon surface protector which makes it easily washable and highly durable. It is a non-toxic, lead-free, low VOC and odourless paint that protects the walls from tough stains &amp; harmful bacteria.   Benefits  Here&#8217;s why Royale Luxury Emulsion is perfect for your home.   Anti-Fungal  Designed to prevent fungal growth on walls.   Anti-Bacterial  It offers a unique anti-bacterial shield that kills 99% of microorganisms.   Green Assure  The paint conforms to strict international environmental and safety standards.   Low Voc  Does not contain carcinogens, mutagens, or reproductive toxins.   How to apply  Step 01 : Primer  Royale Wall Base Coat 1   Step 02 : Putty  Acrylic Wall Putty 2 Coats   Step 03 : Primer  Royale Wall Base Coat 1   Step 04 : Top Coat  Royale Luxury Emulsion 2 Coats   Asian Paints Royale - For Extraordinary Homes  All homes are Nice but when it comes to homes, Nice is definitely not enough and this is what Asian Paints Royale stands for- &#8216;The quest for the extra-ordinary homes&#8217;. So don't live with Nice. Choose Extra-ordinary homes from Asian Paints Royale.   Asian Paints Safe Painting Service  Get end to end safe and hassle-free painting experience with Asian Paints Safe Painting Service. ",
+    "categories": "Asian Emulsion Paints, Emulsion Paints, Asian Paints Wall Putty",
+    "company_name": "Machine Tools Hardware And Appliances Co",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "10300",
+      "quantity": "Bucket"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_22.jpeg"
+    ]
+  },
+  {
+    "id": "773a4762-e393-42fe-a5f5-4b2982b4cf58",
+    "title": "20L Asian Paints Royale Glitz Luxury Emulsion, Packaging Size: 20 Ltr",
+    "location": "Pune, Maharashtra",
+    "description": " Asian paints royale glitz luxury emulsion is an ultra sheen interior paint which provides a rich luxurious finish to your walls. It also offers unmatched stain repellency to keep the walls beautiful. It provides luxury with teflon&trade; : combining the best of d&eacute;cor and performance worlds.  Stain RepellentIt prevents stain from sticking on the walls by not absorbing the stain.Low VOCDoes not contain carcinogens, mutagens, or reproductive toxins.Green AssureIt conforms to strict international environmental and safety standards.Anti-FungalDesigned to prevent fungal growth on walls.",
+    "categories": "Asian Emulsion Paints",
+    "company_name": "Akshay Hardware And Electricals",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "6700",
+      "quantity": "Bucket"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_54.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_32.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_12.webp"
+    ]
+  },
+  {
+    "id": "7dbde4fa-97f6-426b-a868-4faa250a613c",
+    "title": "1Ltr Asian Paints Royale Shyne Luxury Emulsion",
+    "location": "Pune, Maharashtra",
+    "description": "Product Description:-Asian Paints Royale Shyne Luxury Emulsion in a 1-litre pack is a premium, water-based interior wall finish celebrated for its rich, high-sheen finish that brings a luxurious and vibrant look to your interiors. This emulsion is formulated to offer not only exceptional aesthetics but also excellent washability and good durability, making it a perfect choice for those who desire a glossy, easy-to-maintain, and long-lasting wall finish.",
+    "categories": "Asian Emulsion Paints",
+    "company_name": "Shivrudra Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "879",
+      "quantity": "Litre"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_18.jpeg"
+    ]
+  },
+  {
+    "id": "f9f98f15-315c-4f0b-83ce-8c25bcbc027e",
+    "title": "Asian Paints Royale Glitz Luxury Emulsion Paint, 4 Litre",
+    "location": "Pune, Maharashtra",
+    "description": "Asian Paints Royale Glitz Luxury Emulsion is an Ultra Sheen interior paint which provides a rich luxurious finish to your walls. It also offers unmatched stain repellency to keep the walls beautiful. It provides Luxury with&nbsp;Teflon : Combining the best of d&eacute;cor and performance worlds. Benefits Here&rsquo;s why Royale Glitz Luxury Emulsion is perfect for your home.  Ultra Sheen for luxurious look Luxury with Teflon which makes the wall stain repellent Royale Designer Palette : 35 exclusive colours by Sabyasachi in Royale  Stain Repellent  It Prevents Stain From Sticking On The Walls By Not Absorbing The Stain.  Low Voc  Does Not Contain Carcinogens, Mutagens, Or Reproductive Toxins.  Green Assure  It Conforms To Strict International Environmental And Safety Standards.  &nbsp; Anti-fungal  Designed To Prevent Fungal Growth On Walls. ",
+    "categories": "Asian Emulsion Paints",
+    "company_name": "Raj Paints And Hardware",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "11230",
+      "quantity": "Bucket"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_48.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_3.jpg"
+    ]
+  },
+  {
+    "id": "8699cb4d-a8af-4059-8748-397d2448eabe",
+    "title": "Royal Shyne Luxury Emulsion Paints",
+    "location": "Pune, Maharashtra",
+    "description": "Luxury is just a brushstroke away with Royale Luxury Emulsion. It's&nbsp;the only paint emulsion in India equipped with Teflon surface protector which makes it easily washable and highly durable. It is a non-toxic, lead-free, low VOC and odourless paint that protects the walls from tough stains &amp; harmful bacteria.",
+    "categories": "Asian Emulsion Paints, Exterior Emulsion Paint",
+    "company_name": "Lotusleaf Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "11100",
+      "quantity": "Bucket"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_56.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_15.jpeg"
+    ]
+  },
+  {
+    "id": "9848bb30-20f3-44b5-86f0-a0bde268b86c",
+    "title": "Royale Luxury Emulsion, Packaging Size: 1 Ltr",
+    "location": "Pune, Maharashtra",
+    "description": "PrecautionsKindly Refer To The Msds For Asian Paints Royale Luxury Sheen Emulsion Which Gives Detailed Information On Safety Measures While Handling The Paint.Avoid Eye And Skin Contact. In Case Of Eye And Skin Contact, Wash With Plenty Of Clean Water.Do Not Inhale Or Ingest. In Case Of Inhalation Move To Fresh Air And Seek Medical Attention If Symptoms Persist In Both The Cases.Use Protective Equipments Like Rubber/polythene Gloves, Safety Goggles/glasses, Face Mask While Handling The Paint-this Is Required For All Paints.In High-humidity Areas, Use Of A Bio-wash Solution Is Recommended To Remove Surface Fungus Growth, Fungal Spores, Mould Etc. Before Application Of The Paint System.Do Not Apply When Ambient Temperature Is Less Than 10 C Or If The Temperature Might Drop To This Level Within 4 Hrs Of Application.Tinted Paints Need Thorough Shaking/mixing Immediately After Tinter Addition As Well As Before Use.OSafety And Environment FeaturesStore The Container With The Lid Tightly Closed In An Upright Position, In A Cool, Dry Place.Keep Out Of Reach Of Children And Away From Eatables.May Be Harmful If Swallowed. In Case Of Ingestion, Seek Immediate Medical Attention.Wear Eye Protection During Application. In Case Of Contact With Eyes, Rinse Immediately With Plenty Of Clean Water And Seek Medical Advice.In Case Of Skin Contact, Immediately Wash Skin With Soap And Plenty Of Clean Water. Get Medical Attention, If Irritation Develops Or Persists.Do Not Breathe Vapor Or Spray. It Is Recommended To Wear Mask During Sanding And Surface Preparation To Avoid Dust Inhalation.Do Not Pour Leftover Paint Down The Drain Or In Water Courses.In The Event Of Spills, Contain Spillage Using Sand Or Earth And Dispose Through Authorized Agency For Waste Management.No Added Mercury, Arsenic, Chromium &amp; Ammonia Compounds.Left-over Paint Disposal:- Left-over Paint/drums Should Not Be Disposed In Soil/drains. Consumer Should Consult A Local Recycling Agency For Disposal Of Paint/drums.- The Pails/drums Should Not Be Used For Storing Food Items.",
+    "categories": "Asian Emulsion Paints",
+    "company_name": "Mehta Traders",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "562",
+      "quantity": "Litre"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_7.jpeg"
+    ]
+  },
+  {
+    "id": "971e264e-5c3a-42e8-9c96-e8390a05ab61",
+    "title": "Asian Paints Ace Sparc, Packaging Size: 10 L",
+    "location": "Pune, Maharashtra",
+    "description": "A water based acrylic binder exterior emulsion which is suitable for moderately humid climatic conditions. Ace Sparc's weather guard properties resist chalking, cracking, and weathering as opposed to distempers &amp; cement paints. With this exterior paint, get plastic paint-like finish which lasts longer than distemper.",
+    "categories": "Asian Emulsion Paints, Exterior Emulsion Paint",
+    "company_name": "Hakimi Paints And Hardware",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "1200",
+      "quantity": "Bucket"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_8.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_29.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_11.webp"
+    ]
+  },
+  {
+    "id": "5e3c14ab-3ae6-428f-b17d-16fcaff1cf37",
+    "title": "Symbiotic Paints PROTEK, Packaging Size: 20 Ltr",
+    "location": "Pune, Maharashtra",
+    "description": "Symbiotic make Protek&nbsp; is a superior quality exterior paintwith excellent exterior durability, smooth finish &amp; modesh sheen to&nbsp;give your walls a beautiful finish. It protects your walls from tough&nbsp;weather conditions &amp; inhibits algal/fungal growth with good sunlight reflection.Properties :-7 years warranty , Heat reflective , Algae / fungal resistance , Dirt resistance , Moderate sheen , Silicone technology",
+    "categories": "Asian Emulsion Paints",
+    "company_website": "https://www.gopalpaints.com/",
+    "company_name": "Gopal Industrial Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "youtube_video": "http://youtu.be/RidBCg3SrD0",
+    "price": {
+      "amount": "375",
+      "quantity": "Litre"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_2.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_30.jpeg"
+    ]
+  },
+  {
+    "id": "09d2431f-2101-4168-bfe6-ffb1f4874f39",
+    "title": "Apcothane Cf 675 Paint, For Metal, 20 L",
+    "location": "Pune, Maharashtra",
+    "description": "&nbsp;Designed as a finish coat in epoxy/ polyurethane systems &bull; Excellent weather resistance in coastal and industrially polluted exposure conditions &bull; Excellent gloss and colour retention &bull; Excellent mechanical properties &bull; Easy application by brush and spra",
+    "categories": "Asian Emulsion Paints",
+    "company_name": "M P Sons Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "372",
+      "quantity": "Litre"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paint_royale_35.png"
+    ]
+  },
+  {
     "id": "2be01cb9-4c4d-416d-800f-a80d8670622b",
     "title": "Multicolor Wooden Education Learning Toy, 4-6 Yrs",
     "location": "Pune, Maharashtra",
