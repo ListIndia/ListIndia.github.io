@@ -3,6 +3,187 @@ import {Seller} from '../models/seller.entity';
 export const Data: Seller[] = [
 
   {
+    "id": "a155002a-a7aa-4b83-a661-e0c2a9ff048b",
+    "title": "Commercial Plywood Aaesthetic Space Enterprises Home Furniture",
+    "location": "Pune, Maharashtra",
+    "description": "Home furniture plays a pivotal role in shaping the ambiance, functionality, and comfort of living spaces. In India, the home furniture market has experienced significant growth, driven by factors such as urbanization, evolving consumer preferences, and advancements in technology",
+    "categories": "Home Furniture, Flat Interior Designing",
+    "company_name": "Aaesthetic Space Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "1100",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_50.jpg"
+    ]
+  },
+  {
+    "id": "01d6ccb8-3a9b-491d-9a8e-2d17aa515a7b",
+    "title": "Credible White Plywood Home Furniture, Size: 2100 X 600 X 2100 mm",
+    "location": "Pune, Maharashtra",
+    "description": "Category   Home Furniture Office Furniture  &nbsp;Specification/Additional Details   Materialplywood Brand18mm SizeL.2100 X D.600 X H.2100 Usage/ApplicationHome Colorwrite as per requirementyes  ",
+    "categories": "Home Furniture, Office Furniture",
+    "company_name": "Credible Fitments (OPC) Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "1260",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_1.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_30.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_14.jpg"
+    ]
+  },
+  {
+    "id": "96fb4704-1e79-4ff6-b161-c61a867660f3",
+    "title": "Wooden Home Flat Furniture",
+    "location": "Pune, Maharashtra",
+    "description": "We provide TV UNIT, WOODEN BED, WOODEN WARDROBE, SIDE TABLE, STUDY TABLE, MODULAR KITCHEN, SHOE RACK etc. all in all for 2BHK, 3BHK FLATS.",
+    "categories": "Home Furniture, Furniture",
+    "company_name": "S S Furniture",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "1250",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_34.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_49.jpg"
+    ]
+  },
+  {
+    "id": "59fc25f5-d835-4e62-ae6e-6fda0c8fe5c1",
+    "title": "Brown 2 Doors Wooden Laminated Wardrobe",
+    "location": "Pune, Maharashtra",
+    "description": "Manufacturing of all types of furniture in customize sizes   design&amp; color. Making in ply laminate , MDF &amp; prelam particle board. servicing in all over Pune",
+    "categories": "Home Furniture, Wooden Wardrobe",
+    "company_website": "https://www.shreemodularfurniture.com/",
+    "company_name": "Shree Modular Furniture And Interior",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "1300",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_55.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_68.webp",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_36.jpeg"
+    ]
+  },
+  {
+    "id": "34a811c0-3339-4814-a705-5886be30123b",
+    "title": "Plywood Merino Space Saving Home Furniture",
+    "location": "Pune, Maharashtra",
+    "description": "A desktop computer, laptop, monitor, keyboard, docking station, mouse, hard drive, USB, and headphones. Your mobile phone and/or landline. A power socket within easy reach, cables, chargers, and extension leads.",
+    "categories": "Home Furniture",
+    "company_name": "Raza Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "1200",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_20.jpg"
+    ]
+  },
+  {
+    "id": "2bc7c008-20d8-4907-8123-f91bbc915b5f",
+    "title": "Home Furniture",
+    "location": "Pune, Maharashtra",
+    "description": "We&nbsp;Mayra Kitchen Interiors&nbsp;Works Is The Leading&nbsp;Manufacturer, Trader, Retailer And&nbsp;Service Provider&nbsp;Of&nbsp;Acrylic Glass Modular Kitchen Designing Service, U Shape Modular Kitchen Designing Services, L Shaped Modular Kitchen Designing Services&nbsp;And Many More.We direct all our activities to cater the expectations of customers by providing them excellent quality products as per their gratification.&nbsp;",
+    "categories": "Home Furniture",
+    "company_name": "Mayra Kitchen Interiors",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "1200",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_27.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_45.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_39.jpeg"
+    ]
+  },
+  {
+    "id": "e503e6e5-1f64-4f8f-acf9-c9763eb0cb88",
+    "title": "Plywood Multicolor Home Furniture",
+    "location": "Pune, Maharashtra",
+    "description": "V3 INTERIOR DESIGNER&nbsp; We provide all types of Interior designing and Furniture works for Residential and Commercial clients to make your dream interior come true..We provide -1) Residential Full Interior Projects&nbsp;2) Commercial Spaces Interior Projects&nbsp;3) Space Planning and&nbsp; Furniture Arrangements&nbsp;4) Turn and Key solutions5) Custom designs, etc",
+    "categories": "Home Furniture, Modular Wardrobe",
+    "company_name": "V3 Interiors",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "1300",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_8.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_26.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_21.jpg"
+    ]
+  },
+  {
+    "id": "bc0cac7b-b7ae-425f-9e72-a781b3a332d6",
+    "title": "Modular Wooden Home Furniture",
+    "location": "Pune, Maharashtra",
+    "description": " Modular Home Furniture Developed to serve family and their needs with a user friendly standard designs Customised Colors&nbsp; ",
+    "categories": "Modular Furniture, Living Room Furniture, Home Furniture",
+    "company_website": "https://www.axiomindustriesindia.com/",
+    "company_name": "Axiom Industries",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "600000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_9.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_59.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_15.jpg"
+    ]
+  },
+  {
+    "id": "1ab2dfab-768c-4d4e-bc1c-3d3882979a0e",
+    "title": "Home Furniture",
+    "location": "Pune, Maharashtra",
+    "description": "Established in the year of&nbsp;2002, we ''P R Architect&nbsp;'' are leading ''Service Provider and Manufacturer&nbsp;'' of wide range of&nbsp;Interior Designing,&nbsp;Modular Kitchen,&nbsp;Interior Wood Work&nbsp;etc",
+    "categories": "Home Furniture, Interior Furniture",
+    "company_name": "P R Architect",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "1300",
+      "quantity": "sq ft"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_66.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_62.jpeg"
+    ]
+  },
+  {
+    "id": "0f2de0d0-81b0-492e-a9e1-e521ab470fdc",
+    "title": "Modular Wooden Home Furniture",
+    "location": "Pune, Maharashtra",
+    "description": "Sai Enterprises offers modular wooden home furniture, blending style and practicality. With customizable designs, high-quality wood, and efficient storage solutions, it enhances any living space with modern aesthetics and lasting durability.",
+    "categories": "Home Furniture, Wooden Furniture",
+    "company_name": "Sai Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_51.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/home_furniture_48.jpg"
+    ]
+  },
+  {
     "id": "a649136c-0821-49f0-a774-f9a380622aa7",
     "title": "School Stationery",
     "location": "Pune, Maharashtra",
