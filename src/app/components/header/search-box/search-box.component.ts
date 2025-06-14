@@ -35,6 +35,8 @@ export class SearchBoxComponent {
 
   onSubmit(event: Event): void {
     event.preventDefault();
+    this.searchTerm = this.searchTerm.trim();
+    if(this.searchTerm === '') return;
     this.router.navigate(['/search'], {
       queryParams: {
         location: this.selectedLocation,
