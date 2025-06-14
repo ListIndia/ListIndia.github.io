@@ -18,6 +18,20 @@ export const Data: Seller[] = [
     ]
   },
   {
+    "id": "listindia",
+    "title": "Post Your Ad Online",
+    "location": "India",
+    "description": "Your competitors are already on ListIndia. Why wait? List your business now at www.ListIndia.me and start attracting buyers across India",
+    "categories": "Online Platform",
+    "company_website": "https://www.listindia.me",
+    "company_name": "ListIndia",
+    "gst_verified": true,
+    "images": [
+      "home-banner.png",
+      "ListIndia%20Flyer.jpg"
+    ]
+  },
+  {
     "id": "06c355f2-6e2b-4b82-aefc-64b7f52d4745",
     "title": "Turning Lathe Job Work Services",
     "location": "Pune, Maharashtra",
