@@ -3,6 +3,7 @@ import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { v4 as uuidv4 } from 'uuid';
 import {Seller} from '../../shared/models/seller.entity';
+import {environment} from '../../shared/environment';
 
 @Component({
   selector: 'app-seller-form',
@@ -16,6 +17,7 @@ export class SellerFormComponent {
     price: { amount: '', quantity: '' },
     images: []
   };
+  secretKey = environment.secretKey
 
   imageInput = '';
   customKey = '';
@@ -56,6 +58,13 @@ export class SellerFormComponent {
     alert('Copied to clipboard!');
   }
 
+// Add this method to your component
+  xorEncode(input: string, key: string): string {
+    return btoa([...input].map((c, i) =>
+      String.fromCharCode(c.charCodeAt(0) ^ key.charCodeAt(i % key.length))
+    ).join(''));
+  }
+
   copyFinalObject() {
     const finalObject: any = {
       id: this.seller.id,
@@ -64,8 +73,13 @@ export class SellerFormComponent {
 
     for (const field of this.mainFields) {
       const val = this.seller[field];
+
       if (field === 'price' && val.amount && val.quantity) {
         finalObject.price = val;
+      } else if (field === 'contact_number' && val) {
+        // ✅ Encode contact_number
+        const secretKey = this.secretKey; // Replace with your secure key
+        finalObject.contact_number = this.xorEncode(val, secretKey);
       } else if (field !== 'price' && field !== 'images' && val !== undefined && val !== '') {
         finalObject[field] = val;
       }
