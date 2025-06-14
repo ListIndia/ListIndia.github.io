@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build && cp docs/index.html docs/404.html && cp CNAME docs/CNAME && cp sitemap.xml docs/",
+    "build": "ng build && cp docs/index.html docs/404.html && cp CNAME docs/CNAME",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
