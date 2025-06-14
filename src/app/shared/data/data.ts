@@ -3,6 +3,180 @@ import {Seller} from '../models/seller.entity';
 export const Data: Seller[] = [
 
   {
+    "id": "2eb11c43-775a-4199-abd6-ef70dd2ef282",
+    "title": "CARPENTER KIT, Size: 16\"",
+    "location": "Pune, Maharashtra",
+    "description": "1pc Claw Hammer steel shaft 220gms-8\" 1pc Short Tape rules 5m/16' x 19mm 1pc Wood Chisel set, 3 pcs 1pc 9&rdquo; Torpedo Level 1pc Retractable utility knife, 156mm 1pc 300mm met diecast comb square 1pc 12.5'' toolbox metal latch",
+    "categories": "Plumbing Tools, Carpenter Tools",
+    "company_name": "Buraq International",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "3733",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_1.jpg"
+    ]
+  },
+  {
+    "id": "5c17aa3c-3438-4d73-9403-688b9823af98",
+    "title": "Mild Steel Carpenter Tools Kit",
+    "location": "Pune, Maharashtra",
+    "description": "Top-Quality Carpenter Tools &ndash; Only at Taher Hardware Store\"Discover precision, durability, and reliability with our premium range of carpenter tools at Taher Hardware Store. Whether you're a seasoned professional or a passionate DIYer, we offer a wide selection of hammers, saws, chisels, measuring tapes, levels, and more",
+    "categories": "Carpenter Tools, Woodworking Tools",
+    "company_name": "Taher Hardware Stores",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "10000",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_20.png"
+    ]
+  },
+  {
+    "id": "5395b042-1f2f-4a75-a151-4034eac78b5f",
+    "title": "Stainless Steel Stanley Carpenter Kit, For Workshop, Packaging: Case",
+    "location": "Pune, Maharashtra",
+    "description": "1pc Claw Hammer steel shaft 220gms-8\" 1pc Short Tape rules 5m/16' x 19mm 1pc Wood Chisel set, 3 pcs 1pc 9&rdquo; Torpedo Level 1pc Retractable utility knife, 156mm 1pc 300mm met diecast comb square 1pc 12.5'' toolbox metal latch",
+    "categories": "Stanley Tool Kit",
+    "company_website": "https://www.3sengineeringcorporation.com/",
+    "company_name": "3S Engineering Corporation",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "3870",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_48.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_21.jpg"
+    ]
+  },
+  {
+    "id": "8d2638e2-0ece-48e8-be0c-ee01a51a924c",
+    "title": "Carpenter Suthar Toolkit",
+    "location": "Jalandhar, Punjab",
+    "description": "A Carpenter (Suthar) Toolkit consists of the essential tools used by carpenters, also known as \"Suthars\" in some cultures, for woodworking tasks such as cutting, shaping, and assembling wood. These tools enable the creation of furniture, structures, and intricate woodcrafts. Here's a brief overview of the key components of a carpenter's toolkit: 1. Saws   Hand Saw: Used for cutting wood into different shapes and sizes. Circular Saw: Power saw for making straight cuts in larger pieces of wood. Jigsaw: For making curved cuts in wood. Coping Saw: Ideal for intricate, detailed cuts, especially in molding and trim.  2. Hammers &amp; Mallets   Claw Hammer: Commonly used to drive nails into wood, with one side for driving and the other for pulling nails. Wooden Mallet: Used for striking chisels or other tools without damaging the surface of the wood.  3. Chisels &amp; Gouges   Wood Chisels: Used for carving, shaping, and fine-tuning wood joints and edges. Gouges: Larger carving tools for deeper cuts or curved surfaces.  4. Planes   Hand Plane: Used for smoothing and leveling wood surfaces. Block Plane: A smaller plane used for trimming edges or fine finishing work.  5. Measuring &amp; Marking Tools   Tape Measure: For taking accurate measurements of wood and other materials. Ruler &amp; Square: A square is essential for ensuring right angles when cutting or assembling. Calipers: For measuring thickness or diameter of wood with high precision. Marking Gauge: Used to mark consistent lines for cutting or shaping.  6. Screwdrivers &amp; Fastening Tools   Screwdrivers: For driving screws into wood during assembly or fastening. Power Drill: A versatile tool for drilling holes and driving screws. Nail Puller: A tool used for extracting nails.  7. Clamps   Bar Clamps &amp; C-Clamps: Used to hold wood securely in place during cutting, gluing, or assembling. Spring Clamps: Small, spring-loaded clamps used for quick, light clamping tasks.  8. Levels   Spirit Level: Ensures that surfaces or structures are perfectly horizontal or vertical. Laser Level: Advanced tool used for accurate leveling and alignment over long distances.  9. Saw Horses &amp; Workbenches   Saw Horses: Portable stands used for supporting wood during cutting or assembly. Workbench: A sturdy table where carpentry tasks are performed, often with built-in clamps and storage.  10. Files &amp; Rasps   Files: Used to smooth rough edges or shape wood for fine detailing. Rasps: Coarser tools used for shaping wood or smoothing rough surfaces.  11. Wood Glue &amp; Adhesives   Wood Glue: Used for bonding wood pieces together before nailing or screwing. Adhesive Applicator: For applying glue or other adhesives with precision.  12. Safety Gear   Safety Glasses: Protects eyes from flying debris or dust. Dust Mask: Used to prevent inhalation of wood dust when cutting or sanding. Work Gloves: Protects hands from splinters and sharp tools. Ear Protection: Necessary when using power tools like saws or drills.  &nbsp;",
+    "categories": "Carpenter Tools",
+    "company_name": "Royal International",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "youtube_video": "https://youtu.be/4zgmZshWzRw",
+    "price": {
+      "amount": "999",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_14.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_4.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_34.jpg"
+    ]
+  },
+  {
+    "id": "cd20bd8a-fa02-40f4-8d9e-0e286d6a9431",
+    "title": "Wooden Hand Planes",
+    "location": "Pune, Maharashtra",
+    "description": "Wooden Hand Planes",
+    "categories": "Carpenter Tools",
+    "company_name": "Jay Shree Hardware Electrical And Tools",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "100",
+      "quantity": "Unit"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_7.jpg"
+    ]
+  },
+  {
+    "id": "f9e70262-25e7-415c-b6ff-805cce0f93fb",
+    "title": "Carpenter Pincer",
+    "location": "Pune, Maharashtra",
+    "description": "A Carpenter&rsquo;s Pincer is a useful tool when applying mechanical leverage to nails, or even for cutting objects and removing them from another material. You can buy Pincers online from us in all standard sizes, available from reputed brands like Wilson and more.",
+    "categories": "Carpenter Pincer",
+    "company_name": "Metro Tubing Company",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_3.jpg"
+    ]
+  },
+  {
+    "id": "b7590899-e311-4f03-a03b-5c1c1054a21b",
+    "title": "Carpenter Tools",
+    "location": "Pune, Maharashtra",
+    "description": "Carpenter Tools",
+    "categories": "Carpenter Tools",
+    "company_name": "Total Impex",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "youtube_video": "http://www.youtube.com/watch?v=Z8gG9VtNXTc",
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_31.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_24.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_10.jpg"
+    ]
+  },
+  {
+    "id": "766da3ac-c9bc-47dc-9494-04926b6c7e4f",
+    "title": "KTC 12 Inches Carpenter Try Square Heavy Good Quality",
+    "location": "Jalandhar, Punjab",
+    "description": "Carpenter Try Square (Heavy Duty, Good Quality) is a robust and highly accurate tool designed specifically for use in carpentry and woodworking. It is primarily used for checking and ensuring right angles (90-degree angles) when marking, cutting, or assembling wood or other materials. The \"heavy duty\" and \"good quality\" features emphasize its durability, precision, and ability to withstand the rigors of frequent use in professional carpentry and woodworking environments.",
+    "categories": "Carpenter Tools, Try Square",
+    "company_website": "https://www.ktctoolsindia.com/",
+    "company_name": "Kundan Trading Company",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "120",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_19.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_6.jpg"
+    ]
+  },
+  {
+    "id": "ad34620e-7159-4d1c-9288-f0e719cab77b",
+    "title": "Mild Steel Carpenter Tools Kit, Size: Standard",
+    "location": "New Delhi, Delhi",
+    "description": "All kind of tool kits are available for skill and vocational training .All these tool kits are available in bulk quantity .&nbsp;",
+    "categories": "Carpenter Tools, Vocational Training",
+    "company_website": "https://www.itiinstruments.com/",
+    "company_name": "Rama Electric & Machinery Store",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "9500",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_11.jpg"
+    ]
+  },
+  {
+    "id": "059b1a73-777f-45d4-8571-33f14d0c539b",
+    "title": "Kristeel Stainless Steel Precision Engineers Kit, For Workshops,Industrial Use, Warranty: 1 Year",
+    "location": "Mumbai, Maharashtra",
+    "description": "The Precision Engineers Kit includes handsomely packed 8 precision gauges namely - 2pc combination try & meter square, bore gauge, universal gauge, degree protractor-cum depth gauge, screw cutting gauge, radius gauge, round wire gauge and caliper gauge. The kit serves every purpose of tool room / workshop operations, right from measuring/marking thickness, angles, depth, radius, length, bore, level, diameters etc.",
+    "categories": "Tool Kits, Combination Tools Kit",
+    "company_name": "Kristeel-Shinwa Industries Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "2290",
+      "quantity": "Set"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_27.png",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_41.jpg"
+    ]
+  },
+  {
     "id": "8edb005f-cdc0-41d1-a0af-35e2fc589590",
     "title": "Extra Large Jaipuri Cotton Gown Kurtis, Designer",
     "location": "Pune, Maharashtra",
