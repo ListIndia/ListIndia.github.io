@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build && cp docs/index.html docs/404.html && cp CNAME docs/CNAME",
+    "build": "sitemap-generator https://www.listindia.me --filepath ./docs/sitemap.xml && ng build && cp docs/index.html docs/404.html && cp CNAME docs/CNAME",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
