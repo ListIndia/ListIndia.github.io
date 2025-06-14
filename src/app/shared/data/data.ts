@@ -3,6 +3,188 @@ import {Seller} from '../models/seller.entity';
 export const Data: Seller[] = [
 
   {
+    "id": "8edb005f-cdc0-41d1-a0af-35e2fc589590",
+    "title": "Extra Large Jaipuri Cotton Gown Kurtis, Designer",
+    "location": "Pune, Maharashtra",
+    "description": "Jaipur Cotton Gown Kurtis&nbsp;Neck Embroidery work3/4 Sleeves&nbsp;AnrakaliSize - M to XXl&nbsp;Wash care - Dry CleanMade in India&nbsp;",
+    "categories": "Jaipuri Cotton Kurti, One Piece Dress, Jaipuri Kurtis",
+    "company_name": "Agarwal Creation Fashions Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "youtube_video": "http://youtu.be/E8W5dYHcuxI",
+    "price": {
+      "amount": "490",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_23.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_18.jpeg"
+    ]
+  },
+  {
+    "id": "9141875e-efe2-494c-aa96-3283b40a05e9",
+    "title": "Medium Casual Wear Printed Cotton Kurti",
+    "location": "Pune, Maharashtra",
+    "description": "&nbsp;we &ldquo;Vastrarth Private Limited&rdquo; are a leading Manufacturer and Wholesaler, of a wide range of quality product Kids Organic Cotton Clothing etc.",
+    "categories": "Printed Cotton Kurti",
+    "company_name": "Vastrarth Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "450",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_6.jpg"
+    ]
+  },
+  {
+    "id": "de9c6c1b-b03c-4b11-92c0-05023db6037e",
+    "title": "Ladies Chanderi Kurti",
+    "location": "Pune, Maharashtra",
+    "description": "Offering you a complete choice of products which include Women Readymade Dresses, Ladies Fancy Kurti, Chanderi Kurtis and Jaipuri Cotton Kurti.",
+    "categories": "Casual Ladies Kurtis, Ladies Kurti, Chanderi Cotton Kurti",
+    "company_name": "K M C Fashion",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_20.jpg"
+    ]
+  },
+  {
+    "id": "912f88c9-299c-4b8b-837b-042a7c66ce88",
+    "title": "Ladies Designer Kurti",
+    "location": "Pune, Maharashtra",
+    "description": "Designer Kurtis Wholesale",
+    "categories": "Designer Kurtis, Ladies Kurti, Party Wear Kurti",
+    "company_website": "https://www.pankhfashion.in/",
+    "company_name": "Pankh Fashions Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "450",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_24.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_28.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_16.jpeg"
+    ]
+  },
+  {
+    "id": "a1dbb647-955e-418e-8d1f-e41f221cd0e5",
+    "title": "Medium Cotton Kurti, Fancy",
+    "location": "Pune, Maharashtra",
+    "description": "We are engaged in offering Cotton Kurti&nbsp;to our clients. Our range of all products is widely appreciated by our clients.",
+    "categories": "Plain Cotton Kurti, Jaipuri Cotton Kurti",
+    "company_website": "https://www.shivamgarments.in/",
+    "company_name": "Shivam",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "200",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_22.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_36.jpg"
+    ]
+  },
+  {
+    "id": "5bc6272f-2162-4d72-a134-28f9d18d37b2",
+    "title": "Full Sleeve Stand Collar Rayon Front Cut Kurti",
+    "location": "Ahmedabad, Gujarat",
+    "description": "We are offering Rayon Front Cut Kurti.Rayon Straight Cut Kurti With Hand Work ButtaSize 40 42 44",
+    "categories": "Rayon Printed Kurti, Designer Kurtis",
+    "company_website": "https://www.mplusladieswear.com/",
+    "company_name": "Veer Creations",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "870",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_25.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_4.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_9.jpeg"
+    ]
+  },
+  {
+    "id": "8ed04eea-c9f8-46f5-a26a-adde4fc7aac3",
+    "title": "Rayon Chickankari Short Kurti",
+    "location": "Ahmedabad, Gujarat",
+    "description": " Ladies Rayon Short Kurti Established as a&nbsp;Proprietor&nbsp;firm in the year&nbsp;2017,&nbsp;we&nbsp;&ldquo;Nirali Selection&rdquo;&nbsp;are a leading&nbsp;Manufacturer&nbsp;and&nbsp;Wholesale Trader&nbsp;of a wide range of&nbsp;Dress Material, Ladies Palazzo, Kurti Pant Set,&nbsp;etc. ",
+    "categories": "Short Kurtis, Chikan Kurtis, Designer Kurtis",
+    "company_website": "https://www.niraliselection.in/",
+    "company_name": "Nirali Selection",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_3.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_34.jpg"
+    ]
+  },
+  {
+    "id": "5b7ff455-ebc7-477e-a7ec-4f6fc8e575ae",
+    "title": "Jaipur Cotton Kurti, Party Wear",
+    "location": "Ahmedabad, Gujarat",
+    "description": "Premium Quality Jaipur Cambric Cotton Straight Cut Kurti Nexk Hand Work Tie Beautiful Print Dark Colour",
+    "categories": "Party Wear Kurti, Printed Cotton Kurti, Jaipuri Kurtis",
+    "company_website": "https://www.bijaleekurtis.com/",
+    "company_name": "Bijalee",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "395",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_7.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_14.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_1.jpg"
+    ]
+  },
+  {
+    "id": "ece2413f-5c46-45a3-8857-a299ac5843d2",
+    "title": "Designer Cotton Kurtis",
+    "location": "Jaipur, Rajasthan",
+    "description": "We Ganpati Handicrafts Are Jaipur Based of Garment Manufacture CompanyGanpati Handicrafts brings you an exclusive collection of Kurties, Wrap skirt, Jaipuri Frock, Skirt that will make you stand out from the rest,Our beautifully designed Collection are perfect for any occasion, whether you're dressing up for a party or simply want to look your best for a day at work",
+    "categories": "Designer Kurtis, Printed Cotton Kurti, Jaipuri Kurtis",
+    "company_website": "https://www.ganpatihandicrafts.com/",
+    "company_name": "Ganpati Handicrafts",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "140",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_12.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_5.jpg"
+    ]
+  },
+  {
+    "id": "eb6eb4b2-deec-4ca1-aa81-740f6004ac0c",
+    "title": "XS-7XL Indigo Short Kurti, Printed",
+    "location": "Jaipur, Rajasthan",
+    "description": "If You Are Fan Of Modern And Trendy Design Yet You Need A Ethnic Touch To Your Wardrobe Then This Stylish Piece From Divena Is The Right Choice For You. It Has Round Neck And Short Sleeves, Favorite With College Going Girls And Office Goers. Team It Up With Your Favorite Denims And Mojris Or Even Sneakers For That Funky Trendy Look.",
+    "categories": "Printed Cotton Kurti, Designer Kurtis, Short Kurtis",
+    "company_website": "https://www.divenaglobal.com/",
+    "company_name": "Dudani Retail (P) Ltd.",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "495",
+      "quantity": "Piece"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_10.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_26.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/women_kurti_27.jpg"
+    ]
+  },
+  {
     "id": "743872e1-7dda-42e9-8ad6-bac5c4653d42",
     "title": "Aluminium Welding Services",
     "location": "Pune, Maharashtra",
