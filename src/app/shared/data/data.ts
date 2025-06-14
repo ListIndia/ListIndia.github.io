@@ -1,6 +1,179 @@
 import {Seller} from '../models/seller.entity';
 
 export const Data: Seller[] = [
+
+  {
+    "id": "743872e1-7dda-42e9-8ad6-bac5c4653d42",
+    "title": "Aluminium Welding Services",
+    "location": "Pune, Maharashtra",
+    "description": "Aluminum welding is&nbsp;a fabrication process that uses heat and pressure to join two components made from aluminum or aluminum-based alloys. Compared to welded assemblies made from other materials, such as steel, welded aluminum assemblies do not demonstrate the same level of strength as their parent materials.",
+    "categories": "Aluminum Welding Services, TIG Welding Services, Casting Service",
+    "company_website": "https://www.sudarshanenterprisespune.in/",
+    "company_name": "Sudarshan Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "youtube_video": "http://www.youtube.com/watch?v=8ufNc7rg0Z8&feature=youtu.be",
+    "price": {
+      "amount": "700",
+      "quantity": "Meter"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_36.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_41.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_16.jpg"
+    ]
+  },
+  {
+    "id": "61d22009-2dd5-4b6e-9db8-3980babfe7cd",
+    "title": "Aluminum Welding Services",
+    "location": "Pune, Maharashtra",
+    "description": "Our Aluminum Welding Services offer precision and durability for all your welding needs. Utilizing advanced techniques and high-quality materials, we ensure strong, reliable welds that stand the test of time. Whether for industrial applications or custom projects, our skilled technicians deliver exceptional craftsmanship tailored to your specifications. Trust us to enhance your projects with our expertise in aluminum welding, providing you with results that exceed expectations.",
+    "categories": "Aluminum Welding Services",
+    "company_website": "https://www.techsupportcnc.in/",
+    "company_name": "Tech Support I&E",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "100",
+      "quantity": "Day"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_28.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_49.jpeg"
+    ]
+  },
+  {
+    "id": "b3d26fce-f9e9-48e1-90ad-7a077abe8e74",
+    "title": "Aluminium Laser Welding Service",
+    "location": "Pune, Maharashtra",
+    "description": "We are a unique entity in the industry, actively committed towards offering an optimum quality Glass Aluminium Laser Welding Service",
+    "categories": "Aluminum Welding Services",
+    "company_name": "GPS Enterprises",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_27.jpeg"
+    ]
+  },
+  {
+    "id": "0a3eedef-ba14-48b0-ba79-7f38b1ba890a",
+    "title": "Aluminum Welding Services",
+    "location": "Pune, Maharashtra",
+    "description": "Key Features:   Lightweight yet Strong Structure Made with high-grade aluminium, offering excellent strength-to-weight ratio&mdash;ideal for easy installation and long-lasting performance.   Corrosion Resistance Aluminium construction resists rust and environmental wear, making it suitable for both indoor and outdoor public transport areas.   Low Maintenance and Smooth Operation Engineered for continuous, reliable operation with minimal upkeep&mdash;ensures smooth, quiet movement of passengers and goods.  ",
+    "categories": "Aluminum Welding Services",
+    "company_name": "Kenzo Engineering Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_25.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_17.jpg"
+    ]
+  },
+  {
+    "id": "b3704fb6-891f-4998-8b37-4bdd7c0a79ad",
+    "title": "Aluminum Welding Services",
+    "location": "Pune, Maharashtra",
+    "description": "Highly admired by consumers, our firm&nbsp;SV Tech Engineering Consultants Pvt. Ltd.&nbsp;is continuously meeting various needs and requirements of consumers by offering highly reliable services. Our firm is leading trader and service provider of&nbsp;Consultancy Service, Testing Service, Third Party Inspection Service&nbsp;and&nbsp;NDT Consumables Service.&nbsp;Our service range comprises of&nbsp;ASME Stamp Consultancy Service, Welding Consultancy Service, Dye Penetrate Testing Service, Magnetic Particle Testing Service, Laboratory Material Testing Service, Ultrasonic Testing Service&nbsp;and several others. Professionals work in close harmony with each other to bring better solution for consumers.",
+    "categories": "Aluminum Welding Services",
+    "company_website": "https://www.svtechmetalabndt.in/",
+    "company_name": "Sv Tech Engineering Consultants Pvt. Ltd.",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_38.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_15.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_2.jpg"
+    ]
+  },
+  {
+    "id": "5c3c654a-e3ee-4986-bb3f-5cab7c9d87b4",
+    "title": "Aluminium Welding",
+    "location": "Pune, Maharashtra",
+    "description": "We do the welding work for aluminium only (ie) argaon welding.",
+    "categories": "Aluminum Welding Services, Welding Services",
+    "company_name": "Agarwal Metals",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "650",
+      "quantity": "Day"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_8.jpg"
+    ]
+  },
+  {
+    "id": "d0eeb93b-65da-4da7-8b37-24bdf7838c9b",
+    "title": "Aluminum Welding Services",
+    "location": "Pune, Maharashtra",
+    "description": "Aluminum welding services involve specialized techniques to join aluminum components for various industries, including automotive, aerospace, construction, and manufacturing. Since aluminum has a lower melting point and higher thermal conductivity compared to steel, expert handling is required to ensure strong, defect-free welds.",
+    "categories": "Aluminum Welding Services",
+    "company_name": "Sana Engineering",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "200",
+      "quantity": "Meter"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_42.jpeg"
+    ]
+  },
+  {
+    "id": "05a22d27-79c2-4c76-a48d-3bb794504555",
+    "title": "Aluminum Welding Services",
+    "location": "Pune, Maharashtra",
+    "description": "Our organization is offering a large array of&nbsp;Aluminum Welding Services to our valued clients. These presented printing services are rendered as per industry standards ",
+    "categories": "Aluminum Welding Services, Welding Services",
+    "company_name": "Auratech Engineering",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "200",
+      "quantity": "Meter"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_1.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_40.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_33.jpg"
+    ]
+  },
+  {
+    "id": "9d11f7da-0f73-4c4b-b6c9-f08da86c98da",
+    "title": "Aluminum Welding Service",
+    "location": "Pune, Maharashtra",
+    "description": "We offer high speed Welding services of thin sheet Alunium welding, Stainless steel Welding, GI welding etc. For Radiators, Battery Box, Aluminium pipes etc.",
+    "categories": "Aluminum Welding Services, Laser Welding Service",
+    "company_name": "Synopsis India",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "350",
+      "quantity": "Meter"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_24.jpg"
+    ]
+  },
+  {
+    "id": "54c6d1b3-9540-47d1-8aab-6d3771576445",
+    "title": "Aluminium Welding Services",
+    "location": "Pune, Maharashtra",
+    "description": "Aluminum welding services refer to the professional process of joining aluminum parts or components using welding techniques. Aluminum is a lightweight, corrosion-resistant material commonly used in various industries, including aerospace, automotive, construction, and manufacturing.",
+    "categories": "Aluminum Welding Services, Aluminum TIG Welding Service",
+    "company_name": "Om Sai Industries",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "800",
+      "quantity": "Day"
+    },
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_18.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_50.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/aluminium_welding_13.png"
+    ]
+  },
   {
     "id": "a7799c2e-af76-4e85-8ad4-38236ad9a765",
     "title": "Stainless Steel lathe turning job work services",
