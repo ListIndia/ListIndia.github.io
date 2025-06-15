@@ -1,0 +1,95 @@
+{
+  "configVersion": 1,
+  "timestamp": 1749990104647,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-JYHQ722T.js",
+        "/manifest.webmanifest",
+        "/polyfills-B6TNHZQ6.js",
+        "/scripts-Z6VWI63P.js",
+        "/styles-UYXU6UFG.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/ListIndia Flyer.jpg",
+        "/favicon.png",
+        "/home-banner.png",
+        "/icons/icon-128x128.png",
+        "/icons/icon-144x144.png",
+        "/icons/icon-152x152.png",
+        "/icons/icon-192x192.png",
+        "/icons/icon-384x384.png",
+        "/icons/icon-512x512.png",
+        "/icons/icon-72x72.png",
+        "/icons/icon-96x96.png",
+        "/listIndia.svg",
+        "/media/bootstrap-icons-CVBWLLHT.woff2",
+        "/media/bootstrap-icons-VQNJTM6Q.woff",
+        "/no-image-provided.webp"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/ListIndia Flyer.jpg": "fd419ac013f56b8607b267a21dffa37dbe919049",
+    "/favicon.ico": "48886d787d582bb8892eadda9b96997e58135a04",
+    "/favicon.png": "194bfea1aa33466202246840aa4806cf2d0a3fe1",
+    "/home-banner.png": "48f9113c1bcbc45b65023477d50893ff47747255",
+    "/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/index.html": "36321e6bbc92f2f59d7584de942abc021a170bd7",
+    "/listIndia.svg": "10fa981bdff1b595e15a4d97c9f72a0162476155",
+    "/main-JYHQ722T.js": "c513a4a7eac99a2496d087eafcb378377af03c3a",
+    "/manifest.webmanifest": "6d5bbd649bf09d1e1f1115b4aaaaa797d7b1c4ca",
+    "/media/bootstrap-icons-CVBWLLHT.woff2": "b441fcff939e24fa0906a37b7788788b9fddbb68",
+    "/media/bootstrap-icons-VQNJTM6Q.woff": "762010c79b4a05e1131fc8fb3b1aeff324d8033f",
+    "/no-image-provided.webp": "ffba3c8d4b4c9b636b0d8e401e148013730d71cf",
+    "/polyfills-B6TNHZQ6.js": "bf76ac291d7f51c1139b7edcf86b359a30c08c64",
+    "/scripts-Z6VWI63P.js": "81c418e17d9de2f8f2de8a2c80cee089a946054e",
+    "/styles-UYXU6UFG.css": "75ebf07050c1d875e422a6cfd93d303f288ade93"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
